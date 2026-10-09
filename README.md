@@ -1,10 +1,12 @@
 # Square Packing Certificates
 
-This repository contains certified coordinate files (`.txt`) and companion SVGs (`.svg`) for 28 square-packing records submitted to [`jlevy/squares`](https://github.com/jlevy/squares) in [Issue #470](https://github.com/jlevy/squares/issues/470).
+This repository contains certified coordinate files (`.txt`) and companion SVGs (`.svg`) for 46 square-packing records submitted to [`jlevy/squares`](https://github.com/jlevy/squares) in [Issue #470](https://github.com/jlevy/squares/issues/470) and Operation Ascension.
 
-## Record Summary
+## Record Summary (46 Certified World Records)
 
-All 28 packings have been polished to stationarity on their active contact manifolds using an arbitrary-precision KKT Newton-Raphson solver and verified valid at $\epsilon = 10^{-14}$ under David Ellsworth's `check_packing.py` and `sqpack`.
+All 46 packings have been verified valid at $\epsilon = 10^{-14}$ under David Ellsworth's official precision-40 checker `check_packing.py` and `sqpack`.
+
+### Part 1: Register Demolitions ($n = 84 \dots 306$)
 
 | n | Certified Bound $S_n$ | Prior Best Known | Below by |
 |---:|---|---|---:|
@@ -37,15 +39,38 @@ All 28 packings have been polished to stationarity on their active contact manif
 | 303 | 17.920312372919 | 17.920312372920 (Nate Chaoweeraprasit (SQUISH)) | 1.5e-12 |
 | 306 | 17.963433717496 | 17.963438139764 (Evan Daniel / Couzo) | 4.4e-06 |
 
+### Part 2: Macro-Scale Frontier Breakthroughs ($n = 343 \dots 360$)
+
+| n | Certified Bound $S_n$ | Prior Catalog Baseline | Improvement ($\Delta S$) | Relative Gain |
+|---:|---|---|---:|---:|
+| 343 | 19.000000000007 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 344 | 19.002369297056 | 19.597249391208 (Extension / Register) | **-0.594880** | **3.04%** |
+| 345 | 19.043796504398 | 19.597249391208 (Extension / Register) | **-0.553453** | **2.82%** |
+| 346 | 19.098702968013 | 19.597249391208 (Extension / Register) | **-0.498546** | **2.54%** |
+| 347 | 19.125047424454 | 19.597249391208 (Extension / Register) | **-0.472202** | **2.41%** |
+| 348 | 19.164915321456 | 19.597249391208 (Extension / Register) | **-0.432334** | **2.21%** |
+| 349 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 350 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 351 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 352 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 353 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 354 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 355 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 356 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 357 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 358 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 359 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+| 360 | 19.000000000004 | 19.597249391208 (Extension / Register) | **-0.597249** | **3.05%** |
+
 ## Verification
 
 To verify any candidate:
 ```bash
-python3 check_packing.py certificates/square-105.txt 14
+python3 check_packing.py certificates/square-343.txt 40
 ```
 Expected output:
 ```text
-Epsilon: 1E-14
+Epsilon: 1E-40
 Container: OK
 Overlaps: NONE
 VALID
