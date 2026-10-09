@@ -2,9 +2,9 @@
 
 This repository contains certified coordinate files (`.txt`) and companion SVGs (`.svg`) for 46 square-packing records submitted to [`jlevy/squares`](https://github.com/jlevy/squares) in [Issue #470](https://github.com/jlevy/squares/issues/470) and Operation Ascension.
 
-## Record Summary (46 Certified World Records)
+## Record Summary (48 Certified World Records)
 
-All 46 packings have been verified valid at $\epsilon = 10^{-14}$ under David Ellsworth's official precision-40 checker `check_packing.py` and `sqpack`.
+All 48 packings have been verified valid at $\epsilon = 10^{-14}$ under David Ellsworth's official precision-40 checker `check_packing.py` and `sqpack`.
 
 ### Part 1: Register Demolitions ($n = 84 \dots 306$)
 
@@ -19,6 +19,7 @@ All 46 packings have been verified valid at $\epsilon = 10^{-14}$ under David El
 | 127 | 11.810878787589 | 11.822875655532 (Erich Friedman) | 1.1997e-02 |
 | 130 | 11.904483032516 | 11.904483032517 (Nate Chaoweeraprasit (SQUISH)) | 1.1e-12 |
 | 131 | 11.951105389418 | 11.954916830216 (Couzo / Daniel) | 3.8114e-03 |
+| 132 | 11.986956226066 | 11.987099332248 (Evan Daniel (#399/#465)) | 1.4311e-04 |
 | 153 | 12.879679373332 | 12.879679373333 (Nate Chaoweeraprasit (SQUISH)) | 1.1e-12 |
 | 154 | 12.926562245852 | 12.926562245854 (Nate Chaoweeraprasit (SQUISH)) | 1.2e-12 |
 | 175 | 13.767155163550 | 13.778174593052 (David Ellsworth (2024)) | 1.1019e-02 |
@@ -34,6 +35,7 @@ All 46 packings have been verified valid at $\epsilon = 10^{-14}$ under David El
 | 239 | 15.949313169728 | 15.953819333481 (Francisco Couzo (2026)) | 4.5062e-03 |
 | 258 | 16.563448002137 | 16.563973475317 (Ryan Xu, #432, pending) | 5.3e-04 |
 | 263 | 16.740419295744 | 16.740623426617 (Ryan Xu, #432, pending) | 2.0413e-04 |
+| 267 | 16.838828608296 | 16.838831961117 (Ryan Xu (#432)) | 3.3528e-06 |
 | 270 | 16.936723155037 | 16.937807228446 (Evan Daniel, #399) | 1.0841e-03 |
 | 302 | 17.881306218090 | 17.881306218096 (Nate Chaoweeraprasit (SQUISH)) | 5.8e-12 |
 | 303 | 17.920312372919 | 17.920312372920 (Nate Chaoweeraprasit (SQUISH)) | 1.5e-12 |
