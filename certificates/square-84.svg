@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+    <!ENTITY  s "9.697934799016985962794024089816957712173">
+    <!ENTITY hs  "4.848967399508492981397012044908478856087">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-&hs; -&hs; &s; &s;" style="fill:#B2B2B2; stroke:black; stroke-width:0.002" id="svg">
+    <script xlink:href="svgDisp.js"/>
+    <defs>
+        <rect width="&s;" height="&s;" id="outer" x="-&hs;" y="-&hs;"/>
+        <rect width="1"   height="1"   id="one"/>
+    </defs>
+    <use xlink:href="#outer" style="fill:white; stroke:none"/>
+    <g>
+        <use xlink:href="#one" transform="translate(     -4.3489673994955718       4.3206841488430454) rotate(    0.0000000000000268) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.3489673994953408       4.3489673995083846) rotate(   -0.0000000000000032) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.3489673994951117       4.3489673995083846) rotate(   -0.0000000000000027) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.3489673994948808       4.3154838884648887) rotate(    0.0000000000000046) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.3489673994946507       4.3146877864271493) rotate(    0.0000000000000070) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.7007666692935137       4.3489673995084912) rotate(    0.0000000000000026) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.7026421627313990       4.3192281616769099) rotate(   -0.0433875141725406) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.3444452249737138       4.3469628308748183) rotate(   -0.0600171232944631) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -4.3489673994955718       3.3184803328580292) rotate(    0.0000000000000027) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.3489673994953408       3.3489673995081537) rotate(   -0.0000000000000000) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.3489673994951117       3.3489673995081537) rotate(    0.0000000000000453) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.3489673994948808       3.3109476849584984) rotate(   -0.0000000000000002) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.3489673994946507       3.3130307226896383) rotate(    0.0000000000000072) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.6510326005055802       3.3489673995082603) rotate(    0.0000000000000045) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.1116748616386563       3.2039294208031803) rotate(   27.4624085139327185) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -4.3489673994955718       2.3164803151206055) rotate(    0.0000000000000001) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.3489673994953408       2.3489673995079228) rotate(   -0.0000000000000000) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.3489673994951117       2.3489673995079228) rotate(   -0.0000000000000017) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.2951881316405087       2.3029401351942740) rotate(   -0.9135985005500935) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.2917516078718076       2.3051202725860467) rotate(   -0.5876133520626151) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.3832194605531809       2.4061373096916245) rotate(   28.0172114106333829) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -4.3489673995084930       1.3144803097519944) rotate(    0.0000000000000000) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.3458823321784648       1.3489673995076918) rotate(    0.0000000000000029) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.3448914143509993       1.3489673995076918) rotate(   -0.0000000000000001) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.3350666888896709       1.2987954762314384) rotate(   -1.0601935430066043) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.1595317490651853       1.0478251696775205) rotate(   28.0172114106334575) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -4.3489673995084930       0.3122371455892310) rotate(    0.0000000000000022) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.3489673995082621       0.3489673995074618) rotate(    0.0000000000000032) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.1726957489680512       0.1726957489675138) rotate(   28.0172114106333972) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.9020692036633449       0.1925706313384490) rotate(   28.0172114106334078) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -4.3274125578218774      -0.6901229445936661) rotate(    0.1180247636298855) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.8356091729045660      -0.7103002716218878) rotate(   28.0172114106334291) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.5872642041401477      -0.6485501897636681) rotate(   28.0172114106333972) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.5034921133993988      -1.5863690329932068) rotate(   28.0172114296774524) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.9170602310948404      -2.4070826974779127) rotate(   28.0172114106333723) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -4.1715832144609459      -2.4670150540353011) rotate(   27.6814366115632033) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673994324667       4.3489673995084912) rotate(    0.0000000000000004) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084912      -4.3489673995084930) rotate(    0.0000000000000000) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.3489673995082621      -4.3489673995084930) rotate(   -0.0000000000000019) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.3489673995080320      -4.3489673995084930) rotate(    0.0000000000000000) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.3489673995078011      -4.3489673995084930) rotate(    0.0000000000000000) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.3489673995075711      -4.3489673995084930) rotate(    0.0000000000000000) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.8273042510326380      -4.1726957489685450) rotate(   28.0172114106335144) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.9775866804252216      -4.1726957489685450) rotate(   28.0172114106334291) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.1103377089206257      -4.1726957489685450) rotate(   28.0172114106334327) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084912      -3.3489673995082625) rotate(   -0.0000000000000020) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.3489673995082621      -3.3469673995011511) rotate(    0.0000000000000243) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.3489673995080311      -3.3489673995082625) rotate(   -0.0000000000000016) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.3489673995078011      -3.3489673995082625) rotate(   -0.0000000000000047) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.1643908270961241      -3.2896997283791438) rotate(   28.0172114106334575) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.3107040774070438      -3.2971592618437024) rotate(   28.0172114106334291) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.4473234557600305      -3.2898892232232293) rotate(   28.0172114106334291) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084930      -2.3489673995080320) rotate(    0.0000000000000284) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.3489673995082621      -2.3459672603056294) rotate(   -0.0000000000000164) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.3489673995080311      -2.3489673995080320) rotate(   -0.0000000000000031) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.2121170907186496      -1.6314591537646632) rotate(   29.1285489003067077) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.5268502955112373      -2.4560754363715316) rotate(   29.1285489003067077) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.6477906534705289      -2.4141632412543004) rotate(   28.0172114106334078) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084912      -1.3489673995078011) rotate(    0.0000000000000028) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.3459101041616277      -1.3423897850309121) rotate(   -0.1037833484920178) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.0990924918307003      -1.1688171576776329) rotate(   29.1285489003067077) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.7293910468326397      -0.7446856763408496) rotate(   28.0172114106334291) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.0374043470062730      -1.5730424201521842) rotate(   28.0172114106334114) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084912      -0.3489673995075702) rotate(    0.0000000000000280) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.7488729814383310      -0.2713160299445470) rotate(   28.6128669412877272) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.6160610101112676      -0.2822097075796499) rotate(   28.0172114106334291) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.1463242347764586       0.6005968181656662) rotate(   28.0172114106334149) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084912       1.3489673995078002) rotate(   -0.0000000000000029) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.4633452860356391       0.5109248495014906) rotate(   28.4034386486626289) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.2721422564510050       0.6136264636732545) rotate(   28.0172114106333829) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084912       2.3489673995080311) rotate(    0.0000000000000059) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.0459185183299020       1.4235388966716913) rotate(   28.2299100067351993) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      4.3489673995084912       3.3489673995082603) rotate(   -0.0000000000000026) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -4.3489673995084930      -4.3489673995084930) rotate(    0.0000000000000032) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      3.3489673995082621       3.3459401314431743) rotate(   -0.0000000000000014) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      2.5722786823732937       2.3042578164098728) rotate(   28.2299100067351993) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      1.8541021448545951       1.5239405161663386) rotate(   28.0172114106333829) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.7271382142134444       1.5103011384387202) rotate(   28.0172114106334114) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(      0.2596542714978307       0.1381208494044666) rotate(   28.0172114106334078) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -0.4323324283285359      -0.6902358944068681) rotate(   28.0172114106334078) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.1175274288053378      -1.5313567155089842) rotate(   28.0172114106334078) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -2.2501776280766626      -1.5315462103530697) rotate(   28.0172114106334327) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -1.7804408527418527      -2.4143527360983859) rotate(   28.0172114106334327) translate(-.5 -.5)"/>
+        <use xlink:href="#one" transform="translate(     -3.5800744842554346      -3.2898892232232293) rotate(   28.0172114106333758) translate(-.5 -.5)"/>
+    </g>
+</svg>
