@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (51 Counts)
+## 2. Table of Certified World Records (52 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -35,6 +35,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **131** | `597482979401793019...000000000000000` | 11.949659588036 | 11.951150044912 | **-1.490e-03** | Ryan Xu T-125 | `2386bf3302de34dc...` |
 | **132** | `599284009942290440...000000000000000` | 11.985680198846 | 11.991327887692 | **-5.648e-03** | Francisco Couzo / Evan Daniel #489 (conquered via exact KKT solve) | `2e1752f19f9a1792...` |
 | **146** | `629189113870753844...000000000000000` | 12.583782277415 | 12.600907778513 | **-1.713e-02** | ry-xu (conquered via exact dual-verified optimum) | `7386e5853b3ed5a7...` |
+| **152** | `320767970024415248...000000000000000` | 12.830718800977 | 12.830959544726 | **-2.407e-04** | Francisco Couzo (conquered via exact dual-verified optimum) | `e39105b0b4df9dec...` |
 | **153** | `20109396641257/1562500000000` | 12.870013850404 | 12.870013850407 | **-2.560e-12** | PingYou Ltd #504 / T-148 | `8c012a7207a4762c...` |
 | **154** | `129224998146423974...000000000000000` | 12.922499814642 | 12.922499814645 | **-2.602e-12** | Francisco Couzo (seeded from Evan Daniel) | `bd51470cabad8c8a...` |
 | **155** | `259048508139169122...000000000000000` | 12.952425406958 | 12.952498944014 | **-7.354e-05** | Couzo / SQUISH #481 (conquered via Ostashev soft-to-rigid optimum) | `a9b0793ab7b039f0...` |
