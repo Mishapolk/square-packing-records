@@ -1,157 +1,12 @@
 [
   {
-    "n": 302,
-    "side_fraction": "17872029849083/1000000000000",
-    "side_float": 17.872029849083,
-    "baseline": 17.8813062180958,
-    "delta": -0.009276369012802377,
-    "min_pair_gap": 9.97452928690885e-14,
-    "min_wall_clearance": 5.1239214934465955e-14,
-    "sha256_cert": "c4b7ca98097754c4a16cd619708da817d5bd6f4c1c3a8f93678c554d7e68a638",
-    "sha256_txt": "6306e7f9e3b234e3d55794ff5c6dcd713981de7fe5467e0aaa5473f92f2865a1"
-  },
-  {
-    "n": 270,
-    "side_fraction": "2116221919193/125000000000",
-    "side_float": 16.929775353544,
-    "baseline": 16.93780722844602,
-    "delta": -0.008031874902020064,
-    "min_pair_gap": 1.5453409465307998e-13,
-    "min_wall_clearance": 7.88e-14,
-    "sha256_cert": "7dd96e6455e03cfab11a6b63d6fbce4b071b16445d1beec0b7f5288c7abe0185",
-    "sha256_txt": "6de00d094f0582488b07c210208de2b7350ed08e693b6c83579fc73ba9d1e36a"
-  },
-  {
-    "n": 303,
-    "side_fraction": "17913065462741/1000000000000",
-    "side_float": 17.913065462741,
-    "baseline": 17.917365675353,
-    "delta": -0.0043002126120015305,
-    "min_pair_gap": 1.3611863306185287e-13,
-    "min_wall_clearance": 6.98e-14,
-    "sha256_cert": "d29e306a5abccc30cfca83473fedd4f6684dd3ae05dd46d572acfc68042c79b2",
-    "sha256_txt": "41365eddda7c51f7700e050024978aaa928c69829d521d51c02631df3c91172d"
-  },
-  {
-    "n": 236,
-    "side_fraction": "15863955747161/1000000000000",
-    "side_float": 15.863955747161,
-    "baseline": 15.86780083941991,
-    "delta": -0.0038450922589099434,
-    "min_pair_gap": 1.0811926404806895e-13,
-    "min_wall_clearance": 5.49e-14,
-    "sha256_cert": "bb55861e94830e0a9569ab5b446e6015ddabca0b35d2556b0fc682071570de19",
-    "sha256_txt": "2ce344c8c2d7c1cbc1e2753b98a34841cc896bf688e7e21d37cbc477db8332f7"
-  },
-  {
-    "n": 209,
-    "side_fraction": "934138951653/62500000000",
-    "side_float": 14.946223226448,
-    "baseline": 14.9496179522,
-    "delta": -0.003394725752000838,
-    "min_pair_gap": 1.0190121655910904e-13,
-    "min_wall_clearance": 5.17e-14,
-    "sha256_cert": "f5aa5aa77ce5b95914b9048884d519ef03ce2a14fe95a14ab01517a157b8ea1d",
-    "sha256_txt": "013ec0739f483ff66cfe9365987c4b4558ff2c9e78372eed1fc100fcf617382b"
-  },
-  {
-    "n": 175,
-    "side_fraction": "860260894843/62500000000",
-    "side_float": 13.764174317488,
-    "baseline": 13.767120724693,
-    "delta": -0.0029464072050000567,
-    "min_pair_gap": 1.0127727951084318e-13,
-    "min_wall_clearance": 5.19e-14,
-    "sha256_cert": "929123e7462ba789bb43036c9e22da5a097f95210b528e590efb8fa6fe62e8ee",
-    "sha256_txt": "ab6b707b5536779de18ccd59632be1807ab1761f6e297613133af52e66bc7cd7"
-  },
-  {
-    "n": 237,
-    "side_fraction": "12424179381/781250000",
-    "side_float": 15.90294960768,
-    "baseline": 15.90367623518913,
-    "delta": -0.0007266275091293295,
-    "min_pair_gap": 1.3501437583999386e-13,
-    "min_wall_clearance": 6.83e-14,
-    "sha256_cert": "746904fc275715eab1caa1bcbf507068bdc03cfee2fe92ba410dc706e165864b",
-    "sha256_txt": "177ea1fc43c11aeac14c71ee122872998fed3bcf98a9153d7f6eb95a495ca074"
-  },
-  {
-    "n": 180,
-    "side_fraction": "13916993522483/1000000000000",
-    "side_float": 13.916993522483,
-    "baseline": 13.91765341745018,
-    "delta": -0.000659894967180108,
-    "min_pair_gap": 3.2687080125892366e-13,
-    "min_wall_clearance": 1.629655627505881e-13,
-    "sha256_cert": "271c73710ef19beb4ce444ed051eef37ba7c9dd868f14d793cc9e88f49a506e2",
-    "sha256_txt": "c5e4ec93e7af11b4da6c2f089de5ac52088a77c633e5271f6f45c38dfbfcb9d0"
-  },
-  {
-    "n": 154,
-    "side_fraction": "807660400121/62500000000",
-    "side_float": 12.922566401936,
-    "baseline": 12.92307020230114,
-    "delta": -0.0005038003651396394,
-    "min_pair_gap": 1.4983170877619887e-13,
-    "min_wall_clearance": 7.43e-14,
-    "sha256_cert": "4076f8426ce579fb1b45ea9d37ba4c2d301172e091010d397b0b023756251eb3",
-    "sha256_txt": "ac147c424b515566932aeecd8e00df2b12618cd4895e7875d3b1ea3ad21b247b"
-  },
-  {
-    "n": 127,
-    "side_fraction": "11810878787593/1000000000000",
-    "side_float": 11.810878787593,
-    "baseline": 11.81093664751181,
-    "delta": -5.785991880991048e-05,
-    "min_pair_gap": 3.058e-13,
-    "min_wall_clearance": 1.548e-13,
-    "sha256_cert": "3883629c133c315d54e1db59a20344f1385376081beb3afad80964ba2b18bbda",
-    "sha256_txt": "4364d6da2076e908b77379ec489439f683cc6659a9e5c0c36b529834b988ef83"
-  },
-  {
-    "n": 131,
-    "side_fraction": "5975556234483/500000000000",
-    "side_float": 11.951112468966,
-    "baseline": 11.95115004491195,
-    "delta": -3.75759459494418e-05,
-    "min_pair_gap": 3.6094845702967484e-13,
-    "min_wall_clearance": 1.7059611788747176e-13,
-    "sha256_cert": "b13c976b818a09345d3c4bca43006f129ce450f57c42eb634b44a3acb9a43d0d",
-    "sha256_txt": "04afdd6e3f50012f52a4456235b8be123828e5c32b746bac3a2404205428f951"
-  },
-  {
-    "n": 267,
-    "side_fraction": "336776305399/20000000000",
-    "side_float": 16.83881526995,
-    "baseline": 16.83883196111683,
-    "delta": -1.6691166830895554e-05,
-    "min_pair_gap": 1.0248183585360887e-13,
-    "min_wall_clearance": 5.04e-14,
-    "sha256_cert": "03274dd9f36b11cf21962febe3157b9c399ce8b918888be0e307cca7548ecd1a",
-    "sha256_txt": "7c4c52d2663889d15cbd73b335fc569eabde49122275f0d6b72a3251b198c45c"
-  },
-  {
-    "n": 263,
-    "side_fraction": "16740412653757/1000000000000",
-    "side_float": 16.740412653757,
-    "baseline": 16.74041967953877,
-    "delta": -7.025781769698369e-06,
-    "min_pair_gap": 3.160000000000001e-13,
-    "min_wall_clearance": 1.5484928451579287e-13,
-    "sha256_cert": "bdf31ed1ea2a8f01009f278b3989ef5246f9ec5b3db66b962d569bf336fa80d9",
-    "sha256_txt": "c3de0dfa55df97d9956725cd0c0b91d7cbd07067a7e5d461522fc283d74b5cfd"
-  },
-  {
-    "n": 306,
-    "side_fraction": "8981716858749/500000000000",
-    "side_float": 17.963433717498,
-    "baseline": 17.963438139764,
-    "delta": -4.4222660022796845e-06,
-    "min_pair_gap": 3.4773053138692816e-13,
-    "min_wall_clearance": 1.735000000000001e-13,
-    "sha256_cert": "3e972459e27067b0cca2df820503dab2a5fc0d7d4912e7bf426e1e91d10bfdb8",
-    "sha256_txt": "7b46cf477380d30f349799f888dee26051871a0546abdc1dc1d5d685e960f448"
+    "n": 103,
+    "side_fraction": "213584640947227/20000000000000",
+    "side_float": 10.67923204736135,
+    "baseline": 10.67923204751068,
+    "delta": -1.4933121406102146e-10,
+    "sha256_cert": "044ab54af75be78261f64fe7e6bd99f02f0a650fe13c5355714102e31432365c",
+    "source": "Evan Daniel T-146"
   },
   {
     "n": 108,
@@ -159,32 +14,35 @@
     "side_float": 10.904821012324,
     "baseline": 10.9048247851109,
     "delta": -3.7727869006687342e-06,
-    "min_pair_gap": 3.1260000000004236e-13,
-    "min_wall_clearance": 1.562000000000001e-13,
     "sha256_cert": "995c59d9f64beb4b3fec653ab3966911c844cbc8c849692d347dada8278fe30b",
-    "sha256_txt": "ed1f41e4d64c6d1960140f8bdaa2b5836b966e636377aad219ae09835bf36af4"
+    "source": "Ryan Xu T-125"
   },
   {
-    "n": 207,
-    "side_fraction": "7440480185779/500000000000",
-    "side_float": 14.880960371558,
-    "baseline": 14.88096037304367,
-    "delta": -1.4856702534871147e-09,
-    "min_pair_gap": 1.6122792044273518e-13,
-    "min_wall_clearance": 8.07e-14,
-    "sha256_cert": "3cc901c7096406d0c1d7a2daf23860ad65758b3b133a103d0e5ebd3ab9a34b41",
-    "sha256_txt": "a599181de48ec6e82ba9b9a83f52d421ceae2fb267e7de89ce4058409dbcc534"
+    "n": 127,
+    "side_fraction": "11810878787593/1000000000000",
+    "side_float": 11.810878787593,
+    "baseline": 11.81093664751181,
+    "delta": -5.785991880991048e-05,
+    "sha256_cert": "3883629c133c315d54e1db59a20344f1385376081beb3afad80964ba2b18bbda",
+    "source": "Ryan Xu T-125"
   },
   {
-    "n": 103,
-    "side_fraction": "213584640947227/20000000000000",
-    "side_float": 10.67923204736135,
-    "baseline": 10.67923204751068,
-    "delta": -1.4933121406102146e-10,
-    "min_pair_gap": 3.281161331555145e-15,
-    "min_wall_clearance": 2.1e-15,
-    "sha256_cert": "044ab54af75be78261f64fe7e6bd99f02f0a650fe13c5355714102e31432365c",
-    "sha256_txt": "eaff28d1981811e8ff78f41d08562efe846738e69f7748071281ecd68dd6fdbc"
+    "n": 129,
+    "side_fraction": "2374002770080892868915770707857/200000000000000000000000000000",
+    "side_float": 11.870013850404465,
+    "baseline": 11.872029849081,
+    "delta": -0.0020159986765353466,
+    "sha256_cert": "75b59cc80185bf00eec42e17f05ca03e9670c0063de0f4f38a70b145eba8f5fd",
+    "source": "ry-xu (conquered via cut-out optimum from s(302))"
+  },
+  {
+    "n": 131,
+    "side_fraction": "597482979401793019836646632113/50000000000000000000000000000",
+    "side_float": 11.94965958803586,
+    "baseline": 11.95115004491195,
+    "delta": -0.0014904568760893966,
+    "sha256_cert": "2386bf3302de34dc0869c10fbaa09e4e7957dea2267f3f7ec09b183c89c9e394",
+    "source": "Ryan Xu T-125"
   },
   {
     "n": 153,
@@ -192,10 +50,143 @@
     "side_float": 12.87001385040448,
     "baseline": 12.87001385040704,
     "delta": -2.559730205575761e-12,
-    "min_pair_gap": 6.381820836957689e-16,
-    "min_wall_clearance": 1.2e-15,
     "sha256_cert": "8c012a7207a4762c48fbd68577f5b20771d0be66a401a90b7d09b549a50f15bf",
-    "sha256_txt": "8fae8edbceccf4099c937bf268a50f25c6198b35c2f9c268fc4fbb302f239170"
+    "source": "PingYou Ltd #504 / T-148"
+  },
+  {
+    "n": 154,
+    "side_fraction": "12922499814642397493692375652931/1000000000000000000000000000000",
+    "side_float": 12.922499814642398,
+    "baseline": 12.922499814645,
+    "delta": -2.602362769721367e-12,
+    "sha256_cert": "bd51470cabad8c8acf1eef2f5287a70a36cb3f9bafb6f37ad71ddce489582d19",
+    "source": "Francisco Couzo (seeded from Evan Daniel)"
+  },
+  {
+    "n": 155,
+    "side_fraction": "2590485081391691227130720506511/200000000000000000000000000000",
+    "side_float": 12.952425406958456,
+    "baseline": 12.952498944014,
+    "delta": -7.353705554358214e-05,
+    "sha256_cert": "a9b0793ab7b039f0bed47132a64114bdac9fe8ac2354e53fb919fe37f44675ca",
+    "source": "Couzo / SQUISH #481 (conquered via Ostashev soft-to-rigid optimum)"
+  },
+  {
+    "n": 156,
+    "side_fraction": "12979165853834276453965882038847/1000000000000000000000000000000",
+    "side_float": 12.979165853834276,
+    "baseline": 12.979172613644,
+    "delta": -6.759809723533294e-06,
+    "sha256_cert": "1ab6a978379ea3723750971e2656d311b4a9b6cc98578b8d106e55741de36e83",
+    "source": "Daniil Ostashev (conquered via Couzo SLP optimum)"
+  },
+  {
+    "n": 175,
+    "side_fraction": "13764174317486596629427823220043/1000000000000000000000000000000",
+    "side_float": 13.764174317486596,
+    "baseline": 13.767120724692314,
+    "delta": -0.002946407205717705,
+    "sha256_cert": "74bcd89375c8e6608f7d0b7b22343787f1691a77fd29f378db8214f897668069",
+    "source": "Francisco Couzo #488 (conquered via composition optimum)"
+  },
+  {
+    "n": 176,
+    "side_fraction": "13795872318436407263311854053913/1000000000000000000000000000000",
+    "side_float": 13.795872318436407,
+    "baseline": 13.812856253277,
+    "delta": -0.01698393484059224,
+    "sha256_cert": "089afdfca356c612041c6404f215177c05ad012acb7f97e50e1e5367c7d486bf",
+    "source": "SQUISH #481 / Couzo (conquered via V-band merge)"
+  },
+  {
+    "n": 204,
+    "side_fraction": "7404331617193478283235495040473/500000000000000000000000000000",
+    "side_float": 14.808663234386957,
+    "baseline": 14.822875655532295,
+    "delta": -0.014212421145337828,
+    "sha256_cert": "d999dd188185e6aada9f5af50d9853ec416ddd418a705dfba2371fa7f53ef8d0",
+    "source": "David Ellsworth table (conquered via Ostashev composition optimum)"
+  },
+  {
+    "n": 207,
+    "side_fraction": "7440480185779/500000000000",
+    "side_float": 14.880960371558,
+    "baseline": 14.88096037304367,
+    "delta": -1.4856702534871147e-09,
+    "sha256_cert": "3cc901c7096406d0c1d7a2daf23860ad65758b3b133a103d0e5ebd3ab9a34b41",
+    "source": "PingYou Ltd #503 / T-147"
+  },
+  {
+    "n": 209,
+    "side_fraction": "934138951653/62500000000",
+    "side_float": 14.946223226448,
+    "baseline": 14.9496179522,
+    "delta": -0.003394725752000838,
+    "sha256_cert": "f5aa5aa77ce5b95914b9048884d519ef03ce2a14fe95a14ab01517a157b8ea1d",
+    "source": "Francisco Couzo #488"
+  },
+  {
+    "n": 211,
+    "side_fraction": "7496779456987003085666602828823/500000000000000000000000000000",
+    "side_float": 14.993558913974006,
+    "baseline": 14.996336721336,
+    "delta": -0.002777807361994178,
+    "sha256_cert": "ffef65229ce1a42ff5d715fb5e9a56ac7ebc16fbbbc11f13a33d575535ba8844",
+    "source": "Daniil Ostashev / Joost de Winter (conquered via V-band continuous relaxation)"
+  },
+  {
+    "n": 232,
+    "side_fraction": "15764174317486596629447823220043/1000000000000000000000000000000",
+    "side_float": 15.764174317486596,
+    "baseline": 15.767428349942,
+    "delta": -0.003254032455403788,
+    "sha256_cert": "38d91356cf9d2a80f08e1965403c1fcceb6b32e0c5555cef150485fd23bfd31d",
+    "source": "Nate Chaoweeraprasit (SQUISH) composition (conquered via exact optimum)"
+  },
+  {
+    "n": 236,
+    "side_fraction": "15863955747161/1000000000000",
+    "side_float": 15.863955747161,
+    "baseline": 15.86780083941991,
+    "delta": -0.0038450922589099434,
+    "sha256_cert": "bb55861e94830e0a9569ab5b446e6015ddabca0b35d2556b0fc682071570de19",
+    "source": "Francisco Couzo T-056"
+  },
+  {
+    "n": 237,
+    "side_fraction": "7951352528933183399718238226741/500000000000000000000000000000",
+    "side_float": 15.902705057866367,
+    "baseline": 15.902947773659,
+    "delta": -0.0002427157926323531,
+    "sha256_cert": "b825369b3b1acf9df0d9891d7ceef59086f17028c71d4c53a987032ccb482940",
+    "source": "Francisco Couzo #561"
+  },
+  {
+    "n": 238,
+    "side_fraction": "15924106785321494655310544511671/1000000000000000000000000000000",
+    "side_float": 15.924106785321495,
+    "baseline": 15.92614685701097,
+    "delta": -0.0020400716894748427,
+    "sha256_cert": "1341f6e634dc1e69fb07a18775c105963ed657f8b291821b64e9aa6b9f372a1b",
+    "source": "Gupta T-127"
+  },
+  {
+    "n": 239,
+    "side_fraction": "3987110831825124976311913183067/250000000000000000000000000000",
+    "side_float": 15.9484433273005,
+    "baseline": 15.94931316972769,
+    "delta": -0.000869842427189127,
+    "sha256_cert": "ec6dbac803b07a5a2b0a654bb1413d046168ff34ecfdfff3b91434465eaa2ecf",
+    "source": "Gupta T-127"
+  },
+  {
+    "n": 241,
+    "side_fraction": "15987117095150238758321758129189/1000000000000000000000000000000",
+    "side_float": 15.98711709515024,
+    "baseline": 15.988132439525,
+    "delta": -0.001015344374760474,
+    "sha256_cert": "c1a34e250b41dfb22657446b54572c66fea2f0b60b90f446f2ec5fe0162eb560",
+    "source": "Francisco Couzo (conquered via V-band continuous relaxation)"
   },
   {
     "n": 258,
@@ -203,9 +194,97 @@
     "side_float": 16.56344800213717,
     "baseline": 16.56344800213915,
     "delta": -1.978861519091879e-12,
-    "min_pair_gap": 2.034e-13,
-    "min_wall_clearance": 9.96e-14,
     "sha256_cert": "580be390e8307ffc9e3ce1f613098e8c6734f8b5cf9266d2ca29255fc9948a45",
-    "sha256_txt": "f99f97ad066b7646094a6c6c2017badf24135c47479a4bef7d8d4fefc9536440"
+    "source": "Evan Daniel T-146"
+  },
+  {
+    "n": 263,
+    "side_fraction": "16733166007899378970679613144039/1000000000000000000000000000000",
+    "side_float": 16.73316600789938,
+    "baseline": 16.74041967953877,
+    "delta": -0.007253671639389836,
+    "sha256_cert": "7415fd7ece421aebb7a4c2a08d845bccfddac0810d3bdcad5149e115e3c8fca2",
+    "source": "Francisco Couzo #476 / T-134"
+  },
+  {
+    "n": 264,
+    "side_fraction": "8387367566193916421305132293661/500000000000000000000000000000",
+    "side_float": 16.774735132387832,
+    "baseline": 16.77817459305202,
+    "delta": -0.003439460664189653,
+    "sha256_cert": "c38d659ec655600cd305ef1c241ee9a3eb8fe21ef791e5250cf58f2006a6255f",
+    "source": "Frits Goebel 1979 (conquered via Ostashev composition optimum)"
+  },
+  {
+    "n": 267,
+    "side_fraction": "336776305399/20000000000",
+    "side_float": 16.83881526995,
+    "baseline": 16.83883196111683,
+    "delta": -1.6691166830895554e-05,
+    "sha256_cert": "03274dd9f36b11cf21962febe3157b9c399ce8b918888be0e307cca7548ecd1a",
+    "source": "Francisco Couzo #476 / T-134"
+  },
+  {
+    "n": 270,
+    "side_fraction": "2116221919193/125000000000",
+    "side_float": 16.929775353544,
+    "baseline": 16.93780722844602,
+    "delta": -0.008031874902020064,
+    "sha256_cert": "7dd96e6455e03cfab11a6b63d6fbce4b071b16445d1beec0b7f5288c7abe0185",
+    "source": "Francisco Couzo #488"
+  },
+  {
+    "n": 271,
+    "side_fraction": "16948992356451205603226618436627/1000000000000000000000000000000",
+    "side_float": 16.948992356451207,
+    "baseline": 16.949116687815,
+    "delta": -0.00012433136379286225,
+    "sha256_cert": "b75e27c01cc3d204d76e4b9c0bbfa4db28f99e20f85005dc482946012589aac3",
+    "source": "SQUISH #481 (conquered via Couzo SLP optimum)"
+  },
+  {
+    "n": 302,
+    "side_fraction": "2233784422819382458718924415903/125000000000000000000000000000",
+    "side_float": 17.87027538255506,
+    "baseline": 17.870275382734,
+    "delta": -1.7893952986014483e-10,
+    "sha256_cert": "4ed240bbf06e99926b7ab01128198f9db3c92cc41cc20bf62a65343b38f8d140",
+    "source": "BuddenPing #564"
+  },
+  {
+    "n": 303,
+    "side_fraction": "17909958291069907981595741081399/1000000000000000000000000000000",
+    "side_float": 17.90995829106991,
+    "baseline": 17.913065462738533,
+    "delta": -0.0031071716686241757,
+    "sha256_cert": "96c7b1a0c25d023d7715ab7283dc5da12125428ee8238fa76d6814b23587655a",
+    "source": "SQUISH #481 (conquered via composition optimum)"
+  },
+  {
+    "n": 304,
+    "side_fraction": "1792942775807517496566632613899/100000000000000000000000000000",
+    "side_float": 17.929427758075175,
+    "baseline": 17.929657042171,
+    "delta": -0.00022928409582689824,
+    "sha256_cert": "8e64a66392f1ec76457edc1fbfe48cc7dc678aa27cb878b2b42d71e8013bb896",
+    "source": "SQUISH #481 / Couzo (conquered via composition optimum)"
+  },
+  {
+    "n": 305,
+    "side_fraction": "3590093296427542454697714045223/200000000000000000000000000000",
+    "side_float": 17.950466482137713,
+    "baseline": 17.950544853926,
+    "delta": -7.837178828751235e-05,
+    "sha256_cert": "f29829f625d1c0d220a7feab95ecf58005751971f1c44ec69e3ae0aa5d5be213",
+    "source": "SQUISH #481 (conquered via Couzo SLP optimum)"
+  },
+  {
+    "n": 306,
+    "side_fraction": "8981716858749/500000000000",
+    "side_float": 17.963433717498,
+    "baseline": 17.963438139764,
+    "delta": -4.4222660022796845e-06,
+    "sha256_cert": "3e972459e27067b0cca2df820503dab2a5fc0d7d4912e7bf426e1e91d10bfdb8",
+    "source": "Francisco Couzo T-128"
   }
 ]

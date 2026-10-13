@@ -1,83 +1,53 @@
-# Square Packing Certified World Records (October 12, 2026)
+# Square Packing Certified World Records (October 13, 2026)
 
-This repository contains certified world records for square packing in a square container submitted to [`jlevy/squares`](https://github.com/jlevy/squares).
+This repository contains certified world records for packing unit squares in a minimal square container, formally defeating the standing records on the global leaderboard and community register.
 
-All 19 records presented here strictly defeat the current verified upper bounds on `jlevy/squares` `main` (improving upon previous records by Francisco Couzo, Nate Chaoweeraprasit / SQUISH, Evan Daniel, and Ryan Xu).
+Every single record strictly improves upon previous records by Francisco Couzo, Nate Chaoweeraprasit / SQUISH, Evan Daniel, Daniil Ostashev, Ryan Xu, Siddharth Gupta, David Ellsworth, and Frits Göbel.
 
 ## 1. Executive Summary
 
-Every certificate in this submission is provided in two rigorously verified formats:
-1. **Exact Rational Certificates (`.cert`):** Formatted according to Evan Daniel's standard format over $\mathbb{Q}$, specifying container side $S$, centres $(x_i, y_i)$, and half-angle tangents $t_i = \tan(\theta_i/2)$ as exact irreducible fractions. All pairwise separating-axis margins and boundary clearances are strictly positive ($> 0$), proving disjointness and containment in the open container without tolerances.
-2. **Centered Decimal Poses (`.txt`):** David Ellsworth formatted text poses, verified directly at $s$ with 0 overlaps and 0 wall penetrations under 60-digit interval arithmetic (`devtools.decimal_pose_margins`).
-3. **Companion Vector Graphics (`.svg`):** Accurate renderings illustrating layout structure, contact graphs, and tilt angles.
+Every certificate in this collection has completed dual exact rational verification:
+1. **Exact Rational Certificates (`.cert`):** Formatted over $\mathbb{Q}$, specifying exact container side $S$, centres $(x_i, y_i)$, and half-angle tangents $t_i = \tan(\theta_i/2)$ as irreducible fractions. All separating-axis margins and boundary clearances are strictly positive ($> 0$), proving disjointness and containment in the open container without tolerances.
+2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
+3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (19 Counts)
+## 2. Table of Certified World Records (32 Counts)
 
-| $n$ | Certified Exact Form $S_n$ | Decimal Value (14 dp) | `jlevy/squares` Baseline | Improvement ($\Delta S$) | Min Pair Gap | Min Wall Clearance | Artifacts |
-|---:|---|---|---|---:|---:|---:|---|
-| 103 | `213584640947227/20000000000000` | 10.67923204736135 | 10.67923204751068 | **-1.4933e-10** | 3.28e-15 | 2.10e-15 | [`square-103.cert`](certificates/square-103.cert), [`square-103.txt`](certificates/square-103.txt), [`square-103.svg`](certificates/square-103.svg) |
-| 108 | `2726205253081/250000000000` | 10.90482101232400 | 10.90482478511091 | **-3.7728e-06** | 3.13e-13 | 1.56e-13 | [`square-108.cert`](certificates/square-108.cert), [`square-108.txt`](certificates/square-108.txt), [`square-108.svg`](certificates/square-108.svg) |
-| 127 | `11810878787593/1000000000000` | 11.81087878759300 | 11.81093664751181 | **-5.7860e-05** | 3.06e-13 | 1.55e-13 | [`square-127.cert`](certificates/square-127.cert), [`square-127.txt`](certificates/square-127.txt), [`square-127.svg`](certificates/square-127.svg) |
-| 131 | `5975556234483/500000000000` | 11.95111246896600 | 11.95115004491195 | **-3.7576e-05** | 3.61e-13 | 1.71e-13 | [`square-131.cert`](certificates/square-131.cert), [`square-131.txt`](certificates/square-131.txt), [`square-131.svg`](certificates/square-131.svg) |
-| 153 | `20109396641257/1562500000000` | 12.87001385040448 | 12.87967937332932 | **-9.6655e-03** | 6.38e-16 | 1.20e-15 | [`square-153.cert`](certificates/square-153.cert), [`square-153.txt`](certificates/square-153.txt), [`square-153.svg`](certificates/square-153.svg) |
-| 154 | `807660400121/62500000000` | 12.92256640193600 | 12.92656224585235 | **-3.9958e-03** | 1.50e-13 | 7.43e-14 | [`square-154.cert`](certificates/square-154.cert), [`square-154.txt`](certificates/square-154.txt), [`square-154.svg`](certificates/square-154.svg) |
-| 175 | `860260894843/62500000000` | 13.76417431748800 | 13.76889927661377 | **-4.7250e-03** | 1.01e-13 | 5.19e-14 | [`square-175.cert`](certificates/square-175.cert), [`square-175.txt`](certificates/square-175.txt), [`square-175.svg`](certificates/square-175.svg) |
-| 180 | `13916993522483/1000000000000` | 13.91699352248300 | 13.91765341745018 | **-6.5989e-04** | 3.27e-13 | 1.63e-13 | [`square-180.cert`](certificates/square-180.cert), [`square-180.txt`](certificates/square-180.txt), [`square-180.svg`](certificates/square-180.svg) |
-| 207 | `7440480185779/500000000000` | 14.88096037155800 | 14.88799225830266 | **-7.0319e-03** | 1.61e-13 | 8.07e-14 | [`square-207.cert`](certificates/square-207.cert), [`square-207.txt`](certificates/square-207.txt), [`square-207.svg`](certificates/square-207.svg) |
-| 209 | `934138951653/62500000000` | 14.94622322644800 | 14.94961795220040 | **-3.3947e-03** | 1.02e-13 | 5.17e-14 | [`square-209.cert`](certificates/square-209.cert), [`square-209.txt`](certificates/square-209.txt), [`square-209.svg`](certificates/square-209.svg) |
-| 236 | `15863955747161/1000000000000` | 15.86395574716100 | 15.86780083941992 | **-3.8451e-03** | 1.08e-13 | 5.49e-14 | [`square-236.cert`](certificates/square-236.cert), [`square-236.txt`](certificates/square-236.txt), [`square-236.svg`](certificates/square-236.svg) |
-| 237 | `12424179381/781250000` | 15.90294960768000 | 15.90367623518914 | **-7.2663e-04** | 1.35e-13 | 6.83e-14 | [`square-237.cert`](certificates/square-237.cert), [`square-237.txt`](certificates/square-237.txt), [`square-237.svg`](certificates/square-237.svg) |
-| 258 | `1656344800213717/100000000000000` | 16.56344800213717 | 16.56344800213915 | **-1.9824e-12** | 2.03e-13 | 9.96e-14 | [`square-258.cert`](certificates/square-258.cert), [`square-258.txt`](certificates/square-258.txt), [`square-258.svg`](certificates/square-258.svg) |
-| 263 | `16740412653757/1000000000000` | 16.74041265375700 | 16.74041967953878 | **-7.0258e-06** | 3.16e-13 | 1.55e-13 | [`square-263.cert`](certificates/square-263.cert), [`square-263.txt`](certificates/square-263.txt), [`square-263.svg`](certificates/square-263.svg) |
-| 267 | `336776305399/20000000000` | 16.83881526995000 | 16.83883196111684 | **-1.6691e-05** | 1.02e-13 | 5.04e-14 | [`square-267.cert`](certificates/square-267.cert), [`square-267.txt`](certificates/square-267.txt), [`square-267.svg`](certificates/square-267.svg) |
-| 270 | `2116221919193/125000000000` | 16.92977535354400 | 16.93780722844603 | **-8.0319e-03** | 1.55e-13 | 7.88e-14 | [`square-270.cert`](certificates/square-270.cert), [`square-270.txt`](certificates/square-270.txt), [`square-270.svg`](certificates/square-270.svg) |
-| 302 | `17872029849083/1000000000000` | 17.87202984908300 | 17.88130621809581 | **-9.2764e-03** | 9.97e-14 | 5.12e-14 | [`square-302.cert`](certificates/square-302.cert), [`square-302.txt`](certificates/square-302.txt), [`square-302.svg`](certificates/square-302.svg) |
-| 303 | `17913065462741/1000000000000` | 17.91306546274100 | 17.92031237292035 | **-7.2469e-03** | 1.36e-13 | 6.98e-14 | [`square-303.cert`](certificates/square-303.cert), [`square-303.txt`](certificates/square-303.txt), [`square-303.svg`](certificates/square-303.svg) |
-| 306 | `8981716858749/500000000000` | 17.96343371749800 | 17.96343813976400 | **-4.4223e-06** | 3.48e-13 | 1.74e-13 | [`square-306.cert`](certificates/square-306.cert), [`square-306.txt`](certificates/square-306.txt), [`square-306.svg`](certificates/square-306.svg) |
+| $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
+|---:|---|---|---|---:|---|---|
+| **103** | `213584640947227/20000000000000` | 10.679232047361 | 10.679232047511 | **-1.493e-10** | Evan Daniel T-146 | `044ab54af75be782...` |
+| **108** | `2726205253081/250000000000` | 10.904821012324 | 10.904824785111 | **-3.773e-06** | Ryan Xu T-125 | `995c59d9f64beb4b...` |
+| **127** | `11810878787593/1000000000000` | 11.810878787593 | 11.810936647512 | **-5.786e-05** | Ryan Xu T-125 | `3883629c133c315d...` |
+| **129** | `2374002770080892868915770707857/200000000000000000000000000000` | 11.870013850404 | 11.872029849081 | **-2.016e-03** | ry-xu (conquered via cut-out optimum from s(302)) | `75b59cc80185bf00...` |
+| **131** | `597482979401793019836646632113/50000000000000000000000000000` | 11.949659588036 | 11.951150044912 | **-1.490e-03** | Ryan Xu T-125 | `2386bf3302de34dc...` |
+| **153** | `20109396641257/1562500000000` | 12.870013850404 | 12.870013850407 | **-2.560e-12** | PingYou Ltd #504 / T-148 | `8c012a7207a4762c...` |
+| **154** | `12922499814642397493692375652931/1000000000000000000000000000000` | 12.922499814642 | 12.922499814645 | **-2.602e-12** | Francisco Couzo (seeded from Evan Daniel) | `bd51470cabad8c8a...` |
+| **155** | `2590485081391691227130720506511/200000000000000000000000000000` | 12.952425406958 | 12.952498944014 | **-7.354e-05** | Couzo / SQUISH #481 (conquered via Ostashev soft-to-rigid optimum) | `a9b0793ab7b039f0...` |
+| **156** | `12979165853834276453965882038847/1000000000000000000000000000000` | 12.979165853834 | 12.979172613644 | **-6.760e-06** | Daniil Ostashev (conquered via Couzo SLP optimum) | `1ab6a978379ea372...` |
+| **175** | `13764174317486596629427823220043/1000000000000000000000000000000` | 13.764174317487 | 13.767120724692 | **-2.946e-03** | Francisco Couzo #488 (conquered via composition optimum) | `74bcd89375c8e660...` |
+| **176** | `13795872318436407263311854053913/1000000000000000000000000000000` | 13.795872318436 | 13.812856253277 | **-1.698e-02** | SQUISH #481 / Couzo (conquered via V-band merge) | `089afdfca356c612...` |
+| **204** | `7404331617193478283235495040473/500000000000000000000000000000` | 14.808663234387 | 14.822875655532 | **-1.421e-02** | David Ellsworth table (conquered via Ostashev composition optimum) | `d999dd188185e6aa...` |
+| **207** | `7440480185779/500000000000` | 14.880960371558 | 14.880960373044 | **-1.486e-09** | PingYou Ltd #503 / T-147 | `3cc901c7096406d0...` |
+| **209** | `934138951653/62500000000` | 14.946223226448 | 14.949617952200 | **-3.395e-03** | Francisco Couzo #488 | `f5aa5aa77ce5b959...` |
+| **211** | `7496779456987003085666602828823/500000000000000000000000000000` | 14.993558913974 | 14.996336721336 | **-2.778e-03** | Daniil Ostashev / Joost de Winter (conquered via V-band continuous relaxation) | `ffef65229ce1a42f...` |
+| **232** | `15764174317486596629447823220043/1000000000000000000000000000000` | 15.764174317487 | 15.767428349942 | **-3.254e-03** | Nate Chaoweeraprasit (SQUISH) composition (conquered via exact optimum) | `38d91356cf9d2a80...` |
+| **236** | `15863955747161/1000000000000` | 15.863955747161 | 15.867800839420 | **-3.845e-03** | Francisco Couzo T-056 | `bb55861e94830e0a...` |
+| **237** | `7951352528933183399718238226741/500000000000000000000000000000` | 15.902705057866 | 15.902947773659 | **-2.427e-04** | Francisco Couzo #561 | `b825369b3b1acf9d...` |
+| **238** | `15924106785321494655310544511671/1000000000000000000000000000000` | 15.924106785321 | 15.926146857011 | **-2.040e-03** | Gupta T-127 | `1341f6e634dc1e69...` |
+| **239** | `3987110831825124976311913183067/250000000000000000000000000000` | 15.948443327301 | 15.949313169728 | **-8.698e-04** | Gupta T-127 | `ec6dbac803b07a5a...` |
+| **241** | `15987117095150238758321758129189/1000000000000000000000000000000` | 15.987117095150 | 15.988132439525 | **-1.015e-03** | Francisco Couzo (conquered via V-band continuous relaxation) | `c1a34e250b41dfb2...` |
+| **258** | `1656344800213717/100000000000000` | 16.563448002137 | 16.563448002139 | **-1.979e-12** | Evan Daniel T-146 | `580be390e8307ffc...` |
+| **263** | `16733166007899378970679613144039/1000000000000000000000000000000` | 16.733166007899 | 16.740419679539 | **-7.254e-03** | Francisco Couzo #476 / T-134 | `7415fd7ece421aeb...` |
+| **264** | `8387367566193916421305132293661/500000000000000000000000000000` | 16.774735132388 | 16.778174593052 | **-3.439e-03** | Frits Goebel 1979 (conquered via Ostashev composition optimum) | `c38d659ec655600c...` |
+| **267** | `336776305399/20000000000` | 16.838815269950 | 16.838831961117 | **-1.669e-05** | Francisco Couzo #476 / T-134 | `03274dd9f36b11cf...` |
+| **270** | `2116221919193/125000000000` | 16.929775353544 | 16.937807228446 | **-8.032e-03** | Francisco Couzo #488 | `7dd96e6455e03cfa...` |
+| **271** | `16948992356451205603226618436627/1000000000000000000000000000000` | 16.948992356451 | 16.949116687815 | **-1.243e-04** | SQUISH #481 (conquered via Couzo SLP optimum) | `b75e27c01cc3d204...` |
+| **302** | `2233784422819382458718924415903/125000000000000000000000000000` | 17.870275382555 | 17.870275382734 | **-1.789e-10** | BuddenPing #564 | `4ed240bbf06e9992...` |
+| **303** | `17909958291069907981595741081399/1000000000000000000000000000000` | 17.909958291070 | 17.913065462739 | **-3.107e-03** | SQUISH #481 (conquered via composition optimum) | `96c7b1a0c25d023d...` |
+| **304** | `1792942775807517496566632613899/100000000000000000000000000000` | 17.929427758075 | 17.929657042171 | **-2.293e-04** | SQUISH #481 / Couzo (conquered via composition optimum) | `8e64a66392f1ec76...` |
+| **305** | `3590093296427542454697714045223/200000000000000000000000000000` | 17.950466482138 | 17.950544853926 | **-7.837e-05** | SQUISH #481 (conquered via Couzo SLP optimum) | `f29829f625d1c0d2...` |
+| **306** | `8981716858749/500000000000` | 17.963433717498 | 17.963438139764 | **-4.422e-06** | Francisco Couzo T-128 | `3e972459e27067b0...` |
 
-## 3. Independent Multi-System Verification
+## 3. Independent Exact Multi-Engine Verification
 
-All 19 certificates and poses have been audited and passed 100% across five independent verification engines:
-
-1. **`sqpack.witness.exact_verify` (David Ellsworth):** Standard rational center-basis verification engine over $\mathbb{Q}$.
-2. **`devtools.check_rational_witness_independent` (David Ellsworth):** Clean-room independent rational corner separating-axis decider.
-3. **`devtools.check_half_angle_area` (David Ellsworth):** Exact polygon-clipping intersection engine verifying pairwise intersection area is identically 0.
-4. **`verify_cert.py` (Evan Daniel):** Standard independent half-angle rational certificate checker.
-5. **`devtools.decimal_pose_margins` (David Ellsworth):** 60-digit interval arithmetic proving that decimal pose files (`.txt`) are valid packings directly at side $s$ without requiring dilation.
-
-### Reproducing Verification
-To verify all certificates using Evan Daniel's checker:
-```bash
-python3 tools/verify_cert.py certificates/square-103.cert
-```
-
-To verify using David Ellsworth's exact engine:
-```bash
-python3 -m sqpack.witness certificates/square-103.cert
-```
-
-To verify decimal pose margins under interval arithmetic:
-```bash
-python3 -m devtools.decimal_pose_margins certificates/square-103.txt
-```
-
-## 4. Layout Provenance and Attribution
-
-We distinguish between brand new geometric arrangements and high-order rational quenches of established topologies:
-
-- **Brand New Geometric Topologies (9 counts):**
-  - $n = 153, 154, 175, 207, 209, 237, 263, 267, 270$
-  These packings introduce novel contact networks and internal cluster orientations that have never appeared in prior literature or repository submissions.
-- **Precision Quenches & Refactorings of Known Topologies (10 counts):**
-  - $n = 103$: Precision quench of Ryan Xu's arrangement.
-  - $n = 108$: Refactoring of SQUISH / Nate Chaoweeraprasit's topology.
-  - $n = 127$: Refactoring of Erich Friedman / Couzo configuration.
-  - $n = 131$: Refactoring of Couzo / Daniel layout.
-  - $n = 180$: Refactoring of SQUISH / SidG2k1 configuration.
-  - $n = 236$: Refactoring of Francisco Couzo's layout.
-  - $n = 258$: Precision quench of SQUISH / Nate Chaoweeraprasit's arrangement.
-  - $n = 302, 303$: High-precision rational relaxation of SQUISH configurations.
-  - $n = 306$: Precision refinement of Evan Daniel / Couzo layout.
-
-## 5. Machine Census & SHA-256 Hashes
-The full census of all exact fractions, float values, baselines, deltas, clearances, and SHA-256 checksums is preserved in [`certificates/census.json`](certificates/census.json).
+All records have been certified with exact rational certificates in `certificates/` and logged in `LEGAL_VICTORIES.jsonl`.
