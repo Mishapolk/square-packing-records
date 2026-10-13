@@ -450,6 +450,15 @@
     "source": "Evan Daniel T-146"
   },
   {
+    "n": 259,
+    "side_fraction": "4147844536374424539900215795867/250000000000000000000000000000",
+    "side_float": 16.5913781454977,
+    "baseline": 16.60257141234448,
+    "delta": -0.011193266846781569,
+    "sha256_cert": "bb0545569b8c6a7b26b1a76d5cf06ac8fd30a9d956362d752981f4b664e2087d",
+    "source": "Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 263,
     "side_fraction": "16733166007899378970679613144039/1000000000000000000000000000000",
     "side_float": 16.73316600789938,
