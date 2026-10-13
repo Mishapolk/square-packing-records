@@ -1,5 +1,23 @@
 [
   {
+    "n": 84,
+    "side_fraction": "9697934799014921307163820128651/1000000000000000000000000000000",
+    "side_float": 9.697934799014922,
+    "baseline": 9.698052060509697,
+    "delta": -0.00011726149477553349,
+    "sha256_cert": "183979c7c711827a4d470efb76e6ee3aca0b137eea53813bfea3e849707da0d0",
+    "source": "Ryan Xu #432 (conquered via Mishapolk optimum #470)"
+  },
+  {
+    "n": 86,
+    "side_fraction": "9820535407496742209971278280039/1000000000000000000000000000000",
+    "side_float": 9.820535407496742,
+    "baseline": 9.82056573000982,
+    "delta": -3.0322513078218094e-05,
+    "sha256_cert": "b5b0e62f150b2c2b987087f742c05fb731c2edc38e7a5c75783a7d8cb0d616c3",
+    "source": "Ryan Xu #432 (conquered via Mishapolk optimum #470)"
+  },
+  {
     "n": 103,
     "side_fraction": "213584640947227/20000000000000",
     "side_float": 10.67923204736135,
@@ -7,6 +25,15 @@
     "delta": -1.4933121406102146e-10,
     "sha256_cert": "044ab54af75be78261f64fe7e6bd99f02f0a650fe13c5355714102e31432365c",
     "source": "Evan Daniel T-146"
+  },
+  {
+    "n": 105,
+    "side_fraction": "10789303783748158831034729697921/1000000000000000000000000000000",
+    "side_float": 10.789303783748158,
+    "baseline": 10.790618268108,
+    "delta": -0.0013144843598418277,
+    "sha256_cert": "3d4fc1ed6193ede6787e3f9dee2f29ca9ca83f0dc7e85eb0b46c95081d7e3212",
+    "source": "Francisco Couzo #451 (conquered via Mishapolk optimum #470)"
   },
   {
     "n": 108,
