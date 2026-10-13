@@ -153,6 +153,15 @@
     "source": "SQUISH #481 / Couzo (conquered via V-band merge)"
   },
   {
+    "n": 179,
+    "side_fraction": "13883795490510898440309946897577/1000000000000000000000000000000",
+    "side_float": 13.883795490510899,
+    "baseline": 13.89534106997649,
+    "delta": -0.011545579465591871,
+    "sha256_cert": "c22926d11665a7379b5b5958ddab7bd9de366ae8284813c52a07ba5d48335f42",
+    "source": "David Ellsworth (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve)"
+  },
+  {
     "n": 180,
     "side_fraction": "13916993522477832483558124720393/1000000000000000000000000000000",
     "side_float": 13.916993522477831,
