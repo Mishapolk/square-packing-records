@@ -637,5 +637,14 @@
     "delta": -4.4222660022796845e-06,
     "sha256_cert": "3e972459e27067b0cca2df820503dab2a5fc0d7d4912e7bf426e1e91d10bfdb8",
     "source": "Francisco Couzo T-128"
+  },
+  {
+    "n": 307,
+    "side_fraction": "8990431392027345532050329388903/500000000000000000000000000000",
+    "side_float": 17.98086278405469,
+    "baseline": 17.9827220157961,
+    "delta": -0.0018592317414096726,
+    "sha256_cert": "d9949c9bf734d4a7806ce9917fd4eddb0226dc01b261f0985d2e70ad4825e4e8",
+    "source": "Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum)"
   }
 ]

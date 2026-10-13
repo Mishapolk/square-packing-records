@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (71 Counts)
+## 2. Table of Certified World Records (72 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -86,3 +86,4 @@ Every certificate in this collection has completed dual exact rational verificat
 | **304** | `179294277580751749...000000000000000` | 17.929427758075 | 17.929657042171 | **-2.293e-04** | SQUISH #481 / Couzo (conquered via composition optimum) | `8e64a66392f1ec76...` |
 | **305** | `359009329642754245...000000000000000` | 17.950466482138 | 17.950544853926 | **-7.837e-05** | SQUISH #481 (conquered via Couzo SLP optimum) | `f29829f625d1c0d2...` |
 | **306** | `8981716858749/500000000000` | 17.963433717498 | 17.963438139764 | **-4.422e-06** | Francisco Couzo T-128 | `3e972459e27067b0...` |
+| **307** | `899043139202734553...000000000000000` | 17.980862784055 | 17.982722015796 | **-1.859e-03** | Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum) | `d9949c9bf734d4a7...` |
