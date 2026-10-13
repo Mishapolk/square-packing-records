@@ -423,6 +423,15 @@
     "source": "Gupta T-127"
   },
   {
+    "n": 240,
+    "side_fraction": "7984842668765390168028037160291/500000000000000000000000000000",
+    "side_float": 15.96968533753078,
+    "baseline": 15.97556282833087,
+    "delta": -0.005877490800090257,
+    "sha256_cert": "6a8499c4cce92a5cb1d69f1fb1cab77167f5fac294269a59e89d0a18af2ece4d",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 241,
     "side_fraction": "15987117095150238758321758129189/1000000000000000000000000000000",
     "side_float": 15.98711709515024,

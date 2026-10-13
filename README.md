@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (59 Counts)
+## 2. Table of Certified World Records (60 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -62,6 +62,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **237** | `795135252893318339...000000000000000` | 15.902705057866 | 15.902947773659 | **-2.427e-04** | Francisco Couzo #561 | `b825369b3b1acf9d...` |
 | **238** | `159241067853214946...000000000000000` | 15.924106785321 | 15.926146857011 | **-2.040e-03** | Gupta T-127 | `1341f6e634dc1e69...` |
 | **239** | `398711083182512497...000000000000000` | 15.948443327301 | 15.949313169728 | **-8.698e-04** | Gupta T-127 | `ec6dbac803b07a5a...` |
+| **240** | `798484266876539016...000000000000000` | 15.969685337531 | 15.975562828331 | **-5.877e-03** | Francisco Couzo (conquered via exact dual-verified optimum) | `6a8499c4cce92a5c...` |
 | **241** | `159871170951502387...000000000000000` | 15.987117095150 | 15.988132439525 | **-1.015e-03** | Francisco Couzo (conquered via V-band continuous relaxation) | `c1a34e250b41dfb2...` |
 | **258** | `1656344800213717/100000000000000` | 16.563448002137 | 16.563448002139 | **-1.979e-12** | Evan Daniel T-146 | `580be390e8307ffc...` |
 | **263** | `167331660078993789...000000000000000` | 16.733166007899 | 16.740419679539 | **-7.254e-03** | Francisco Couzo #476 / T-134 | `7415fd7ece421aeb...` |
