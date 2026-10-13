@@ -117,6 +117,15 @@
     "source": "ry-xu (conquered via exact dual-verified optimum)"
   },
   {
+    "n": 126,
+    "side_fraction": "11742640687119285146522492579501/1000000000000000000000000000000",
+    "side_float": 11.742640687119286,
+    "baseline": 11.77473513240654,
+    "delta": -0.032094445287254914,
+    "sha256_cert": "028ccab5baa9e9c83d029cdd90efe63b35b36fa21a708e011971f7f6a5cc0d54",
+    "source": "ry-xu (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 127,
     "side_fraction": "11810878787593/1000000000000",
     "side_float": 11.810878787593,
