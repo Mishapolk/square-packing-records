@@ -225,6 +225,15 @@
     "source": "Daniil Ostashev (conquered via Couzo SLP optimum)"
   },
   {
+    "n": 172,
+    "side_fraction": "340474723922484960724992287973/25000000000000000000000000000",
+    "side_float": 13.618988956899399,
+    "baseline": 13.6189889866016,
+    "delta": -2.9702201587156196e-08,
+    "sha256_cert": "1c0101d07979a7c134959af3f6f791a7133a431a4e1be5935e7204631b52321f",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 175,
     "side_fraction": "13764174317486596629427823220043/1000000000000000000000000000000",
     "side_float": 13.764174317486596,
