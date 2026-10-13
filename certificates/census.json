@@ -279,6 +279,15 @@
     "source": "Francisco Couzo / Nate Chaoweeraprasit (conquered via exact KKT solve)"
   },
   {
+    "n": 181,
+    "side_fraction": "13953748821954402498045544433567/1000000000000000000000000000000",
+    "side_float": 13.953748821954402,
+    "baseline": 13.95690672341755,
+    "delta": -0.003157901463147539,
+    "sha256_cert": "2e3248b491eba7478344fddf2bfaae5e297d3bdf69ea3d86261c56608e08d5de",
+    "source": "Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 199,
     "side_fraction": "7308786086796403421851018497093/500000000000000000000000000000",
     "side_float": 14.617572173592807,
