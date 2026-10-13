@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (67 Counts)
+## 2. Table of Certified World Records (68 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -77,6 +77,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **271** | `169489923564512056...000000000000000` | 16.948992356451 | 16.949116687815 | **-1.243e-04** | SQUISH #481 (conquered via Couzo SLP optimum) | `b75e27c01cc3d204...` |
 | **272** | `212101376822120006...000000000000000` | 16.968110145770 | 16.969716024199 | **-1.606e-03** | Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum) | `e6bcef6fe6761172...` |
 | **273** | `169839259626504043...000000000000000` | 16.983925962650 | 16.988207250305 | **-4.281e-03** | Francisco Couzo (conquered via exact dual-verified optimum) | `e1717c97bd491fc1...` |
+| **292** | `439784453637442453...000000000000000` | 17.591378145498 | 17.602571412344 | **-1.119e-02** | Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum) | `bc0f414541eaae1e...` |
 | **302** | `223378442281938245...000000000000000` | 17.870275382555 | 17.870275382734 | **-1.789e-10** | BuddenPing #564 | `4ed240bbf06e9992...` |
 | **303** | `179099582910699079...000000000000000` | 17.909958291070 | 17.913065462739 | **-3.107e-03** | SQUISH #481 (conquered via composition optimum) | `96c7b1a0c25d023d...` |
 | **304** | `179294277580751749...000000000000000` | 17.929427758075 | 17.929657042171 | **-2.293e-04** | SQUISH #481 / Couzo (conquered via composition optimum) | `8e64a66392f1ec76...` |
