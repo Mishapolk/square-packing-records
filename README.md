@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (53 Counts)
+## 2. Table of Certified World Records (54 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -43,6 +43,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **172** | `340474723922484960...000000000000000` | 13.618988956899 | 13.618988986602 | **-2.970e-08** | Francisco Couzo (conquered via exact dual-verified optimum) | `1c0101d07979a7c1...` |
 | **175** | `137641743174865966...000000000000000` | 13.764174317487 | 13.767120724692 | **-2.946e-03** | Francisco Couzo #488 (conquered via composition optimum) | `74bcd89375c8e660...` |
 | **176** | `137958723184364072...000000000000000` | 13.795872318436 | 13.812856253277 | **-1.698e-02** | SQUISH #481 / Couzo (conquered via V-band merge) | `089afdfca356c612...` |
+| **177** | `138229797341694486...000000000000000` | 13.822979734169 | 13.823028750756 | **-4.902e-05** | Francisco Couzo (conquered via exact dual-verified optimum) | `237ef3b063170cb9...` |
 | **179** | `138837954905108984...000000000000000` | 13.883795490511 | 13.895341069976 | **-1.155e-02** | David Ellsworth (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve) | `c22926d11665a737...` |
 | **180** | `139169935224778324...000000000000000` | 13.916993522478 | 13.916993522483 | **-5.169e-12** | Francisco Couzo / Nate Chaoweeraprasit (conquered via exact KKT solve) | `df3fd97367e9323c...` |
 | **199** | `730878608679640342...000000000000000` | 14.617572173593 | 14.618988986602 | **-1.417e-03** | Francisco Couzo (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve) | `e64f01a051c96140...` |

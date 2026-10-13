@@ -252,6 +252,15 @@
     "source": "SQUISH #481 / Couzo (conquered via V-band merge)"
   },
   {
+    "n": 177,
+    "side_fraction": "13822979734169448600231882896281/1000000000000000000000000000000",
+    "side_float": 13.822979734169449,
+    "baseline": 13.82302875075647,
+    "delta": -4.901658702038958e-05,
+    "sha256_cert": "237ef3b063170cb9ecf76c06fcd9ba86accfd033c5bd0bace7dd56651abb1179",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 179,
     "side_fraction": "13883795490510898440309946897577/1000000000000000000000000000000",
     "side_float": 13.883795490510899,
