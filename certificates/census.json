@@ -18,6 +18,15 @@
     "source": "Ryan Xu #432 (conquered via Mishapolk optimum #470)"
   },
   {
+    "n": 88,
+    "side_fraction": "9882451030481246819427281665997/1000000000000000000000000000000",
+    "side_float": 9.882451030481247,
+    "baseline": 9.88815305375857,
+    "delta": -0.00570202327732261,
+    "sha256_cert": "fc9f142c437514a3a625a517d09bc925b2fab1d70be52eb739e687577f2c9127",
+    "source": "David Ellsworth (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve)"
+  },
+  {
     "n": 103,
     "side_fraction": "213584640947227/20000000000000",
     "side_float": 10.67923204736135,
