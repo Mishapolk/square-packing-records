@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (64 Counts)
+## 2. Table of Certified World Records (65 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -72,6 +72,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **266** | `841151437537823798...000000000000000` | 16.823028750756 | 16.823062082838 | **-3.333e-05** | Evan Daniel (this project) (conquered via exact dual-verified optimum) | `bedfa1cf0041f802...` |
 | **267** | `336776305399/20000000000` | 16.838815269950 | 16.838831961117 | **-1.669e-05** | Francisco Couzo #476 / T-134 | `03274dd9f36b11cf...` |
 | **268** | `843940741050338236...000000000000000` | 16.878814821007 | 16.879311434654 | **-4.966e-04** | Francisco Couzo (conquered via exact dual-verified optimum) | `d04663bc55de9c32...` |
+| **269** | `169015135821891321...000000000000000` | 16.901513582189 | 16.905967648284 | **-4.454e-03** | Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum) | `ada1f2b3a42bc6ee...` |
 | **270** | `2116221919193/125000000000` | 16.929775353544 | 16.937807228446 | **-8.032e-03** | Francisco Couzo #488 | `7dd96e6455e03cfa...` |
 | **271** | `169489923564512056...000000000000000` | 16.948992356451 | 16.949116687815 | **-1.243e-04** | SQUISH #481 (conquered via Couzo SLP optimum) | `b75e27c01cc3d204...` |
 | **302** | `223378442281938245...000000000000000` | 17.870275382555 | 17.870275382734 | **-1.789e-10** | BuddenPing #564 | `4ed240bbf06e9992...` |

@@ -513,6 +513,15 @@
     "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
   },
   {
+    "n": 269,
+    "side_fraction": "16901513582189132198548012552701/1000000000000000000000000000000",
+    "side_float": 16.901513582189132,
+    "baseline": 16.90596764828402,
+    "delta": -0.004454066094886855,
+    "sha256_cert": "ada1f2b3a42bc6ee1ecee0145502ddb1eb94d5a1b6a90d85e9a46eeb5b27be0a",
+    "source": "Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 270,
     "side_fraction": "2116221919193/125000000000",
     "side_float": 16.929775353544,
