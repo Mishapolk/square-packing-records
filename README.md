@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (38 Counts)
+## 2. Table of Certified World Records (39 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -23,6 +23,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **108** | `2726205253081/250000000000` | 10.904821012324 | 10.904824785111 | **-3.773e-06** | Ryan Xu T-125 | `995c59d9f64beb4b...` |
 | **127** | `11810878787593/1000000000000` | 11.810878787593 | 11.810936647512 | **-5.786e-05** | Ryan Xu T-125 | `3883629c133c315d...` |
 | **129** | `237400277008089286...000000000000000` | 11.870013850404 | 11.872029849081 | **-2.016e-03** | ry-xu (conquered via cut-out optimum from s(302)) | `75b59cc80185bf00...` |
+| **130** | `119044830325157864...000000000000000` | 11.904483032516 | 11.911190520159 | **-6.707e-03** | Francisco Couzo (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve) | `57eb94c613430fa8...` |
 | **131** | `597482979401793019...000000000000000` | 11.949659588036 | 11.951150044912 | **-1.490e-03** | Ryan Xu T-125 | `2386bf3302de34dc...` |
 | **132** | `599284009942290440...000000000000000` | 11.985680198846 | 11.991327887692 | **-5.648e-03** | Francisco Couzo / Evan Daniel #489 (conquered via exact KKT solve) | `2e1752f19f9a1792...` |
 | **153** | `20109396641257/1562500000000` | 12.870013850404 | 12.870013850407 | **-2.560e-12** | PingYou Ltd #504 / T-148 | `8c012a7207a4762c...` |

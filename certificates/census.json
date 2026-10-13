@@ -72,6 +72,15 @@
     "source": "ry-xu (conquered via cut-out optimum from s(302))"
   },
   {
+    "n": 130,
+    "side_fraction": "11904483032515786440073379383431/1000000000000000000000000000000",
+    "side_float": 11.904483032515786,
+    "baseline": 11.91119052015898,
+    "delta": -0.0067074876431938435,
+    "sha256_cert": "57eb94c613430fa8d6eb3499d4108a6f071b29254121728d048c652b2f106518",
+    "source": "Francisco Couzo (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve)"
+  },
+  {
     "n": 131,
     "side_fraction": "597482979401793019836646632113/50000000000000000000000000000",
     "side_float": 11.94965958803586,
