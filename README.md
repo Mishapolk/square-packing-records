@@ -11,12 +11,13 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (44 Counts)
+## 2. Table of Certified World Records (45 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
 | **51** | `769035593728849174...000000000000000` | 7.690355937288 | 7.700799235417 | **-1.044e-02** | ry-xu (conquered via exact dual-verified optimum) | `e066f65fa4c8a426...` |
 | **68** | `439939761860914195...000000000000000` | 8.798795237218 | 8.798796140260 | **-9.030e-07** | Francisco Couzo (conquered via exact dual-verified optimum) | `42d5880b190fcd9e...` |
+| **70** | `888096037155557959...000000000000000` | 8.880960371556 | 8.881666757009 | **-7.064e-04** | ry-xu (conquered via exact dual-verified optimum) | `7887aab209529532...` |
 | **84** | `969793479901492130...000000000000000` | 9.697934799015 | 9.698052060510 | **-1.173e-04** | Ryan Xu #432 (conquered via Mishapolk optimum #470) | `183979c7c711827a...` |
 | **86** | `982053540749674220...000000000000000` | 9.820535407497 | 9.820565730010 | **-3.032e-05** | Ryan Xu #432 (conquered via Mishapolk optimum #470) | `b5b0e62f150b2c2b...` |
 | **88** | `988245103048124681...000000000000000` | 9.882451030481 | 9.888153053759 | **-5.702e-03** | David Ellsworth (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve) | `fc9f142c437514a3...` |
