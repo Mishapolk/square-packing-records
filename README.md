@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (61 Counts)
+## 2. Table of Certified World Records (62 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -66,6 +66,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **241** | `159871170951502387...000000000000000` | 15.987117095150 | 15.988132439525 | **-1.015e-03** | Francisco Couzo (conquered via V-band continuous relaxation) | `c1a34e250b41dfb2...` |
 | **258** | `1656344800213717/100000000000000` | 16.563448002137 | 16.563448002139 | **-1.979e-12** | Evan Daniel T-146 | `580be390e8307ffc...` |
 | **259** | `414784453637442453...000000000000000` | 16.591378145498 | 16.602571412344 | **-1.119e-02** | Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum) | `bb0545569b8c6a7b...` |
+| **261** | `833938993770833938...000000000000000` | 16.678779875417 | 16.682926829268 | **-4.147e-03** | ry-xu (conquered via exact dual-verified optimum) | `0a249628a5ee4c31...` |
 | **263** | `167331660078993789...000000000000000` | 16.733166007899 | 16.740419679539 | **-7.254e-03** | Francisco Couzo #476 / T-134 | `7415fd7ece421aeb...` |
 | **264** | `838736756619391642...000000000000000` | 16.774735132388 | 16.778174593052 | **-3.439e-03** | Frits Goebel 1979 (conquered via Ostashev composition optimum) | `c38d659ec655600c...` |
 | **267** | `336776305399/20000000000` | 16.838815269950 | 16.838831961117 | **-1.669e-05** | Francisco Couzo #476 / T-134 | `03274dd9f36b11cf...` |
