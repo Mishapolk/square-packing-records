@@ -585,6 +585,15 @@
     "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
   },
   {
+    "n": 301,
+    "side_fraction": "17846667192843489783121781262887/1000000000000000000000000000000",
+    "side_float": 17.84666719284349,
+    "baseline": 17.8688915555743,
+    "delta": -0.0222243627308103,
+    "sha256_cert": "3ed0773ee7d51932054208998d466288d1d9650826447d9bf038493b97e0e2c4",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 302,
     "side_fraction": "2233784422819382458718924415903/125000000000000000000000000000",
     "side_float": 17.87027538255506,
