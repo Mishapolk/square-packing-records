@@ -540,6 +540,15 @@
     "source": "SQUISH #481 (conquered via Couzo SLP optimum)"
   },
   {
+    "n": 272,
+    "side_fraction": "2121013768221200063125669904449/125000000000000000000000000000",
+    "side_float": 16.9681101457696,
+    "baseline": 16.96971602419903,
+    "delta": -0.0016058784294301631,
+    "sha256_cert": "e6bcef6fe676117279f251ec20a3978ab52baf442cb624f8f6e4c51c01664756",
+    "source": "Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 302,
     "side_fraction": "2233784422819382458718924415903/125000000000000000000000000000",
     "side_float": 17.87027538255506,
