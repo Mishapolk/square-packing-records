@@ -99,6 +99,15 @@
     "source": "Ryan Xu T-125"
   },
   {
+    "n": 110,
+    "side_fraction": "10996783396631591639612746267957/1000000000000000000000000000000",
+    "side_float": 10.996783396631592,
+    "baseline": 10.99679327401957,
+    "delta": -9.877387977752505e-06,
+    "sha256_cert": "e53b4ea5d65eb2c6e9d63b181fcf27b69482a571dd1d074dcfe2d3dcd433dea8",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 127,
     "side_fraction": "11810878787593/1000000000000",
     "side_float": 11.810878787593,
