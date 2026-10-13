@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (58 Counts)
+## 2. Table of Certified World Records (59 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -56,6 +56,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **209** | `934138951653/62500000000` | 14.946223226448 | 14.949617952200 | **-3.395e-03** | Francisco Couzo #488 | `f5aa5aa77ce5b959...` |
 | **210** | `374325027914690643...000000000000000` | 14.973001116588 | 14.974133418864 | **-1.132e-03** | Francisco Couzo (conquered via exact dual-verified optimum) | `7ab425ad491f7c67...` |
 | **211** | `749677945698700308...000000000000000` | 14.993558913974 | 14.996336721336 | **-2.778e-03** | Daniil Ostashev / Joost de Winter (conquered via V-band continuous relaxation) | `ffef65229ce1a42f...` |
+| **228** | `390115036893241857...000000000000000` | 15.604601475730 | 15.609022821325 | **-4.421e-03** | Francisco Couzo (conquered via exact dual-verified optimum) | `5d9fffb96f775b8e...` |
 | **232** | `157641743174865966...000000000000000` | 15.764174317487 | 15.767428349942 | **-3.254e-03** | Nate Chaoweeraprasit (SQUISH) composition (conquered via exact optimum) | `38d91356cf9d2a80...` |
 | **236** | `15863955747161/1000000000000` | 15.863955747161 | 15.867800839420 | **-3.845e-03** | Francisco Couzo T-056 | `bb55861e94830e0a...` |
 | **237** | `795135252893318339...000000000000000` | 15.902705057866 | 15.902947773659 | **-2.427e-04** | Francisco Couzo #561 | `b825369b3b1acf9d...` |

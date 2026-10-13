@@ -369,6 +369,15 @@
     "source": "Daniil Ostashev / Joost de Winter (conquered via V-band continuous relaxation)"
   },
   {
+    "n": 228,
+    "side_fraction": "3901150368932418571180158525547/250000000000000000000000000000",
+    "side_float": 15.604601475729675,
+    "baseline": 15.60902282132495,
+    "delta": -0.0044213455952757386,
+    "sha256_cert": "5d9fffb96f775b8efb91c05402da0bdf7a29408849f94642a482ad3b28253627",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 232,
     "side_fraction": "15764174317486596629447823220043/1000000000000000000000000000000",
     "side_float": 15.764174317486596,
