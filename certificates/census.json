@@ -72,6 +72,15 @@
     "source": "Ryan Xu T-125"
   },
   {
+    "n": 132,
+    "side_fraction": "5992840099422904405761115982051/500000000000000000000000000000",
+    "side_float": 11.98568019884581,
+    "baseline": 11.9913278876915,
+    "delta": -0.005647688845691334,
+    "sha256_cert": "2e1752f19f9a17920861563796c4c698ba5208f9c137a994be102f6b7bbd7da9",
+    "source": "Francisco Couzo / Evan Daniel #489 (conquered via exact KKT solve)"
+  },
+  {
     "n": 153,
     "side_fraction": "20109396641257/1562500000000",
     "side_float": 12.87001385040448,
