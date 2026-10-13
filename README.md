@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (40 Counts)
+## 2. Table of Certified World Records (41 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -34,6 +34,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **176** | `137958723184364072...000000000000000` | 13.795872318436 | 13.812856253277 | **-1.698e-02** | SQUISH #481 / Couzo (conquered via V-band merge) | `089afdfca356c612...` |
 | **179** | `138837954905108984...000000000000000` | 13.883795490511 | 13.895341069976 | **-1.155e-02** | David Ellsworth (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve) | `c22926d11665a737...` |
 | **180** | `139169935224778324...000000000000000` | 13.916993522478 | 13.916993522483 | **-5.169e-12** | Francisco Couzo / Nate Chaoweeraprasit (conquered via exact KKT solve) | `df3fd97367e9323c...` |
+| **199** | `730878608679640342...000000000000000` | 14.617572173593 | 14.618988986602 | **-1.417e-03** | Francisco Couzo (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve) | `e64f01a051c96140...` |
 | **204** | `740433161719347828...000000000000000` | 14.808663234387 | 14.822875655532 | **-1.421e-02** | David Ellsworth table (conquered via Ostashev composition optimum) | `d999dd188185e6aa...` |
 | **207** | `7440480185779/500000000000` | 14.880960371558 | 14.880960373044 | **-1.486e-09** | PingYou Ltd #503 / T-147 | `3cc901c7096406d0...` |
 | **209** | `934138951653/62500000000` | 14.946223226448 | 14.949617952200 | **-3.395e-03** | Francisco Couzo #488 | `f5aa5aa77ce5b959...` |

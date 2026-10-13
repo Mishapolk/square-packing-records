@@ -171,6 +171,15 @@
     "source": "Francisco Couzo / Nate Chaoweeraprasit (conquered via exact KKT solve)"
   },
   {
+    "n": 199,
+    "side_fraction": "7308786086796403421851018497093/500000000000000000000000000000",
+    "side_float": 14.617572173592807,
+    "baseline": 14.6189889866016,
+    "delta": -0.0014168130087934827,
+    "sha256_cert": "e64f01a051c96140f6d41bdf84f3791341efc854b1945d2bc7b85185836606a2",
+    "source": "Francisco Couzo (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve)"
+  },
+  {
     "n": 204,
     "side_fraction": "7404331617193478283235495040473/500000000000000000000000000000",
     "side_float": 14.808663234386957,
