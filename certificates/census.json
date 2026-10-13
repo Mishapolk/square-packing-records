@@ -646,5 +646,14 @@
     "delta": -0.0018592317414096726,
     "sha256_cert": "d9949c9bf734d4a7806ce9917fd4eddb0226dc01b261f0985d2e70ad4825e4e8",
     "source": "Nate Chaoweeraprasit (itsnaka, SQUISH) (conquered via exact dual-verified optimum)"
+  },
+  {
+    "n": 308,
+    "side_fraction": "17998269879526255875387992744507/1000000000000000000000000000000",
+    "side_float": 17.998269879526255,
+    "baseline": 18.0,
+    "delta": -0.0017301204737449893,
+    "sha256_cert": "695cbb958f0ab76213f5c480772563adad0d1018e42b1cdddaf55026a336f1e8",
+    "source": "Kevin Fang (TheSnakeFang) (conquered via exact dual-verified optimum)"
   }
 ]
