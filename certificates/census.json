@@ -54,6 +54,15 @@
     "source": "David Ellsworth (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve)"
   },
   {
+    "n": 102,
+    "side_fraction": "10605828696431578360490734944053/1000000000000000000000000000000",
+    "side_float": 10.605828696431578,
+    "baseline": 10.61138794077522,
+    "delta": -0.005559244343642078,
+    "sha256_cert": "e05bde7557e130840427b9b68e2300ed6770a52e03bc54576aecc3a5c6cc1c33",
+    "source": "ry-xu (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 103,
     "side_fraction": "213584640947227/20000000000000",
     "side_float": 10.67923204736135,
