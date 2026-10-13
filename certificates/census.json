@@ -171,6 +171,15 @@
     "source": "Francisco Couzo / Evan Daniel #489 (conquered via exact KKT solve)"
   },
   {
+    "n": 146,
+    "side_fraction": "6291891138707538440974154877957/500000000000000000000000000000",
+    "side_float": 12.583782277415077,
+    "baseline": 12.60090777851301,
+    "delta": -0.017125501097932982,
+    "sha256_cert": "7386e5853b3ed5a71f3ca447dae2583dc20b2921e494b8b5d972f319d97dc3da",
+    "source": "ry-xu (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 153,
     "side_fraction": "20109396641257/1562500000000",
     "side_float": 12.87001385040448,
