@@ -9,6 +9,15 @@
     "source": "ry-xu (conquered via exact dual-verified optimum)"
   },
   {
+    "n": 68,
+    "side_fraction": "4399397618609141951332334459697/500000000000000000000000000000",
+    "side_float": 8.798795237218284,
+    "baseline": 8.7987961402601,
+    "delta": -9.030418155475672e-07,
+    "sha256_cert": "42d5880b190fcd9e5723aca3e5c82a1d9ce94b40be5aa97700cee3bae5149096",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 84,
     "side_fraction": "9697934799014921307163820128651/1000000000000000000000000000000",
     "side_float": 9.697934799014922,
