@@ -198,6 +198,15 @@
     "source": "PingYou Ltd #503 / T-147"
   },
   {
+    "n": 208,
+    "side_fraction": "14924518772029355886067891154233/1000000000000000000000000000000",
+    "side_float": 14.924518772029357,
+    "baseline": 14.93776656277905,
+    "delta": -0.013247790749693067,
+    "sha256_cert": "7522c2feb472b99af69fe21cd42d879a3f328154629d37a16f2f98a2a81afe01",
+    "source": "Francisco Couzo (catalogue baseline) / Nate Chaoweeraprasit / Gupta (conquered via exact KKT solve)"
+  },
+  {
     "n": 209,
     "side_fraction": "934138951653/62500000000",
     "side_float": 14.946223226448,
