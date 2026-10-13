@@ -11,7 +11,7 @@ Every certificate in this collection has completed dual exact rational verificat
 2. **Dual Exact Verifiers:** Verified with zero tolerance by `tools/competitors/evand/search/exact/verify_cert.py` and `verify_cert2.py`.
 3. **Strict Victory Threshold:** Every record achieves a certified improvement margin $\Delta S \le -10^{-12}$, with macro/micron structural advances ranging up to $-16.98\text{ mm}$ ($N=176$), $-14.21\text{ mm}$ ($N=204$), $-8.03\text{ mm}$ ($N=270$), and $-7.25\text{ mm}$ ($N=263$).
 
-## 2. Table of Certified World Records (46 Counts)
+## 2. Table of Certified World Records (47 Counts)
 
 | $n$ | Certified Exact Form $S_n$ | Decimal Value (12 dp) | Baseline Ceiling | Improvement ($\Delta S$) | Conquered Competitor / Provenance | SHA-256 Digest |
 |---:|---|---|---|---:|---|---|
@@ -24,6 +24,7 @@ Every certificate in this collection has completed dual exact rational verificat
 | **102** | `106058286964315783...000000000000000` | 10.605828696432 | 10.611387940775 | **-5.559e-03** | ry-xu (conquered via exact dual-verified optimum) | `e05bde7557e13084...` |
 | **103** | `213584640947227/20000000000000` | 10.679232047361 | 10.679232047511 | **-1.493e-10** | Evan Daniel T-146 | `044ab54af75be782...` |
 | **105** | `107893037837481588...000000000000000` | 10.789303783748 | 10.790618268108 | **-1.314e-03** | Francisco Couzo #451 (conquered via Mishapolk optimum #470) | `3d4fc1ed6193ede6...` |
+| **106** | `108229080441328475...000000000000000` | 10.822908044133 | 10.822979734169 | **-7.169e-05** | Francisco Couzo (conquered via exact dual-verified optimum) | `514f128e0da92de1...` |
 | **108** | `2726205253081/250000000000` | 10.904821012324 | 10.904824785111 | **-3.773e-06** | Ryan Xu T-125 | `995c59d9f64beb4b...` |
 | **127** | `11810878787593/1000000000000` | 11.810878787593 | 11.810936647512 | **-5.786e-05** | Ryan Xu T-125 | `3883629c133c315d...` |
 | **129** | `237400277008089286...000000000000000` | 11.870013850404 | 11.872029849081 | **-2.016e-03** | ry-xu (conquered via cut-out optimum from s(302)) | `75b59cc80185bf00...` |
