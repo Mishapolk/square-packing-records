@@ -315,6 +315,15 @@
     "source": "David Ellsworth table (conquered via Ostashev composition optimum)"
   },
   {
+    "n": 206,
+    "side_fraction": "232189979115498488075628916091/15625000000000000000000000000",
+    "side_float": 14.860158663391903,
+    "baseline": 14.87221902560728,
+    "delta": -0.012060362215375875,
+    "sha256_cert": "f00e58146afc719e04a75b1dbe0cc184eda2861c020574a93c63c64d52bca8cc",
+    "source": "Francisco Couzo (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 207,
     "side_fraction": "7440480185779/500000000000",
     "side_float": 14.880960371558,
