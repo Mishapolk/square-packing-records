@@ -486,6 +486,15 @@
     "source": "Frits Goebel 1979 (conquered via Ostashev composition optimum)"
   },
   {
+    "n": 266,
+    "side_fraction": "8411514375378237985354391855627/500000000000000000000000000000",
+    "side_float": 16.823028750756475,
+    "baseline": 16.8230620828378,
+    "delta": -3.333208132616505e-05,
+    "sha256_cert": "bedfa1cf0041f802ddbfe1a8c13148eb393c2b08460ed2abf8681880b40e8050",
+    "source": "Evan Daniel (this project) (conquered via exact dual-verified optimum)"
+  },
+  {
     "n": 267,
     "side_fraction": "336776305399/20000000000",
     "side_float": 16.83881526995,
