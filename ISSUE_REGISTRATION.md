@@ -90,10 +90,10 @@ Each certificate provides a valid non-overlapping packing of N unit squares in a
 
 **Certificate.** 73 exact rational certificates in JSON format (center-basis with half-angle orientation parameter s = tan(theta/2) and exact rational coordinates):
 - Repository: [Mishapolk/square-packing-records](https://github.com/Mishapolk/square-packing-records)
-- Pinned commit: `46f638ce0537beeb1bad24242c6a3d357eecd9ee` (branch `main`)
-- Directory: [`certificates/`](https://github.com/Mishapolk/square-packing-records/tree/46f638ce0537beeb1bad24242c6a3d357eecd9ee/certificates)
-- Master census: [`certificates/census.json`](https://github.com/Mishapolk/square-packing-records/blob/46f638ce0537beeb1bad24242c6a3d357eecd9ee/certificates/census.json)
-- Victory manifest: [`LEGAL_VICTORIES.jsonl`](https://github.com/Mishapolk/square-packing-records/blob/46f638ce0537beeb1bad24242c6a3d357eecd9ee/LEGAL_VICTORIES.jsonl)
+- Pinned commit: `27fec1724ae875b865386372b183af1c5f92d078` (branch `main`)
+- Directory: [`certificates/`](https://github.com/Mishapolk/square-packing-records/tree/27fec1724ae875b865386372b183af1c5f92d078/certificates)
+- Master census: [`certificates/census.json`](https://github.com/Mishapolk/square-packing-records/blob/27fec1724ae875b865386372b183af1c5f92d078/certificates/census.json)
+- Victory manifest: [`LEGAL_VICTORIES.jsonl`](https://github.com/Mishapolk/square-packing-records/blob/27fec1724ae875b865386372b183af1c5f92d078/LEGAL_VICTORIES.jsonl)
 
 **Checking.** Each certificate has been independently triple-checked with zero tolerance:
 1. `tools/competitors/evand/search/exact/verify_cert.py` (Evan Daniel exact rational separating hyperplane & container containment verifier): **73 / 73 passed**
