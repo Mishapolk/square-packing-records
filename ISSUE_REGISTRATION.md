@@ -119,4 +119,4 @@ Total wall time for all 219 verifier executions: 43.9 seconds. All checkers exit
 **Lineage and credit.** Credit: Mishapolk (Mikhail Polk).
 These packings build upon and refine foundational packings and discoveries by Erich Friedman, Joshua Levy, Evan Daniel, Ryan Xu, Nate Chaoweeraprasit (itsnaka / SQUISH), Robert Barnett, Francisco Couzo, Daniil Ostashev, David Ellsworth, Kevin Fang, and other contributors to the square packing record, as detailed in the lineage column of the table above.
 
-**AI assistance.** AI assistance (Google DeepMind Antigravity) was used for numerical optimization orchestration, coordinate precision refinement, exact rationalization, and verification tooling. All geometric validity and separation conditions are confirmed by the deterministic exact mathematical checkers listed above.
+**AI assistance.** Gemini 3.8 assisted with solver scripting, precision checks, and formatting.
