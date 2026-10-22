@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import math
+import sys
 from decimal import Decimal as D, getcontext as G
 
 def set_pi():
@@ -135,8 +136,37 @@ def ov(a, b):
 
 def ld(fn, precision):
     with open(fn, 'r') as f:
-        raw = f.read().replace('\n', ' ') 
+        content = f.read()
 
+    # Check if exact rational certificate format (Evan Daniel / Couzo standard)
+    first_non_comment = None
+    for line in content.splitlines():
+        line = line.strip()
+        if line and not line.startswith('#'):
+            first_non_comment = line
+            break
+    
+    if first_non_comment and len(first_non_comment.split()) == 2 and not "s:" in content:
+        import verify_bound_certificate as vbc
+        n, S, squares = vbc.parse(fn)
+        res = vbc.verify(n, S, squares)
+        print(f"Checking {fn} via exact rational arithmetic (Weierstrass SAT)")
+        print(f"N: {res['n']}, Side: {res['side']}")
+        print(f"Candidate pairs tested: {res['candidate_pairs']}, Near pairs: {res['near_pairs']}")
+        print(f"Wall margin sign: {res['wall_margin_sign']}, Pair margin sign: {res['pair_margin_sign']}")
+        if res['strict_valid']:
+            print("Container: OK")
+            print("Overlaps: NONE")
+            print("VALID (strict open container)")
+        elif res['valid']:
+            print("Container: OK")
+            print("Overlaps: NONE")
+            print("VALID (closed container)")
+        else:
+            print("INVALID")
+        sys.exit(0 if res['valid'] else 1)
+
+    raw = content.replace('\n', ' ') 
     val = raw.split("s:")[1].split()[0]
     if precision == 0:
         precision = max(7, len(val) - 3)

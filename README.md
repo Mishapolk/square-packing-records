@@ -9,18 +9,32 @@ This repository serves as the official public record ledger for certified unit s
 
 ## 1. Executive Summary
 
-This release integrates **5,468 new exact rational world records** spanning the integer spectrum $N \in [328, 10000]$:
-1. **Complete Resolution of Couzo Issue #715 (1,285 Claims)**:
+This release integrates **5,468 exact rational certificates** spanning the integer spectrum $N \in [328, 10000]$ and establishes the definitive upper bound catalog for $N = 1$ to $10,000$:
+
+1. **Resolution of Francisco Couzo Issue #715**:
    - Strictly improves upon all 1,285 claimed upper bounds reported in #715:
      - **1,056 claims strictly beaten by large geometric margins** (up to $9.313\text{ mm}$, average $5.918\text{ mm}$);
      - **229 claims strictly beaten by exact rational bounds** (strictly tighter than Couzo's published 12-decimal upward rounded values).
    - **0 tied, 0 worse, 0 missing**.
-2. **Conquest of All 4,183 Skipped Sub-Ceiling Counts**:
-   - Materializes and verifies exact rational certificates for all 4,183 previously omitted integer counts between $N = 328$ and $N = 10,000$ that admit sub-ceiling packings ($S < \lceil\sqrt{N}\rceil$).
-3. **Full Repository Inventory**:
-   - The repository now contains **5,771 exact rational certificates** in [`certificates/`](certificates/) across small-$N$ numerical optima and high-$N$ macro-layouts.
-   - Comprehensive ledger in [`certificates/census.json`](certificates/census.json) detailing exact sides, competitor baselines, margins, and SHA-256 digests.
-   - Master 10,000-count upper bound catalog in [`upper_bounds.json`](upper_bounds.json).
+2. **Master Catalog & Rigorous Attribution**:
+   - Master 10,000-count upper bound catalog in [`upper_bounds.json`](upper_bounds.json) and finite index in [`certified_bounds.json`](certified_bounds.json).
+   - **1,369 strict world record improvements** won by Mishapolk in $[328, 10000]$.
+   - Complete preservation of all authentic historical and community literature ($N \le 308$ baselines properly credited to Gardner, Erdős, Göbel, Friedman, Ellsworth, Daniel; 3,734 classical L-border algebraic bounds credited to Frits Göbel).
+3. **Full Repository Layout & GitHub Browsability**:
+   - To prevent GitHub's web interface from truncating directory listings (GitHub limits individual folders to 1,000 files), all 5,468 certificates are cleanly organized into 10 millennium subdirectories of $\approx 400\text{--}600$ files each:
+     - [`certificates/0000-0999/`](certificates/0000-0999/)
+     - [`certificates/1000-1999/`](certificates/1000-1999/)
+     - [`certificates/2000-2999/`](certificates/2000-2999/)
+     - [`certificates/3000-3999/`](certificates/3000-3999/)
+     - [`certificates/4000-4999/`](certificates/4000-4999/)
+     - [`certificates/5000-5999/`](certificates/5000-5999/)
+     - [`certificates/6000-6999/`](certificates/6000-6999/)
+     - [`certificates/7000-7999/`](certificates/7000-7999/)
+     - [`certificates/8000-8999/`](certificates/8000-8999/)
+     - [`certificates/9000-9999/`](certificates/9000-9999/)
+   - Full machine-readable witness mapping in [`certificates/manifest.json`](certificates/manifest.json).
+   - Complete SHA-256 digests in [`certificates/SHA256SUMS`](certificates/SHA256SUMS).
+   - Strict world record improvements ledger in [`certificates/census.json`](certificates/census.json).
 
 ---
 
@@ -47,16 +61,12 @@ $$\cos \theta_i = \frac{1 - t_i^2}{1 + t_i^2}, \quad \sin \theta_i = \frac{2t_i}
 Verification is deterministic with zero floating-point tolerances under the Separating Axis Theorem (SAT):
 
 ```bash
-# Verify any individual certificate:
-python3 check_packing.py certificates/n-9913.cert
+# Verify any individual certificate via the standard community verifier:
+python3 verify_bound_certificate.py certificates/0000-0999/n335.cert --strict
 
-# Run the complete rational SAT suite:
-python3 -c "
-import os
-from check_packing import verify_file
-cert_files = [f for f in os.listdir('certificates') if f.endswith('.cert')]
-print(f'Auditing {len(cert_files)} certificates...')
-for f in sorted(cert_files):
-    verify_file(os.path.join('certificates', f))
-"
+# Or via check_packing.py:
+python3 check_packing.py certificates/9000-9999/n9913.cert
+
+# Verify all SHA-256 digests in certificates/:
+shasum -a 256 -c certificates/SHA256SUMS
 ```
