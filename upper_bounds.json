@@ -5649,38 +5649,23 @@
     },
     "236": {
       "verified": {
-        "bound": "7930967195303679308621899285697/500000000000000000000000000000",
-        "source": "https://github.com/jlevy/squares/issues/659",
-        "status": "exact certificate verified",
-        "credit": "Nate Chaoweeraprasit (SQUISH), refined by Evan Daniel",
-        "sha256": "abae0c5240f986373a4c49f860004ba3b187495579b4f88d41bfec0d9015a546",
+        "bound": "79309671953036793085425896137517101404099/5000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n236.cert",
+        "source_n": 236,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+        "sha256": "af0a22b08d72d13a039f5a8f2767597dbc6f5a31167dff251701daee9fc1b668",
         "rounded_up": "15.861934390608"
       },
       "reported": {
-        "bound": "7930967195303679308621899285697/500000000000000000000000000000",
-        "exact_bound": {
-          "rational": "7930967195303679308621899285697/500000000000000000000000000000",
-          "sqrt2": "0",
-          "expression": "7930967195303679308621899285697/500000000000000000000000000000 + 0*sqrt(2)"
-        },
-        "source": "https://github.com/evand/square-packing/blob/5ad00693899ef50ccf6502f0346187cc422cc914/search/packer/candidates/s236_bm3c.cert",
-        "credit": "Evan Daniel",
-        "status": "reviewed public upper bound",
-        "origin": {
-          "source": "verified public certificate",
-          "credit": "Evan Daniel",
-          "provenance": {
-            "category": "issue 659",
-            "source_url": "https://github.com/evand/square-packing/blob/5ad00693899ef50ccf6502f0346187cc422cc914/search/packer/candidates/s236_bm3c.cert",
-            "original_credits": {},
-            "request": "https://github.com/jlevy/squares/issues/659"
-          },
-          "certificate_sha256": "f496eb01f4ea59766ba50bd71e4551dd2016305e885926316639325c80b68cf1",
-          "source_n": 236,
-          "tiles_per_side": 1,
-          "L_layers": 0,
-          "capacity": 236
-        }
+        "bound": "79309671953036793085425896137517101404099/5000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n236.cert",
+        "source_n": 236,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+        "sha256": "af0a22b08d72d13a039f5a8f2767597dbc6f5a31167dff251701daee9fc1b668"
       }
     },
     "237": {

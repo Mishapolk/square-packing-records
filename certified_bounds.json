@@ -1947,11 +1947,20 @@
     },
     "236": {
       "n": 236,
-      "kind": "reference",
-      "bound": "7930967195303679308621899285697/500000000000000000000000000000",
+      "kind": "certificate",
+      "bound": "79309671953036793085425896137517101404099/5000000000000000000000000000000000000000",
       "rounded_up": "15.861934390608",
-      "credit": "Nate Chaoweeraprasit (SQUISH), refined by Evan Daniel",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n236.cert",
+      "certificate_sha256": "af0a22b08d72d13a039f5a8f2767597dbc6f5a31167dff251701daee9fc1b668",
+      "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+      "verification": {
+        "n": 236,
+        "side": "79309671953036793085425896137517101404099/5000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "237": {
       "n": 237,
