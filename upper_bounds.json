@@ -2876,38 +2876,23 @@
     },
     "126": {
       "verified": {
-        "bound": "2686984240797014619869630605958948083916353963432478195760721800972663254721275568770734288161552598859464493237729939724268432879/228822827198009746564128570377566784160463108348906597955331877508656802380474158950317956503347298588700000000000000000000000000",
-        "rounded_up": "11.742640687119",
-        "credit": "Mykhailo Polkovskyi (Mishapolk)",
+        "bound": "58713203435596425732025330863204184381981/5000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n126.cert",
+        "source_n": 126,
+        "deleted_squares": 0,
         "status": "exact certificate verified (strict open container)",
-        "source": "https://github.com/Mishapolk/square-packing-records"
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from PingYou Ltd",
+        "sha256": "97f9fa14adc8e581aac798756a538c25ee132234c9a04f487fb156f92951033e",
+        "rounded_up": "11.742640687120"
       },
       "reported": {
-        "bound": "53739684815940292397392607111327003601113434031994565386620930564850835253219529441852633291998410463995/4576456543960194931282571407551335683209262166978131959106637550173136047609483179006359130066945971774",
-        "exact_bound": {
-          "rational": "53739684815940292397392607111327003601113434031994565386620930564850835253219529441852633291998410463995/4576456543960194931282571407551335683209262166978131959106637550173136047609483179006359130066945971774",
-          "sqrt2": "0",
-          "expression": "53739684815940292397392607111327003601113434031994565386620930564850835253219529441852633291998410463995/4576456543960194931282571407551335683209262166978131959106637550173136047609483179006359130066945971774 + 0*sqrt(2)"
-        },
-        "source": "https://github.com/jlevy/squares/pull/574",
-        "credit": "PingYou Ltd (BuddenPing)",
-        "status": "reviewed public upper bound",
-        "origin": {
-          "source": "verified public certificate",
-          "credit": "PingYou Ltd (BuddenPing)",
-          "provenance": {
-            "category": "native",
-            "request": "https://github.com/jlevy/squares/pull/574",
-            "construction_credit": [
-              "ry-xu"
-            ]
-          },
-          "certificate_sha256": "21d04c9e144d9267efe8088c70cb41fd61d8193e2bebfb61087a94ad919f919c",
-          "source_n": 126,
-          "tiles_per_side": 1,
-          "L_layers": 0,
-          "capacity": 126
-        }
+        "bound": "58713203435596425732025330863204184381981/5000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n126.cert",
+        "source_n": 126,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from PingYou Ltd",
+        "sha256": "97f9fa14adc8e581aac798756a538c25ee132234c9a04f487fb156f92951033e"
       }
     },
     "127": {

@@ -1022,11 +1022,20 @@
     },
     "126": {
       "n": 126,
-      "kind": "reference",
-      "bound": "2686984240797014619869630605958948083916353963432478195760721800972663254721275568770734288161552598859464493237729939724268432879/228822827198009746564128570377566784160463108348906597955331877508656802380474158950317956503347298588700000000000000000000000000",
-      "rounded_up": "11.742640687119",
-      "credit": "Mykhailo Polkovskyi (Mishapolk)",
-      "status": "exact certificate verified (strict open container)"
+      "kind": "certificate",
+      "bound": "58713203435596425732025330863204184381981/5000000000000000000000000000000000000000",
+      "rounded_up": "11.742640687120",
+      "certificate": "certificates/0000-0999/n126.cert",
+      "certificate_sha256": "97f9fa14adc8e581aac798756a538c25ee132234c9a04f487fb156f92951033e",
+      "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from PingYou Ltd",
+      "verification": {
+        "n": 126,
+        "side": "58713203435596425732025330863204184381981/5000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "127": {
       "n": 127,
