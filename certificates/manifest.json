@@ -3,8 +3,8 @@
   "generated": "2026-10-22T19:35:00Z",
   "repository": "https://github.com/Mishapolk/square-packing-records",
   "author": "Mishapolk / Mykhailo Polkovskyi",
-  "total_certificates": 5468,
-  "strict_world_records": 5468,
+  "total_certificates": 5467,
+  "strict_world_records": 5467,
   "witnesses": {
     "328": {
       "n": 328,
@@ -17924,16 +17924,6 @@
       "rounded_up": "58.988287236851",
       "certificate": "certificates/3000-3999/n3425.cert",
       "certificate_sha256": "998e229085a2268770e7145cff60b0e5043fa1099d7e6fd8c730312b94a2acca",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)"
-    },
-    "3426": {
-      "n": 3426,
-      "kind": "certificate",
-      "is_world_record": true,
-      "bound": "6946432321389501991832011422112539401927883861578115384730540501055792595837229/115792089237316195423570985008687907853269984665640564039457584007913129639936",
-      "rounded_up": "59.990560384076",
-      "certificate": "certificates/3000-3999/n3426.cert",
-      "certificate_sha256": "1416739dc00fb01f0ee62c9fc5eb09eda77a34680386dc5976b9399b60db151e",
       "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)"
     },
     "3427": {

@@ -21504,18 +21504,6 @@
     "source": "Mishapolk exact macro-layout beating Integer grid ceiling"
   },
   {
-    "n": 3426,
-    "side_fraction": "6946432321389501991832011422112539401927883861578115384730540501055792595837229/115792089237316195423570985008687907853269984665640564039457584007913129639936",
-    "side_float": 59.99056038407572,
-    "rounded_up": "59.990560384076",
-    "baseline_bound": "59",
-    "baseline_holder": "Integer grid ceiling",
-    "delta": 0.9905603840757209,
-    "sha256_cert": "1416739dc00fb01f0ee62c9fc5eb09eda77a34680386dc5976b9399b60db151e",
-    "certificate_path": "certificates/3000-3999/n3426.cert",
-    "source": "Mishapolk exact macro-layout beating Integer grid ceiling"
-  },
-  {
     "n": 3427,
     "side_fraction": "370289748958314509728050111930671346145306315799227732828461/6277101735386680763835789423207666416102355444464034512896",
     "side_float": 58.99056038407572,

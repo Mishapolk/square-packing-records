@@ -9,7 +9,7 @@ This repository serves as the official public record ledger for certified unit s
 
 ## 1. Executive Summary
 
-This release integrates **5,468 exact rational certificates** spanning the integer spectrum $N \in [328, 10000]$ and establishes the definitive upper bound catalog for $N = 1$ to $10,000$:
+This release integrates **5,467 exact rational certificates** spanning the integer spectrum $N \in [328, 10000]$ and establishes the definitive upper bound catalog for $N = 1$ to $10,000$:
 
 1. **Resolution of Francisco Couzo Issue #715**:
    - Strictly improves upon all 1,285 claimed upper bounds reported in #715:
@@ -21,7 +21,7 @@ This release integrates **5,468 exact rational certificates** spanning the integ
    - **1,369 strict world record improvements** won by Mishapolk in $[328, 10000]$.
    - Complete preservation of all authentic historical and community literature ($N \le 308$ baselines properly credited to Gardner, Erdős, Göbel, Friedman, Ellsworth, Daniel; 3,734 classical L-border algebraic bounds credited to Frits Göbel).
 3. **Full Repository Layout & GitHub Browsability**:
-   - To prevent GitHub's web interface from truncating directory listings (GitHub limits individual folders to 1,000 files), all 5,468 certificates are cleanly organized into 10 millennium subdirectories of $\approx 400\text{--}600$ files each:
+   - To prevent GitHub's web interface from truncating directory listings (GitHub limits individual folders to 1,000 files), all 5,467 certificates are cleanly organized into 10 millennium subdirectories of $\approx 400\text{--}600$ files each:
      - [`certificates/0000-0999/`](certificates/0000-0999/)
      - [`certificates/1000-1999/`](certificates/1000-1999/)
      - [`certificates/2000-2999/`](certificates/2000-2999/)

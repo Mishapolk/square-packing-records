@@ -65677,23 +65677,17 @@
     },
     "3426": {
       "verified": {
-        "bound": "6946432321389501991832011422112539401927883861578115384730540501055792595837229/115792089237316195423570985008687907853269984665640564039457584007913129639936",
-        "source": "certificates/3000-3999/n3426.cert",
-        "source_n": 3426,
-        "deleted_squares": 0,
-        "status": "exact certificate verified",
-        "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
-        "sha256": "1416739dc00fb01f0ee62c9fc5eb09eda77a34680386dc5976b9399b60db151e",
-        "rounded_up": "59.990560384076"
+        "bound": "59",
+        "source": "integer square grid",
+        "status": "verified construction",
+        "credit": "square grid",
+        "rounded_up": "59.000000000000"
       },
       "reported": {
-        "bound": "6946432321389501991832011422112539401927883861578115384730540501055792595837229/115792089237316195423570985008687907853269984665640564039457584007913129639936",
-        "source": "certificates/3000-3999/n3426.cert",
-        "source_n": 3426,
-        "deleted_squares": 0,
-        "status": "exact certificate verified",
-        "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
-        "sha256": "1416739dc00fb01f0ee62c9fc5eb09eda77a34680386dc5976b9399b60db151e"
+        "bound": "59",
+        "source": "integer square grid",
+        "status": "verified construction",
+        "credit": "square grid"
       }
     },
     "3427": {
