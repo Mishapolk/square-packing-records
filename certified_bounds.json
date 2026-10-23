@@ -2219,11 +2219,20 @@
     },
     "270": {
       "n": 270,
-      "kind": "reference",
+      "kind": "certificate",
       "bound": "16928162252196750114897964982713/1000000000000000000000000000000",
       "rounded_up": "16.928162252197",
-      "credit": "Evan Daniel",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n270.cert",
+      "certificate_sha256": "a01114af338f092232c0b7de07bfd164a636ef6355e15259c7fcb5812aa6034f",
+      "credit": "Evan Daniel; strict certificate verified by Mishapolk",
+      "verification": {
+        "n": 270,
+        "side": "16928162252196750114897964982713/1000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "271": {
       "n": 271,

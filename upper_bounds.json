@@ -6543,38 +6543,22 @@
     "270": {
       "verified": {
         "bound": "16928162252196750114897964982713/1000000000000000000000000000000",
-        "source": "https://github.com/jlevy/squares/issues/399",
-        "status": "exact certificate verified",
-        "credit": "Evan Daniel",
+        "source": "certificates/0000-0999/n270.cert",
+        "source_n": 270,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Evan Daniel; strict certificate verified by Mishapolk",
         "sha256": "a01114af338f092232c0b7de07bfd164a636ef6355e15259c7fcb5812aa6034f",
         "rounded_up": "16.928162252197"
       },
       "reported": {
         "bound": "16928162252196750114897964982713/1000000000000000000000000000000",
-        "exact_bound": {
-          "rational": "16928162252196750114897964982713/1000000000000000000000000000000",
-          "sqrt2": "0",
-          "expression": "16928162252196750114897964982713/1000000000000000000000000000000 + 0*sqrt(2)"
-        },
-        "source": "https://github.com/evand/square-packing/blob/88385ab/search/packer/candidates/s270_sw.cert",
-        "credit": "Evan Daniel; ultimate start: Nate Chaoweeraprasit (SQUISH), refined by PingYou Ltd",
-        "status": "reviewed public upper bound",
-        "origin": {
-          "source": "verified public certificate",
-          "credit": "Evan Daniel; ultimate start: Nate Chaoweeraprasit (SQUISH), refined by PingYou Ltd",
-          "provenance": {
-            "category": "reviewed public submission",
-            "source_url": "https://github.com/evand/square-packing/blob/88385ab/search/packer/candidates/s270_sw.cert",
-            "request": "https://github.com/jlevy/squares/issues/703",
-            "received": "2026-10-20",
-            "credit": "Evan Daniel; ultimate start: Nate Chaoweeraprasit (SQUISH), refined by PingYou Ltd"
-          },
-          "certificate_sha256": "a01114af338f092232c0b7de07bfd164a636ef6355e15259c7fcb5812aa6034f",
-          "source_n": 270,
-          "tiles_per_side": 1,
-          "L_layers": 0,
-          "capacity": 270
-        }
+        "source": "certificates/0000-0999/n270.cert",
+        "source_n": 270,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Evan Daniel; strict certificate verified by Mishapolk",
+        "sha256": "a01114af338f092232c0b7de07bfd164a636ef6355e15259c7fcb5812aa6034f"
       }
     },
     "271": {
