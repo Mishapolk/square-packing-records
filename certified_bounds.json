@@ -2130,11 +2130,20 @@
     },
     "260": {
       "n": 260,
-      "kind": "reference",
-      "bound": "4161438312629953048686574163329/250000000000000000000000000000",
-      "rounded_up": "16.645753250520",
-      "credit": "Francisco Couzo (franciscouzo)",
-      "status": "exact certificate verified; adoption pending"
+      "kind": "certificate",
+      "bound": "4960821047585160192/298023223876953125",
+      "rounded_up": "16.645753250537",
+      "certificate": "certificates/0000-0999/n260.cert",
+      "certificate_sha256": "a78bf2b0dc63460211c60588f911e1b69e9e20163ace1340300edc80f0603eba",
+      "credit": "Mykhailo Polkovskyi (Mishapolk); graft refinement of Couzo topology",
+      "verification": {
+        "n": 260,
+        "side": "4960821047585160192/298023223876953125",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "261": {
       "n": 261,
