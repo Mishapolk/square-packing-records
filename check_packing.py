@@ -146,7 +146,7 @@ def ld(fn, precision):
             first_non_comment = line
             break
     
-    if first_non_comment and len(first_non_comment.split()) == 2 and not "s:" in content:
+    if first_non_comment and len(first_non_comment.split()) == 2 and not any(l.strip().startswith('s:') for l in content.splitlines()):
         import verify_bound_certificate as vbc
         n, S, squares = vbc.parse(fn)
         res = vbc.verify(n, S, squares)
