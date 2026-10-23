@@ -2441,7 +2441,10 @@
           "L_layers": 0,
           "capacity": 105
         }
-      }
+      },
+      "bound": "674331486483935962030285457609/62500000000000000000000000000",
+      "rounded_up": "10.789303783743",
+      "credit": "Mykhailo Polkovskyi (Mishapolk)"
     },
     "106": {
       "verified": {
@@ -5164,7 +5167,10 @@
           "L_layers": 0,
           "capacity": 204
         }
-      }
+      },
+      "bound": "882663895519250432/59604644775390625",
+      "rounded_up": "14.808642830528",
+      "credit": "Mykhailo Polkovskyi (Mishapolk)"
     },
     "205": {
       "verified": {
