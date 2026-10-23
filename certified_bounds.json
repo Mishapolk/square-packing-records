@@ -2474,11 +2474,20 @@
     },
     "303": {
       "n": 303,
-      "kind": "record",
+      "kind": "certificate",
       "bound": "322891854238658113908197448495564809659442304656476373543906871997038053/18028808536579224568667370014525000000000000000000000000000000000000000",
       "rounded_up": "17.909772217256",
-      "credit": "Mykhailo Polkovskyi (Mishapolk); packing by Evan Daniel",
-      "status": "verified construction"
+      "certificate": "certificates/0000-0999/n303.cert",
+      "certificate_sha256": "a76edf6b26f69c58f897fecf16183421dea744570f3491b00dd0f8d1fd54d5c6",
+      "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+      "verification": {
+        "n": 303,
+        "side": "322891854238658113908197448495564809659442304656476373543906871997038053/18028808536579224568667370014525000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "304": {
       "n": 304,

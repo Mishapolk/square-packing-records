@@ -7383,11 +7383,25 @@
       }
     },
     "303": {
-      "n": 303,
-      "side": "17.90977221725620",
-      "side_exact": "322891854238658113908197448495564809659442304656476373543906871997038053/18028808536579224568667370014525000000000000000000000000000000000000000",
-      "credit": "Mykhailo Polkovskyi (Mishapolk); packing by Evan Daniel",
-      "status": "verified construction"
+      "verified": {
+        "bound": "322891854238658113908197448495564809659442304656476373543906871997038053/18028808536579224568667370014525000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n303.cert",
+        "source_n": 303,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+        "sha256": "a76edf6b26f69c58f897fecf16183421dea744570f3491b00dd0f8d1fd54d5c6",
+        "rounded_up": "17.909772217256"
+      },
+      "reported": {
+        "bound": "322891854238658113908197448495564809659442304656476373543906871997038053/18028808536579224568667370014525000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n303.cert",
+        "source_n": 303,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+        "sha256": "a76edf6b26f69c58f897fecf16183421dea744570f3491b00dd0f8d1fd54d5c6"
+      }
     },
     "304": {
       "verified": {
