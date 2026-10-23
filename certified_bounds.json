@@ -1254,11 +1254,20 @@
     },
     "155": {
       "n": 155,
-      "kind": "reference",
-      "bound": "2590452188930112807053435932173/200000000000000000000000000000",
+      "kind": "certificate",
+      "bound": "129522609446505640351376570514307748530773/10000000000000000000000000000000000000000",
       "rounded_up": "12.952260944651",
-      "credit": "Evan Daniel (new local minimum from Daniil Ostashev's n=155 seed)",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n155.cert",
+      "certificate_sha256": "5725b113c49c8c15c3b1acb5c738fb35ebb424d30b60ee6edbb24f4dd3eb5099",
+      "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+      "verification": {
+        "n": 155,
+        "side": "129522609446505640351376570514307748530773/10000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "156": {
       "n": 156,
