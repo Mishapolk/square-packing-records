@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T16:30:00Z",
+  "generated": "2026-10-23T19:35:00Z",
   "max_n": 10000,
   "entries": {
     "1": {
@@ -836,11 +836,20 @@
     },
     "105": {
       "n": 105,
-      "kind": "reference",
+      "kind": "certificate",
       "bound": "674331486483935962030285457609/62500000000000000000000000000",
       "rounded_up": "10.789303783743",
+      "certificate": "certificates/0000-0999/n105.cert",
+      "certificate_sha256": "15b8044a4b2e75d31999a6ddff518cfb72fadacad2a7584d1d5e196f5c219bc9",
       "credit": "Mykhailo Polkovskyi (Mishapolk)",
-      "status": "exact certificate verified"
+      "verification": {
+        "n": 105,
+        "side": "674331486483935962030285457609/62500000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "106": {
       "n": 106,
@@ -1628,11 +1637,20 @@
     },
     "204": {
       "n": 204,
-      "kind": "reference",
-      "bound": "882663895519250432/59604644775390625",
-      "rounded_up": "14.808642830528",
+      "kind": "certificate",
+      "bound": "14808642830513087197802415708703/1000000000000000000000000000000",
+      "rounded_up": "14.808642830514",
+      "certificate": "certificates/0000-0999/n204.cert",
+      "certificate_sha256": "9c5dabc8f2456b0c90650eac5794918c5e52ff90d9e817bd215c9816a88f3e7d",
       "credit": "Mykhailo Polkovskyi (Mishapolk)",
-      "status": "exact certificate verified"
+      "verification": {
+        "n": 204,
+        "side": "14808642830513087197802415708703/1000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "205": {
       "n": 205,
@@ -1684,11 +1702,20 @@
     },
     "211": {
       "n": 211,
-      "kind": "reference",
-      "bound": "7496774813149710519467765230441/500000000000000000000000000000",
+      "kind": "certificate",
+      "bound": "14993549626299421038785594964633603835513/1000000000000000000000000000000000000000",
       "rounded_up": "14.993549626300",
-      "credit": "Francisco Couzo",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n211.cert",
+      "certificate_sha256": "22287397021ac4d71e701a055d4f0fe46780f9e9fd4a8813ada1aac9e07bc99c",
+      "credit": "Mykhailo Polkovskyi (Mishapolk)",
+      "verification": {
+        "n": 211,
+        "side": "14993549626299421038785594964633603835513/1000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "212": {
       "n": 212,
@@ -1812,11 +1839,20 @@
     },
     "227": {
       "n": 227,
-      "kind": "reference",
-      "bound": "7781812826162574542396221861851/500000000000000000000000000000",
+      "kind": "certificate",
+      "bound": "155636256523251490846368074671935498402163/10000000000000000000000000000000000000000",
       "rounded_up": "15.563625652326",
-      "credit": "Francisco Couzo (franciscouzo)",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n227.cert",
+      "certificate_sha256": "0a8992c4939e466891e34f729e5720fd21346a7db45265ac9937d706ec8e3891",
+      "credit": "Mykhailo Polkovskyi (Mishapolk)",
+      "verification": {
+        "n": 227,
+        "side": "155636256523251490846368074671935498402163/10000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "228": {
       "n": 228,
@@ -1892,11 +1928,20 @@
     },
     "237": {
       "n": 237,
-      "kind": "reference",
-      "bound": "7951301819129798440089572127137/500000000000000000000000000000",
+      "kind": "certificate",
+      "bound": "79513018191297984400100591089535692443651/5000000000000000000000000000000000000000",
       "rounded_up": "15.902603638260",
-      "credit": "Francisco Couzo",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n237.cert",
+      "certificate_sha256": "bdafe1a39ed3a869038c156fce83141c596e2103a8872ecd703a9fd3a25004da",
+      "credit": "Mykhailo Polkovskyi (Mishapolk)",
+      "verification": {
+        "n": 237,
+        "side": "79513018191297984400100591089535692443651/5000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "238": {
       "n": 238,
@@ -1924,11 +1969,20 @@
     },
     "241": {
       "n": 241,
-      "kind": "reference",
-      "bound": "15987117095150238758321758129189/1000000000000000000000000000000",
+      "kind": "certificate",
+      "bound": "79935585475751193790809434791263361744857/5000000000000000000000000000000000000000",
       "rounded_up": "15.987117095151",
-      "credit": "Francisco Couzo",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n241.cert",
+      "certificate_sha256": "d85d23f9ff9d95109001f76a0a15726403c78c0d874a6a180fbe4132aa899775",
+      "credit": "Mykhailo Polkovskyi (Mishapolk)",
+      "verification": {
+        "n": 241,
+        "side": "79935585475751193790809434791263361744857/5000000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "242": {
       "n": 242,
