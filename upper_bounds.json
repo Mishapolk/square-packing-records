@@ -4389,40 +4389,23 @@
     },
     "183": {
       "verified": {
-        "bound": "13999580178736252502081470897571/1000000000000000000000000000000",
-        "source": "https://github.com/jlevy/squares/issues/680",
-        "status": "exact certificate verified",
-        "credit": "Evan Daniel; start: Francisco Couzo",
-        "sha256": "279e70d1c7fb0bc181e3e9d313e7350b672d85e223296f252b92f2916d6e5df5",
+        "bound": "139995801787362525019414750957971146726967/10000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n183.cert",
+        "source_n": 183,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel & Francisco Couzo",
+        "sha256": "376672ba17cd328c1b4c3d11a80f9d0e8733a6ed59bc8f8515e40788dcb7ab03",
         "rounded_up": "13.999580178737"
       },
       "reported": {
-        "bound": "13999580178736252502081470897571/1000000000000000000000000000000",
-        "exact_bound": {
-          "rational": "13999580178736252502081470897571/1000000000000000000000000000000",
-          "sqrt2": "0",
-          "expression": "13999580178736252502081470897571/1000000000000000000000000000000 + 0*sqrt(2)"
-        },
-        "source": "https://github.com/evand/square-packing/blob/3a9948c781be668b1547cc2bf64a0d1e614f9bca/search/packer/candidates/s183_h183b.cert",
-        "credit": "Evan Daniel; start: Francisco Couzo",
-        "status": "reviewed public upper bound",
-        "origin": {
-          "source": "verified public certificate",
-          "credit": "Evan Daniel; start: Francisco Couzo",
-          "provenance": {
-            "category": "reviewed public submission",
-            "source_url": "https://github.com/evand/square-packing/blob/3a9948c781be668b1547cc2bf64a0d1e614f9bca/search/packer/candidates/s183_h183b.cert",
-            "request": "https://github.com/jlevy/squares/issues/680",
-            "construction_credit": [
-              "Francisco Couzo (s(182) register witness, start)"
-            ]
-          },
-          "certificate_sha256": "279e70d1c7fb0bc181e3e9d313e7350b672d85e223296f252b92f2916d6e5df5",
-          "source_n": 183,
-          "tiles_per_side": 1,
-          "L_layers": 0,
-          "capacity": 183
-        }
+        "bound": "139995801787362525019414750957971146726967/10000000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n183.cert",
+        "source_n": 183,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel & Francisco Couzo",
+        "sha256": "376672ba17cd328c1b4c3d11a80f9d0e8733a6ed59bc8f8515e40788dcb7ab03"
       }
     },
     "184": {
