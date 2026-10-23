@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T19:35:00Z",
+  "generated": "2026-10-23T16:30:00Z",
   "max_n": 10000,
   "entries": {
     "1": {
@@ -2621,15 +2621,20 @@
     "328": {
       "n": 328,
       "kind": "certificate",
-      "bound": "5991890293618152760054413250743818176340881222496592793/321895967218167241377443521489582290271500000000000000",
-      "rounded_up": "18.614368938513",
+      "bound": "170040864467535808225753655762229453314701567/9134925015689769789839453085000000000000000",
+      "rounded_up": "18.614368938495",
       "certificate": "certificates/0000-0999/n328.cert",
-      "certificate_sha256": "3e0afdc08f59559e6108eabed6a6736cfee7a9dc68839b0366e84141bfee278a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "9b2f3f7e455d1a1e42982b149f621215660ecaf3a1f182abe5b267c690fa43ab",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 328,
-        "side": "5991890293618152760054413250743818176340881222496592793/321895967218167241377443521489582290271500000000000000",
-        "valid": true
+        "side": "170040864467535808225753655762229453314701567/9134925015689769789839453085000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 4423,
+        "near_pairs": 721
       }
     },
     "329": {
@@ -2719,15 +2724,20 @@
     "335": {
       "n": 335,
       "kind": "certificate",
-      "bound": "5609654085502404608/298023223876953125",
-      "rounded_up": "18.822875655552",
+      "bound": "8606479219878431181248097487312869687009947/457235088696155529799505235000000000000000",
+      "rounded_up": "18.822875655542",
       "certificate": "certificates/0000-0999/n335.cert",
-      "certificate_sha256": "42c53a7e5ef87561f5de470b0ed68c17959a9db99d7792b6ef451f3b66207fbd",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "2ce7578e3bf70539e12f421e4c6a90e9940d228c2f09ee7fe8b687e3151c52f5",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 335,
-        "side": "5609654085502404608/298023223876953125",
-        "valid": true
+        "side": "8606479219878431181248097487312869687009947/457235088696155529799505235000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 4619,
+        "near_pairs": 721
       }
     },
     "336": {
@@ -2831,15 +2841,20 @@
     "343": {
       "n": 343,
       "kind": "certificate",
-      "bound": "3993049794861220561760624561/210408851936750000000000000",
-      "rounded_up": "18.977575126267",
+      "bound": "153920310982506456653672068143772457294098699/8110641636697316009307013120000000000000000",
+      "rounded_up": "18.977575126249",
       "certificate": "certificates/0000-0999/n343.cert",
-      "certificate_sha256": "8b1968527fab27c9ed38213136457ca69ecfaaab52dc708042d81701718c87ec",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "117c4cb53603dd6bee84cfc2e584a0e64480fafac9d9dd0a047989a2bd61cc03",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 343,
-        "side": "3993049794861220561760624561/210408851936750000000000000",
-        "valid": true
+        "side": "153920310982506456653672068143772457294098699/8110641636697316009307013120000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 4823,
+        "near_pairs": 806
       }
     },
     "344": {
@@ -3037,15 +3052,20 @@
     "365": {
       "n": 365,
       "kind": "certificate",
-      "bound": "8418381681115192814680455551093809430419169523022019293/429194622957556321836591361986109720362000000000000000",
-      "rounded_up": "19.614368938513",
+      "bound": "579508389607135781605587516902131360255625744605390074757222261406097/29545094793734856428714584359875965735604879475343360000000000000000",
+      "rounded_up": "19.614368938495",
       "certificate": "certificates/0000-0999/n365.cert",
-      "certificate_sha256": "dc55927a9bafbd3f1e8aaf71fe893f3008ac6f8be56a9aae1d1429948d736db4",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "424fe5c8f5f27e8c8fd64192145da67e8c4d1c2ed4222f3cc11a442fd15b46d7",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 365,
-        "side": "8418381681115192814680455551093809430419169523022019293/429194622957556321836591361986109720362000000000000000",
-        "valid": true
+        "side": "579508389607135781605587516902131360255625744605390074757222261406097/29545094793734856428714584359875965735604879475343360000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 5078,
+        "near_pairs": 812
       }
     },
     "366": {
@@ -3475,15 +3495,20 @@
     "404": {
       "n": 404,
       "kind": "certificate",
-      "bound": "122406731815383905922160796249752801920478653255535093169625660082263696281/5937932525632730661525650226607827360933222027046623903744000000000000000",
-      "rounded_up": "20.614368938513",
+      "bound": "2911888829316175713173970227572176151885771291325676102010299696421/141255298088632116904866508398265662152564441364105000000000000000",
+      "rounded_up": "20.614368938495",
       "certificate": "certificates/0000-0999/n404.cert",
-      "certificate_sha256": "fa5b62cf4c954b4e39cfebbb369651f90fc00dc6f4820a7ff58cb46ab6ebc42c",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a7f39e0d9ae0dd2ed98f2c758352c10e8a16568f87665d3f63d53f5ae35933e7",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 404,
-        "side": "122406731815383905922160796249752801920478653255535093169625660082263696281/5937932525632730661525650226607827360933222027046623903744000000000000000",
-        "valid": true
+        "side": "2911888829316175713173970227572176151885771291325676102010299696421/141255298088632116904866508398265662152564441364105000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 5578,
+        "near_pairs": 913
       }
     },
     "405": {
@@ -3559,15 +3584,20 @@
     "410": {
       "n": 410,
       "kind": "certificate",
-      "bound": "6192378578505778176/298023223876953125",
-      "rounded_up": "20.778174593073",
+      "bound": "525815998275067443699986910822558280318601463/25306169024625691543294634065000000000000000",
+      "rounded_up": "20.778174593056",
       "certificate": "certificates/0000-0999/n410.cert",
-      "certificate_sha256": "76cac463ffa268a7bff6ce4d1e01af891aa38f9bf09cdc5397a946c2de4e8523",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e33e78cb618f409bc59e6bfe4a093ab33963873db2c564924e220632175581f7",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 410,
-        "side": "6192378578505778176/298023223876953125",
-        "valid": true
+        "side": "525815998275067443699986910822558280318601463/25306169024625691543294634065000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 5783,
+        "near_pairs": 779
       }
     },
     "411": {
@@ -3601,15 +3631,20 @@
     "413": {
       "n": 413,
       "kind": "certificate",
-      "bound": "6208319474868440064/298023223876953125",
-      "rounded_up": "20.831663365375",
+      "bound": "21932660709195990700144330158364071587135081/1052852109048025800335911595000000000000000",
+      "rounded_up": "20.831663365358",
       "certificate": "certificates/0000-0999/n413.cert",
-      "certificate_sha256": "6ce51999fbb22fcc36efd5d58200783c9324a556db7b163a5e92f1c15db8d77d",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "99fff874c045955206c61fc90e7b6a8237e33366ed78d864ae1407ed448f49cd",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 413,
-        "side": "6208319474868440064/298023223876953125",
-        "valid": true
+        "side": "21932660709195990700144330158364071587135081/1052852109048025800335911595000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 5838,
+        "near_pairs": 967
       }
     },
     "414": {
@@ -4061,43 +4096,58 @@
     "454": {
       "n": 454,
       "kind": "certificate",
-      "bound": "1301075644777304064/59604644775390625",
-      "rounded_up": "21.828427124769",
+      "bound": "16791317629971948035220746369004371092594339/769240840579515023974923363750000000000000",
+      "rounded_up": "21.828427124751",
       "certificate": "certificates/0000-0999/n454.cert",
-      "certificate_sha256": "ca6f9ee75f8d0bf4ff8c045d60284a67502a2fc1c997b1871593d75b33e1d01e",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "2613e8e91cafa6d1be79c8aaed7356b4ac349eab938a8f9836644f690b433398",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 454,
-        "side": "1301075644777304064/59604644775390625",
-        "valid": true
+        "side": "16791317629971948035220746369004371092594339/769240840579515023974923363750000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 6589,
+        "near_pairs": 883
       }
     },
     "455": {
       "n": 455,
       "kind": "certificate",
-      "bound": "3572613082033660826300879/163518088251600000000000",
-      "rounded_up": "21.848427413955",
+      "bound": "239456755798101712158192478092249513928988347/10959908064025714333000638485000000000000000",
+      "rounded_up": "21.848427413737",
       "certificate": "certificates/0000-0999/n455.cert",
-      "certificate_sha256": "ee6726e06278fc3a73a1ad79c2d438943cb0d28f1b51174e8591c06b9ce73cae",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "1b22c095c8d66445c7d6b9969d50ea5ae3663722f971d25e722a1f50357bba61",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 455,
-        "side": "3572613082033660826300879/163518088251600000000000",
-        "valid": true
+        "side": "239456755798101712158192478092249513928988347/10959908064025714333000638485000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 6617,
+        "near_pairs": 1057
       }
     },
     "456": {
       "n": 456,
       "kind": "certificate",
-      "bound": "6521137421760594944/298023223876953125",
-      "rounded_up": "21.881306218113",
+      "bound": "2712948274500808060072799633478504976899893/123984749697303278612643840000000000000000",
+      "rounded_up": "21.881306218097",
       "certificate": "certificates/0000-0999/n456.cert",
-      "certificate_sha256": "311479eacacff85b52a67c29d4bd29d4b85a0f8a1ac0fbaf5a02ea9914e7ff23",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "9d56bdbe244bce67289ebb1287aca24fdbb09604fe575bb186d5509a2902c84f",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 456,
-        "side": "6521137421760594944/298023223876953125",
-        "valid": true
+        "side": "2712948274500808060072799633478504976899893/123984749697303278612643840000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 6643,
+        "near_pairs": 1137
       }
     },
     "457": {
@@ -4117,29 +4167,39 @@
     "458": {
       "n": 458,
       "kind": "certificate",
-      "bound": "226203290722355848554634479/10327211839798000000000000",
-      "rounded_up": "21.903616797192",
+      "bound": "355304772745089322301242758414388438496411073/16221283273394632018614026240000000000000000",
+      "rounded_up": "21.903616795093",
       "certificate": "certificates/0000-0999/n458.cert",
-      "certificate_sha256": "127ab02ed1115392c5adc2d51d28156fe0f00697bd916a6c157d3bf313ad8077",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "f71e17e9f0e5ef2f35f4bc96e24f6c9d4b79efebf423f5747a84527c2e8d6311",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 458,
-        "side": "226203290722355848554634479/10327211839798000000000000",
-        "valid": true
+        "side": "355304772745089322301242758414388438496411073/16221283273394632018614026240000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 6712,
+        "near_pairs": 1089
       }
     },
     "459": {
       "n": 459,
       "kind": "certificate",
-      "bound": "64336776808635659847968151313/2932794429281500000000000000",
-      "rounded_up": "21.937022304151",
+      "bound": "628581504531537518503906619948792358435603287/28653911903677688021790204435000000000000000",
+      "rounded_up": "21.937022304129",
       "certificate": "certificates/0000-0999/n459.cert",
-      "certificate_sha256": "ffea4c3550a7c4d717c91ce6124e6f7a3228782eba0b8851daababe4fd03288a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "8eb23de553dffd71462c547e5420e89cffcdd7146e12ac10d707f9357a722f23",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 459,
-        "side": "64336776808635659847968151313/2932794429281500000000000000",
-        "valid": true
+        "side": "628581504531537518503906619948792358435603287/28653911903677688021790204435000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 6718,
+        "near_pairs": 1043
       }
     },
     "460": {
@@ -4187,15 +4247,20 @@
     "463": {
       "n": 463,
       "kind": "certificate",
-      "bound": "5955331630200506928991239/271051056895072000000000",
-      "rounded_up": "21.971254044975",
+      "bound": "119860194414684130694230975330181807336955967/5455328986681344258956328960000000000000000",
+      "rounded_up": "21.971212864946",
       "certificate": "certificates/0000-0999/n463.cert",
-      "certificate_sha256": "b104d1d9137c06f048691d53dd3984dd4dadb10b28a944b3d86a1158c307fc55",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "4fc9b35be79bfc0c3fc3c243d729f4bc7ae6177b83458192b25a1ea80be868f3",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 463,
-        "side": "5955331630200506928991239/271051056895072000000000",
-        "valid": true
+        "side": "119860194414684130694230975330181807336955967/5455328986681344258956328960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 6825,
+        "near_pairs": 1094
       }
     },
     "464": {
@@ -4445,15 +4510,20 @@
     "490": {
       "n": 490,
       "kind": "certificate",
-      "bound": "6752268746350741504/298023223876953125",
-      "rounded_up": "22.656854249516",
+      "bound": "123600593734295998065546910748481480564348967/5455328986681344258956328960000000000000000",
+      "rounded_up": "22.656854249497",
       "certificate": "certificates/0000-0999/n490.cert",
-      "certificate_sha256": "9bde6d22ab0b02a78811f6b8be7943a17074c6e4a5637ce4930c8333e0ac5d5c",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "978905b2b67c52f9f4f271877c8e33cf5456b99d957402ca66dbd0721cea0003",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 490,
-        "side": "6752268746350741504/298023223876953125",
-        "valid": true
+        "side": "123600593734295998065546910748481480564348967/5455328986681344258956328960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 6959,
+        "near_pairs": 937
       }
     },
     "491": {
@@ -4529,43 +4599,58 @@
     "496": {
       "n": 496,
       "kind": "certificate",
-      "bound": "4728252156315104130234035188140867288112126327730093939/207171621476346038271504245788572991344500000000000000",
-      "rounded_up": "22.822875655559",
+      "bound": "185108165560964335118709845289438322214024399/8110641636697316009307013120000000000000000",
+      "rounded_up": "22.822875655537",
       "certificate": "certificates/0000-0999/n496.cert",
-      "certificate_sha256": "55bf118d020e0cbe7579b17b181c88e18f96a7d599b70218230454850284057b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e3fbfb1f4c2e82a37cc09f159cfbdc1175d7ca286fb58975f322123d24646b17",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 496,
-        "side": "4728252156315104130234035188140867288112126327730093939/207171621476346038271504245788572991344500000000000000",
-        "valid": true
+        "side": "185108165560964335118709845289438322214024399/8110641636697316009307013120000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7130,
+        "near_pairs": 1093
       }
     },
     "497": {
       "n": 497,
       "kind": "certificate",
-      "bound": "91891930577365623714995578121/4026268117935500000000000000",
-      "rounded_up": "22.823102656285",
+      "bound": "145761845893963729163971117247668541053785399/6386592046194456408172297745000000000000000",
+      "rounded_up": "22.823102656262",
       "certificate": "certificates/0000-0999/n497.cert",
-      "certificate_sha256": "06d462725e901a2257adf1cc2e87b6907b0fcaa0aaf17696de55522ea680e121",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "aba000e84d37e9a22985573e67fe6f6764a86a2327d9c1f513d228f08d98ce5a",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 497,
-        "side": "91891930577365623714995578121/4026268117935500000000000000",
-        "valid": true
+        "side": "145761845893963729163971117247668541053785399/6386592046194456408172297745000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7127,
+        "near_pairs": 1051
       }
     },
     "498": {
       "n": 498,
       "kind": "certificate",
-      "bound": "6803401447763780608/298023223876953125",
-      "rounded_up": "22.828427124770",
+      "bound": "111985875377711703917147988305684899202485793/4905544949099656778382105915000000000000000",
+      "rounded_up": "22.828427124751",
       "certificate": "certificates/0000-0999/n498.cert",
-      "certificate_sha256": "012ed8995366fb7df21e0855e2a5d6374d727100db1a7f542ebf41b9af0e5530",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6f59608f73cd5e8a0016403c0df93703cb63c8e11229855bc4b41f9550138098",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 498,
-        "side": "6803401447763780608/298023223876953125",
-        "valid": true
+        "side": "111985875377711703917147988305684899202485793/4905544949099656778382105915000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7177,
+        "near_pairs": 1007
       }
     },
     "499": {
@@ -4585,43 +4670,58 @@
     "500": {
       "n": 500,
       "kind": "certificate",
-      "bound": "56286555050722332239648733349/2459233869674500000000000000",
-      "rounded_up": "22.887841512273",
+      "bound": "20726372263497324152328018649094778178062829/905562556102261515612884895000000000000000",
+      "rounded_up": "22.887841512251",
       "certificate": "certificates/0000-0999/n500.cert",
-      "certificate_sha256": "80375bd976a35bd45ec5aa983a2f55a56a3f3bdec62221f93049116ee872ce2c",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "3b5ca32c2c0801522b3514f3121d5fa0d1890d5ab3fdfd95ddb1c3b30a77a103",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 500,
-        "side": "56286555050722332239648733349/2459233869674500000000000000",
-        "valid": true
+        "side": "20726372263497324152328018649094778178062829/905562556102261515612884895000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7239,
+        "near_pairs": 1167
       }
     },
     "501": {
       "n": 501,
       "kind": "certificate",
-      "bound": "56286555050722332239648733349/2459233869674500000000000000",
-      "rounded_up": "22.887841512273",
+      "bound": "685713865798464089167975691092724736863870723/29959743710713523633795596365000000000000000",
+      "rounded_up": "22.887841512251",
       "certificate": "certificates/0000-0999/n501.cert",
-      "certificate_sha256": "a7d42aad69c47a700281066587cef4724de6d3328cf9cd21b7b71d6168f4dde7",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "2a4bcd8b36685bbde1215d0048198c1ee32ddaf9f209e78c8b0d0dcba294d6f0",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 501,
-        "side": "56286555050722332239648733349/2459233869674500000000000000",
-        "valid": true
+        "side": "685713865798464089167975691092724736863870723/29959743710713523633795596365000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7247,
+        "near_pairs": 1178
       }
     },
     "502": {
       "n": 502,
       "kind": "certificate",
-      "bound": "50373869929285452396902173/2196541099153000000000000",
-      "rounded_up": "22.933269925480",
+      "bound": "186003533922964315972327129554157321550667049/8110641636697316009307013120000000000000000",
+      "rounded_up": "22.933269925449",
       "certificate": "certificates/0000-0999/n502.cert",
-      "certificate_sha256": "3020beede0d44f165f089317fc27d2b9c8e0a78dd620fe690a04531300648680",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "3c5dc9f047236c80cc0575ee924e7a7da1a87aed1395d7b2e02563fd88aa2c19",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 502,
-        "side": "50373869929285452396902173/2196541099153000000000000",
-        "valid": true
+        "side": "186003533922964315972327129554157321550667049/8110641636697316009307013120000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7280,
+        "near_pairs": 1221
       }
     },
     "503": {
@@ -4641,29 +4741,39 @@
     "504": {
       "n": 504,
       "kind": "certificate",
-      "bound": "55023518026078125643861408001308603028538253351/2396303860050800000023963038600508000000000000",
-      "rounded_up": "22.961828398888",
+      "bound": "351140939050493287735966614948579537000049/15292377111884364437819276250000000000000",
+      "rounded_up": "22.961828398647",
       "certificate": "certificates/0000-0999/n504.cert",
-      "certificate_sha256": "9d739c4a81e0d021c92c200940437e00db44881fd08be30491d19b012c0b7f48",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e07d1f7612bfabac7e086947b9eba83d998a609d082c5857c7d30efadb46310c",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 504,
-        "side": "55023518026078125643861408001308603028538253351/2396303860050800000023963038600508000000000000",
-        "valid": true
+        "side": "351140939050493287735966614948579537000049/15292377111884364437819276250000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7310,
+        "near_pairs": 1200
       }
     },
     "505": {
       "n": 505,
       "kind": "certificate",
-      "bound": "21097041348205130185414401299/918693320424500000000000000",
-      "rounded_up": "22.964182800913",
+      "bound": "337764750510999178424075023044932166096110809/14708328767436175205696145795000000000000000",
+      "rounded_up": "22.964182800890",
       "certificate": "certificates/0000-0999/n505.cert",
-      "certificate_sha256": "19b9eb80933c519e80418ce01de4775df287f0ff7b066df949b29fb236d965a4",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "765e99dff494c6ba82b4bd26e147d476533edd677a92344db701495d17df8f94",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 505,
-        "side": "21097041348205130185414401299/918693320424500000000000000",
-        "valid": true
+        "side": "337764750510999178424075023044932166096110809/14708328767436175205696145795000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7349,
+        "near_pairs": 1256
       }
     },
     "506": {
@@ -4711,15 +4821,20 @@
     "509": {
       "n": 509,
       "kind": "certificate",
-      "bound": "614365610343021856506836133/26718996484816000000000000",
-      "rounded_up": "22.993588501431",
+      "bound": "381650008758571777861743773847743345084790437/16598105543001377233246969935000000000000000",
+      "rounded_up": "22.993588501400",
       "certificate": "certificates/0000-0999/n509.cert",
-      "certificate_sha256": "7a0c6561c79228f2f54baf82e6344fc380fe98b573f6ca582e98e90dd40ce481",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "8b957c90fb8e1e270945923fd36ee855531f1c31ac686cf4524b75b73e324c16",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 509,
-        "side": "614365610343021856506836133/26718996484816000000000000",
-        "valid": true
+        "side": "381650008758571777861743773847743345084790437/16598105543001377233246969935000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7484,
+        "near_pairs": 1210
       }
     },
     "510": {
@@ -4955,15 +5070,20 @@
     "535": {
       "n": 535,
       "kind": "certificate",
-      "bound": "130054931619719764425756860499189165093/5497558138880000000000000000000000000",
-      "rounded_up": "23.656854249516",
+      "bound": "678294819461696557254592389547434544623074231/28672232254891134530419962405000000000000000",
+      "rounded_up": "23.656854249497",
       "certificate": "certificates/0000-0999/n535.cert",
-      "certificate_sha256": "3f9fd83c573fa65db225b6e0e20b8f9eacc57ab250ae3d5a57fda90963921c8b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "5c68637e9f0b5e00e63586e2b3f72d48ba7c808106ec04ca5ef0c661b22e9106",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 535,
-        "side": "130054931619719764425756860499189165093/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "678294819461696557254592389547434544623074231/28672232254891134530419962405000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 7762,
+        "near_pairs": 1035
       }
     },
     "536": {
@@ -5081,99 +5201,134 @@
     "544": {
       "n": 544,
       "kind": "certificate",
-      "bound": "7101424671641135104/298023223876953125",
-      "rounded_up": "23.828427124771",
+      "bound": "13881488946318227806684534923537082641654551/582560018487235706754170880000000000000000",
+      "rounded_up": "23.828427124754",
       "certificate": "certificates/0000-0999/n544.cert",
-      "certificate_sha256": "df24a606f08aeb9e1c70c8d6ad0903877b83f085141a778523f079fbfe206771",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "4ee415265fd8a88f00e967e8356fc0246e02881f01fe53618a44a05a582a2849",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 544,
-        "side": "7101424671641135104/298023223876953125",
-        "valid": true
+        "side": "13881488946318227806684534923537082641654551/582560018487235706754170880000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8035,
+        "near_pairs": 1061
       }
     },
     "545": {
       "n": 545,
       "kind": "certificate",
-      "bound": "129738980265119345332514183/5432178838684000000000000",
-      "rounded_up": "23.883414761903",
+      "bound": "1505111246888610772841529105277230872064167/63019097647388806145014485000000000000000",
+      "rounded_up": "23.883414759605",
       "certificate": "certificates/0000-0999/n545.cert",
-      "certificate_sha256": "b7ec4c6d26cecc94265cafa2182436bb34dd87d290074dc40f016017a8ae2386",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7a12814644905c74dd367876954fbeaef24763a535315f9095b50daab3706386",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 545,
-        "side": "129738980265119345332514183/5432178838684000000000000",
-        "valid": true
+        "side": "1505111246888610772841529105277230872064167/63019097647388806145014485000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8055,
+        "near_pairs": 1252
       }
     },
     "546": {
       "n": 546,
       "kind": "certificate",
-      "bound": "1083668533622722503445123844104943680736784775333/45364857811283890680587974868992000000000000000",
-      "rounded_up": "23.887841512273",
+      "bound": "193745721980089759462755401327818007027672249/8110641636697316009307013120000000000000000",
+      "rounded_up": "23.887841512251",
       "certificate": "certificates/0000-0999/n546.cert",
-      "certificate_sha256": "3fef315b3da96e900f9b73c355c0c36dbf180a68c92e6905b5d48d9bb934c418",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a5cca20b1876ec309c20f4e97c8dada9f185547dd030ad5be2dbd40c78cd6885",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 546,
-        "side": "1083668533622722503445123844104943680736784775333/45364857811283890680587974868992000000000000000",
-        "valid": true
+        "side": "193745721980089759462755401327818007027672249/8110641636697316009307013120000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8094,
+        "near_pairs": 1301
       }
     },
     "547": {
       "n": 547,
       "kind": "certificate",
-      "bound": "75465979533245983149930599784731059706918355705302863/3157728382981011356523969339333246556500000000000000",
-      "rounded_up": "23.898819144794",
+      "bound": "867208369567810715262822787738884816303582917950169574744542707330789/36286661877079940585869633909457325976792407561971445000000000000000",
+      "rounded_up": "23.898819144772",
       "certificate": "certificates/0000-0999/n547.cert",
-      "certificate_sha256": "72687adc6139bde3a1af14e5121da346938395246ea03158e9890b906d9d1a19",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "003283d39b5b1bd0d7a13753d7188f314aef4c4109a73d43a9c1dbdf3a0af582",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 547,
-        "side": "75465979533245983149930599784731059706918355705302863/3157728382981011356523969339333246556500000000000000",
-        "valid": true
+        "side": "867208369567810715262822787738884816303582917950169574744542707330789/36286661877079940585869633909457325976792407561971445000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8102,
+        "near_pairs": 1272
       }
     },
     "548": {
       "n": 548,
       "kind": "certificate",
-      "bound": "1085810663195933576096787924902174293786963099629552278087463718714731066705165713171416793661988457207616442487/45348048217813764846217792904667972171739366450015665953334865121245979878377414414599651852288000000000000000",
-      "rounded_up": "23.943933771540",
+      "bound": "414144300813898235186096417269868427165018963/17296418573717554987143182315000000000000000",
+      "rounded_up": "23.943933771538",
       "certificate": "certificates/0000-0999/n548.cert",
-      "certificate_sha256": "9040c1696f3528e4a36e396f250698be7f7f1aae480bfe603656e6afd112b5f0",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a3f461901d1f06a95b01ad5d5386ce277085750ba63d2bdf54906fbe2842d821",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 548,
-        "side": "1085810663195933576096787924902174293786963099629552278087463718714731066705165713171416793661988457207616442487/45348048217813764846217792904667972171739366450015665953334865121245979878377414414599651852288000000000000000",
-        "valid": true
+        "side": "414144300813898235186096417269868427165018963/17296418573717554987143182315000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8123,
+        "near_pairs": 1315
       }
     },
     "549": {
       "n": 549,
       "kind": "certificate",
-      "bound": "47740514523994251617197427413/1992883092706500000000000000",
-      "rounded_up": "23.955501804754",
+      "bound": "245091204311449931391107552652818256382902877/10231102913613060120647654385000000000000000",
+      "rounded_up": "23.955501804731",
       "certificate": "certificates/0000-0999/n549.cert",
-      "certificate_sha256": "f1f808ad20c88347f7335080b25c3ebf98ad14e19209b028f59546e37d359caa",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7519f96107952f6f1b8c282f0898cd6f817711c5e78d672da468a3d75d981573",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 549,
-        "side": "47740514523994251617197427413/1992883092706500000000000000",
-        "valid": true
+        "side": "245091204311449931391107552652818256382902877/10231102913613060120647654385000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8155,
+        "near_pairs": 1300
       }
     },
     "550": {
       "n": 550,
       "kind": "certificate",
-      "bound": "76600101155237659586681314611/3196908290430500000000000000",
-      "rounded_up": "23.960681444798",
+      "bound": "170932907726759189492524058035224484705103271/7133891751814058803179028480000000000000000",
+      "rounded_up": "23.960681444780",
       "certificate": "certificates/0000-0999/n550.cert",
-      "certificate_sha256": "6171fbc75cb43460beb561e07449f77184a93b89695fa37972b486539ab3ff62",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "9fea4d7d76b2e526631126047c86ce513dab64d3801f1a6e892fab2de50996b5",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 550,
-        "side": "76600101155237659586681314611/3196908290430500000000000000",
-        "valid": true
+        "side": "170932907726759189492524058035224484705103271/7133891751814058803179028480000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8190,
+        "near_pairs": 1260
       }
     },
     "551": {
@@ -5221,15 +5376,20 @@
     "554": {
       "n": 554,
       "kind": "certificate",
-      "bound": "107767231564828114866257687/4492864620659200000000000",
-      "rounded_up": "23.986307325908",
+      "bound": "85341181619399728168573962144031332540505119/3557912456467648659523365595000000000000000",
+      "rounded_up": "23.986307325877",
       "certificate": "certificates/0000-0999/n554.cert",
-      "certificate_sha256": "4e9385b33e4136f7e709c276f6a006ea4fcfef8d6878e81f2f9f89fbd491122e",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "722838f4370811da1f182890a291cf9a8fb942ffe382e1902b1741ada4881e80",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 554,
-        "side": "107767231564828114866257687/4492864620659200000000000",
-        "valid": true
+        "side": "85341181619399728168573962144031332540505119/3557912456467648659523365595000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8323,
+        "near_pairs": 1372
       }
     },
     "555": {
@@ -5487,15 +5647,20 @@
     "582": {
       "n": 582,
       "kind": "certificate",
-      "bound": "67776244879299882213027441861533059109/2748779069440000000000000000000000000",
-      "rounded_up": "24.656854249516",
+      "bound": "134511251707664067382399730743083583295212117/5455328986681344258956328960000000000000000",
+      "rounded_up": "24.656854249498",
       "certificate": "certificates/0000-0999/n582.cert",
-      "certificate_sha256": "58073e1d650ee2a39297902187fe82f172188be03d6d8a66730d0b1f5b24a38a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "65d2b4b1f3f434b37d290f60806ef0853290b8c5ca467b3b6218d6220df69352",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 582,
-        "side": "67776244879299882213027441861533059109/2748779069440000000000000000000000000",
-        "valid": true
+        "side": "134511251707664067382399730743083583295212117/5455328986681344258956328960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8383,
+        "near_pairs": 1144
       }
     },
     "583": {
@@ -5515,15 +5680,20 @@
     "584": {
       "n": 584,
       "kind": "certificate",
-      "bound": "7354518631007806464/298023223876953125",
-      "rounded_up": "24.677669529689",
+      "bound": "277904011089644133118451668215234436562888923/11261355565019327546907163365000000000000000",
+      "rounded_up": "24.677669529669",
       "certificate": "certificates/0000-0999/n584.cert",
-      "certificate_sha256": "ed67080df9cdd8ca18e4ca4d1892e864aa8d1d8b268e05de20ea496af594c3f4",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "07603bb524461e368e24d2c92ee1815a14c7dbd364f16f047d1faa9c25cdcd8a",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 584,
-        "side": "7354518631007806464/298023223876953125",
-        "valid": true
+        "side": "277904011089644133118451668215234436562888923/11261355565019327546907163365000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8472,
+        "near_pairs": 1173
       }
     },
     "585": {
@@ -5613,57 +5783,77 @@
     "591": {
       "n": 591,
       "kind": "certificate",
-      "bound": "136495721615370907521768923272635616293/5497558138880000000000000000000000000",
-      "rounded_up": "24.828427124771",
+      "bound": "2092520578924965880826643427209881802480133/84279224310535503445922865000000000000000",
+      "rounded_up": "24.828427124754",
       "certificate": "certificates/0000-0999/n591.cert",
-      "certificate_sha256": "2dddf76a77918b9dd65c57778bff15564060dfd75a898f4a738d9b6b42c4d34a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "1ed5a9330a01f930ed1feecbd80ab2b4613f9e718b8ae70b23cede80366a2d0a",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 591,
-        "side": "136495721615370907521768923272635616293/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "2092520578924965880826643427209881802480133/84279224310535503445922865000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8648,
+        "near_pairs": 1175
       }
     },
     "592": {
       "n": 592,
       "kind": "certificate",
-      "bound": "135171159103803345332514183/5432178838684000000000000",
-      "rounded_up": "24.883414761903",
+      "bound": "26686195355029643454735969338430751881023321648865311880916080380371/1072449083569969829094822388529920763460531498516480000000000000000",
+      "rounded_up": "24.883414759605",
       "certificate": "certificates/0000-0999/n592.cert",
-      "certificate_sha256": "4ad31a7161363c49d3cfa9c1648ca03b59bd010f4a56e2a1d8d0c024dc115dcb",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e886678ab8d5451b5d4b678a4c7debf6353172815715408f51f7655a08047c26",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 592,
-        "side": "135171159103803345332514183/5432178838684000000000000",
-        "valid": true
+        "side": "26686195355029643454735969338430751881023321648865311880916080380371/1072449083569969829094822388529920763460531498516480000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8675,
+        "near_pairs": 1365
       }
     },
     "593": {
       "n": 593,
       "kind": "certificate",
-      "bound": "1129033391434006394128171052843610180736784775333/45364857811283890680587974868992000000000000000",
-      "rounded_up": "24.887841512273",
+      "bound": "501888958463585368919599916541712208149420123/20166029995668241261524792115000000000000000",
+      "rounded_up": "24.887841512256",
       "certificate": "certificates/0000-0999/n593.cert",
-      "certificate_sha256": "16a2ace5e46584ab69646663c6ba8a6b7b9e8f28eb138103afbbb68ee704311c",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "afb77d630f48549117360365b0075bb922b5427d1b112cc8676e9f40d18de9bf",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 593,
-        "side": "1129033391434006394128171052843610180736784775333/45364857811283890680587974868992000000000000000",
-        "valid": true
+        "side": "501888958463585368919599916541712208149420123/20166029995668241261524792115000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8719,
+        "near_pairs": 1409
       }
     },
     "594": {
       "n": 594,
       "kind": "certificate",
-      "bound": "104831610554969329735917015823444207334113314172589863/4210304510641348475365292452444328742000000000000000",
-      "rounded_up": "24.898819144794",
+      "bound": "20910074152883998367450504514170733329157889050852993129943749564797/839801840854563253909915588882101583263498093199360000000000000000",
+      "rounded_up": "24.898819144772",
       "certificate": "certificates/0000-0999/n594.cert",
-      "certificate_sha256": "b01d82121d061d6919661319d015956a414d8170be1c309134f348dc153f50d8",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "9ced4e2290018bcd2260732082a56c0f687ae4fc77d02c35776a8ff8e3fb33df",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 594,
-        "side": "104831610554969329735917015823444207334113314172589863/4210304510641348475365292452444328742000000000000000",
-        "valid": true
+        "side": "20910074152883998367450504514170733329157889050852993129943749564797/839801840854563253909915588882101583263498093199360000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8724,
+        "near_pairs": 1393
       }
     },
     "595": {
@@ -5683,71 +5873,96 @@
     "596": {
       "n": 596,
       "kind": "certificate",
-      "bound": "7435604175427827712/298023223876953125",
-      "rounded_up": "24.949747468331",
+      "bound": "35663537522390508724328040353130823766768857/1429414769335325142694774542812500000000000",
+      "rounded_up": "24.949747468311",
       "certificate": "certificates/0000-0999/n596.cert",
-      "certificate_sha256": "3c47677a3bf50a8e3159e16b62588a97645c972eef18d0a1daeb2bf9523119fa",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "500a7176e098d1acef12a39db42aa836d9a12f92a1c4d7568e4b24510c45107e",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 596,
-        "side": "7435604175427827712/298023223876953125",
-        "valid": true
+        "side": "35663537522390508724328040353130823766768857/1429414769335325142694774542812500000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8780,
+        "near_pairs": 1171
       }
     },
     "597": {
       "n": 597,
       "kind": "certificate",
-      "bound": "1475015230000163976575372627/59117210997032000000000000",
-      "rounded_up": "24.950690418637",
+      "bound": "244678082300181259901344953112356705447532189/9806465400161784238100122132500000000000000",
+      "rounded_up": "24.950690418603",
       "certificate": "certificates/0000-0999/n597.cert",
-      "certificate_sha256": "16ca8da5ba97991e28b6d29d5fd1aae460dbd71a34643305ec7bfb7013e92761",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "ec7a72ef7cc8896320801f747cc171e3998afcfad11378e552056badc45ca9c7",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 597,
-        "side": "1475015230000163976575372627/59117210997032000000000000",
-        "valid": true
+        "side": "244678082300181259901344953112356705447532189/9806465400161784238100122132500000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8812,
+        "near_pairs": 1455
       }
     },
     "598": {
       "n": 598,
       "kind": "certificate",
-      "bound": "54874976359120965514501621/2199023255552000000000000",
-      "rounded_up": "24.954250129268",
+      "bound": "65403526486562475730119727693830843544846879/2620937361285065607843385695000000000000000",
+      "rounded_up": "24.954250129234",
       "certificate": "certificates/0000-0999/n598.cert",
-      "certificate_sha256": "4b17fdf4865119552920516e89698daad8de3bb3da23058cb7abfbd2b74d8712",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "b6afbcc04f46a52c5643d270297500723a66312d02d11e0d196110689f7eafa3",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 598,
-        "side": "54874976359120965514501621/2199023255552000000000000",
-        "valid": true
+        "side": "65403526486562475730119727693830843544846879/2620937361285065607843385695000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8826,
+        "near_pairs": 1377
       }
     },
     "599": {
       "n": 599,
       "kind": "certificate",
-      "bound": "91200720337867871829462215105863786127/3653930672699644330447276000000000000",
-      "rounded_up": "24.959619792263",
+      "bound": "174103839237693081465699039198072534883161461/6975420336907884217283314117500000000000000",
+      "rounded_up": "24.959619754595",
       "certificate": "certificates/0000-0999/n599.cert",
-      "certificate_sha256": "4301d01f23dabd039e5dfdf8657a9b3cf8398014061edf249bdd4ba582856b02",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "08a6e02139e5a0e9b24024ed88b1245bdbda625b5aae95939c6ec40fdf17e95f",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 599,
-        "side": "91200720337867871829462215105863786127/3653930672699644330447276000000000000",
-        "valid": true
+        "side": "174103839237693081465699039198072534883161461/6975420336907884217283314117500000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8858,
+        "near_pairs": 1418
       }
     },
     "600": {
       "n": 600,
       "kind": "certificate",
-      "bound": "11463524048413976394438297171345823890532805002723609963/458941659360650000000000004589416593606500000000000000",
-      "rounded_up": "24.978172747238",
+      "bound": "2166634425729819161959010478562553249150451/86741109835048227312762880000000000000000",
+      "rounded_up": "24.978172747040",
       "certificate": "certificates/0000-0999/n600.cert",
-      "certificate_sha256": "83110ec3bcf7a1c5660438b6b36f041817171d106d8b183e7b51dda6e6f6178a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "d591e71e8d7c4ac7823415edc93f03d7fbad0918d743f028c483cea85600444a",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 600,
-        "side": "11463524048413976394438297171345823890532805002723609963/458941659360650000000000004589416593606500000000000000",
-        "valid": true
+        "side": "2166634425729819161959010478562553249150451/86741109835048227312762880000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8882,
+        "near_pairs": 1451
       }
     },
     "601": {
@@ -5767,15 +5982,20 @@
     "602": {
       "n": 602,
       "kind": "certificate",
-      "bound": "56308183548048324135353/2253387526643750000000",
-      "rounded_up": "24.988237878425",
+      "bound": "112184140504547340657188215796278626175951321304440651813334175731771/4489477851598738384919342157795597357016282541588480000000000000000",
+      "rounded_up": "24.988237878175",
       "certificate": "certificates/0000-0999/n602.cert",
-      "certificate_sha256": "e11258702faaa7e29bd8d1624cfdd9b611e398750df3d9907a0c5c2caf265627",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "39038dab3f4a314823376bd0e41ab9925422f3b1187724fec8c7e8b8c2cc7866",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 602,
-        "side": "56308183548048324135353/2253387526643750000000",
-        "valid": true
+        "side": "112184140504547340657188215796278626175951321304440651813334175731771/4489477851598738384919342157795597357016282541588480000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 8969,
+        "near_pairs": 1444
       }
     },
     "603": {
@@ -6041,15 +6261,20 @@
     "631": {
       "n": 631,
       "kind": "certificate",
-      "bound": "141050047897479764426352906946943071343/5497558138880000000000000000000000000",
-      "rounded_up": "25.656854249516",
+      "bound": "402314197329126343048021583700479234855894187/15680573830948138420598210560000000000000000",
+      "rounded_up": "25.656854249498",
       "certificate": "certificates/0000-0999/n631.cert",
-      "certificate_sha256": "b7de05fcbfd62480e6cb1c3b12990ffa0af86c08eaa06a4ac21bb7842da0e966",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7824ba8780b23bf828ede96233ca867522371307d20afd712cf008f0fc325181",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 631,
-        "side": "141050047897479764426352906946943071343/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "402314197329126343048021583700479234855894187/15680573830948138420598210560000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9298,
+        "near_pairs": 1280
       }
     },
     "632": {
@@ -6069,15 +6294,20 @@
     "633": {
       "n": 633,
       "kind": "certificate",
-      "bound": "141164481110409738493709326512031205413/5497558138880000000000000000000000000",
-      "rounded_up": "25.677669529689",
+      "bound": "40776364450056768890174378141364806020405307/1588008771704996386136530363125000000000000",
+      "rounded_up": "25.677669529669",
       "certificate": "certificates/0000-0999/n633.cert",
-      "certificate_sha256": "3f4e9e6a601f52ddef01f1c04db77021214e9945c3d8c7e9889833729fddfb00",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "dfbf2b9d4d7ff0a7733efa767029bf57bd19017030fe2e44640e875efa5c496d",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 633,
-        "side": "141164481110409738493709326512031205413/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "40776364450056768890174378141364806020405307/1588008771704996386136530363125000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9357,
+        "near_pairs": 1313
       }
     },
     "634": {
@@ -6125,15 +6355,20 @@
     "637": {
       "n": 637,
       "kind": "certificate",
-      "bound": "7682494697892066304/298023223876953125",
-      "rounded_up": "25.778174593078",
+      "bound": "140628423081238763142277747029429464938017517/5455328986681344258956328960000000000000000",
+      "rounded_up": "25.778174593057",
       "certificate": "certificates/0000-0999/n637.cert",
-      "certificate_sha256": "42660eff29780dffe84f9fcf53eb7a977c71ccd575f319d18e3a4a916e2d51f0",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a53d4c20e2bc9536d5be45de148bd7637de6dadc38f696922e7dfd088dc3f072",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 637,
-        "side": "7682494697892066304/298023223876953125",
-        "valid": true
+        "side": "140628423081238763142277747029429464938017517/5455328986681344258956328960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9468,
+        "near_pairs": 1295
       }
     },
     "638": {
@@ -6167,15 +6402,20 @@
     "640": {
       "n": 640,
       "kind": "certificate",
-      "bound": "70996639877125453761033473248256284709/2748779069440000000000000000000000000",
-      "rounded_up": "25.828427124771",
+      "bound": "5770041459918772878263185031872939737202249/223398871020996885901838393437500000000000",
+      "rounded_up": "25.828427124757",
       "certificate": "certificates/0000-0999/n640.cert",
-      "certificate_sha256": "fdea0e59f93081f38a6d690f954a720ada5689020c08fa7b1359c138ac924b05",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "13fd007e1b2b8c7378ea2e91939a78dd1b510b7a4573db619d8b9c8054bba58c",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 640,
-        "side": "70996639877125453761033473248256284709/2748779069440000000000000000000000000",
-        "valid": true
+        "side": "5770041459918772878263185031872939737202249/223398871020996885901838393437500000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9557,
+        "near_pairs": 1276
       }
     },
     "641": {
@@ -6209,85 +6449,115 @@
     "643": {
       "n": 643,
       "kind": "certificate",
-      "bound": "1508601225391870487113734140905303237326533793367917301813859820916379471/58249807335139416589537464798115226275422392081191010304000000000000000",
-      "rounded_up": "25.898819144794",
+      "bound": "1652875719081212967949148806264792979175057668097276357694558453777/63820505091053598689385657867329604953823454985947500000000000000",
+      "rounded_up": "25.898819144772",
       "certificate": "certificates/0000-0999/n643.cert",
-      "certificate_sha256": "8eb9449dca7fc99ade699da95a19226040633ad697153933a2a7bad6c65f0f9a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "8b3a31e37ed3550c882e59e425a443d3f5de4dcc5ec6c8af1af41454ad385b1e",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 643,
-        "side": "1508601225391870487113734140905303237326533793367917301813859820916379471/58249807335139416589537464798115226275422392081191010304000000000000000",
-        "valid": true
+        "side": "1652875719081212967949148806264792979175057668097276357694558453777/63820505091053598689385657867329604953823454985947500000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9639,
+        "near_pairs": 1499
       }
     },
     "644": {
       "n": 644,
       "kind": "certificate",
-      "bound": "7718650977801595904/298023223876953125",
-      "rounded_up": "25.899494936638",
+      "bound": "584256664989628827653180568386511118090246051/22558612298018168417471600130000000000000000",
+      "rounded_up": "25.899494936617",
       "certificate": "certificates/0000-0999/n644.cert",
-      "certificate_sha256": "4589e07d0cc35bf10dff85c1885f5d4bc275957639ec1d734bed917d80e2ad28",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "9766d1f7391e57845bbed5a8a510c27937bdc7b38ff6059a77cf2f05b37d68d7",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 644,
-        "side": "7718650977801595904/298023223876953125",
-        "valid": true
+        "side": "584256664989628827653180568386511118090246051/22558612298018168417471600130000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9661,
+        "near_pairs": 1263
       }
     },
     "645": {
       "n": 645,
       "kind": "certificate",
-      "bound": "19367528558478695863364449247914454379/746437338531283048708634500000000000",
-      "rounded_up": "25.946623458826",
+      "bound": "100012429931359341875698165164656664477071379/3854561356110881489441259520000000000000000",
+      "rounded_up": "25.946513932851",
       "certificate": "certificates/0000-0999/n645.cert",
-      "certificate_sha256": "7fe5c7f4706d84ce3fb913f9851b062714ed4fbd2393fa85ed64b070583c6aba",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7ff5c5a765ec5a69f30b46cfe08e0e72f158f45c4da9790c2c712ea7dde0a0a2",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 645,
-        "side": "19367528558478695863364449247914454379/746437338531283048708634500000000000",
-        "valid": true
+        "side": "100012429931359341875698165164656664477071379/3854561356110881489441259520000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9690,
+        "near_pairs": 1522
       }
     },
     "646": {
       "n": 646,
       "kind": "certificate",
-      "bound": "32751661168031015810049726559440060149/1262269200529039776339812000000000000",
-      "rounded_up": "25.946653181671",
+      "bound": "111835688496209611724375950491767466662005779/4310230313684549858246797895000000000000000",
+      "rounded_up": "25.946569059464",
       "certificate": "certificates/0000-0999/n646.cert",
-      "certificate_sha256": "0a9f921092bdbdcd3de435c35747cb104adac8fb86b89f371424937ba7a322b2",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e501df6137a24db185dc776bb4c9da3411720e41d3c9df2b4d7df06fe4d08b7e",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 646,
-        "side": "32751661168031015810049726559440060149/1262269200529039776339812000000000000",
-        "valid": true
+        "side": "111835688496209611724375950491767466662005779/4310230313684549858246797895000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9710,
+        "near_pairs": 1510
       }
     },
     "647": {
       "n": 647,
       "kind": "certificate",
-      "bound": "312099785982361946991197441923434080869/12028386511714062285481159500000000000",
-      "rounded_up": "25.946936912812",
+      "bound": "1514709436791515298458733044902708497781289936338583824914192808657/58377197914667620471101099225083832184099475292160000000000000000",
+      "rounded_up": "25.946936319308",
       "certificate": "certificates/0000-0999/n647.cert",
-      "certificate_sha256": "867224d093da0df530ed271af74676f735e7ee93224b9f5cad48d8e8f10ee0e1",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "39d9c9ede9d80fdef5aefbd742678f1e6c2116e3c561bae3aae22493cac896c1",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 647,
-        "side": "312099785982361946991197441923434080869/12028386511714062285481159500000000000",
-        "valid": true
+        "side": "1514709436791515298458733044902708497781289936338583824914192808657/58377197914667620471101099225083832184099475292160000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9736,
+        "near_pairs": 1479
       }
     },
     "648": {
       "n": 648,
       "kind": "certificate",
-      "bound": "12429217161825656505255539/478790416402312500000000",
-      "rounded_up": "25.959619775225",
+      "bound": "7794626434028654888704709451769458370028353/300259653558676468518337965000000000000000",
+      "rounded_up": "25.959619754592",
       "certificate": "certificates/0000-0999/n648.cert",
-      "certificate_sha256": "bddbcb5e744aee05a8043f981de8f024907d71ae83e09cb2006272f9f5227d19",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "09fd13292abeeff9e7c250310940299963718ccacdc91f5b14f172a5b5961344",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 648,
-        "side": "12429217161825656505255539/478790416402312500000000",
-        "valid": true
+        "side": "7794626434028654888704709451769458370028353/300259653558676468518337965000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9779,
+        "near_pairs": 1553
       }
     },
     "649": {
@@ -6321,15 +6591,20 @@
     "651": {
       "n": 651,
       "kind": "certificate",
-      "bound": "46346022058814580187694448103819305007/1783794599055955423238166000000000000",
-      "rounded_up": "25.981703321304",
+      "bound": "407407869065737863421415287370173601619269737/15680573830948138420598210560000000000000000",
+      "rounded_up": "25.981693875364",
       "certificate": "certificates/0000-0999/n651.cert",
-      "certificate_sha256": "a522d0c002b89ed3608f8dc0eb9a24c174c62606ab3539500f834465de9aa644",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "77799be7ea29f742b4b6ec58005bdcbf9b8301feef8bd00d0a032154a1c1440f",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 651,
-        "side": "46346022058814580187694448103819305007/1783794599055955423238166000000000000",
-        "valid": true
+        "side": "407407869065737863421415287370173601619269737/15680573830948138420598210560000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9880,
+        "near_pairs": 1656
       }
     },
     "652": {
@@ -6349,29 +6624,39 @@
     "653": {
       "n": 653,
       "kind": "certificate",
-      "bound": "57158447703930090490798879/2199023255552000000000000",
-      "rounded_up": "25.992652674145",
+      "bound": "580411361847839550799952715593593663512891547/22329824102023067502305252985000000000000000",
+      "rounded_up": "25.992652660226",
       "certificate": "certificates/0000-0999/n653.cert",
-      "certificate_sha256": "020657ab516f17c3e62ba4d32adf45b12647afd7712f8c434c77b2a10e844289",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "988e65275eff9923dd1d7eea4dbdf1e2b1a4a939679286cdb24201471a3eddee",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 653,
-        "side": "57158447703930090490798879/2199023255552000000000000",
-        "valid": true
+        "side": "580411361847839550799952715593593663512891547/22329824102023067502305252985000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9956,
+        "near_pairs": 1516
       }
     },
     "654": {
       "n": 654,
       "kind": "certificate",
-      "bound": "545254617411576690562326857/20975525218856000000000000",
-      "rounded_up": "25.994801642508",
+      "bound": "1041231587794472560403047005505376699721141703/40055377306407656081525050515000000000000000",
+      "rounded_up": "25.994801642473",
       "certificate": "certificates/0000-0999/n654.cert",
-      "certificate_sha256": "89e7d253bb933f45721b717ed4c46c59d669abedb8a5f6e4bb1672d30a605577",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "9d5832f38481c9a5a8c5019a88557a87a0dcf51b8573e7d22de083f470617b56",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 654,
-        "side": "545254617411576690562326857/20975525218856000000000000",
-        "valid": true
+        "side": "1041231587794472560403047005505376699721141703/40055377306407656081525050515000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9984,
+        "near_pairs": 1623
       }
     },
     "655": {
@@ -6623,15 +6908,20 @@
     "682": {
       "n": 682,
       "kind": "certificate",
-      "bound": "7944361641855803392/298023223876953125",
-      "rounded_up": "26.656854249506",
+      "bound": "216204191979349867314253252401650675006256999/8110641636697316009307013120000000000000000",
+      "rounded_up": "26.656854249498",
       "certificate": "certificates/0000-0999/n682.cert",
-      "certificate_sha256": "57a7ea97f338141b237d09e9057f21989c91d8f0567e691c46b2abd47fc7b3b3",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "bd4c4dd327eef17745334bbc7a18e20d8460bb80ca670679a81ecf27a6ecd526",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 682,
-        "side": "7944361641855803392/298023223876953125",
-        "valid": true
+        "side": "216204191979349867314253252401650675006256999/8110641636697316009307013120000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 9977,
+        "near_pairs": 1370
       }
     },
     "683": {
@@ -6651,15 +6941,20 @@
     "684": {
       "n": 684,
       "kind": "certificate",
-      "bound": "73331019624644869247003674867954079269/2748779069440000000000000000000000000",
-      "rounded_up": "26.677669529689",
+      "bound": "216624561726944449962080777093301965323231408120163717747503508113349/8120070663819705934445205082314946270152961818032045000000000000000",
+      "rounded_up": "26.677669529669",
       "certificate": "certificates/0000-0999/n684.cert",
-      "certificate_sha256": "e660dc462110452564b0ea3730c59e44fcb89ada42aa3f102bea90118eef5be7",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6e20d453f207ac32c9e83180c8da7cd18ea567f4cb49563c2e926bea8ccf8115",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 684,
-        "side": "73331019624644869247003674867954079269/2748779069440000000000000000000000000",
-        "valid": true
+        "side": "216624561726944449962080777093301965323231408120163717747503508113349/8120070663819705934445205082314946270152961818032045000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10036,
+        "near_pairs": 1422
       }
     },
     "685": {
@@ -6721,15 +7016,20 @@
     "689": {
       "n": 689,
       "kind": "certificate",
-      "bound": "7980517921769314304/298023223876953125",
-      "rounded_up": "26.778174593079",
+      "bound": "1100850241129654867412798867136513435824470331/41109980715976643310832796155000000000000000",
+      "rounded_up": "26.778174593058",
       "certificate": "certificates/0000-0999/n689.cert",
-      "certificate_sha256": "5c05cb6da071c89d8b9ce72da1c93c9d0e14e9e032f31fdcd397ad15b6806327",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "56990cace0ad35acee9ebd554d8a1afdb3cbe8ff4fe1398c0ad37665623a04e5",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 689,
-        "side": "7980517921769314304/298023223876953125",
-        "valid": true
+        "side": "1100850241129654867412798867136513435824470331/41109980715976643310832796155000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10200,
+        "near_pairs": 1416
       }
     },
     "690": {
@@ -6749,29 +7049,39 @@
     "691": {
       "n": 691,
       "kind": "certificate",
-      "bound": "147490837893130907522364969720389522543/5497558138880000000000000000000000000",
-      "rounded_up": "26.828427124771",
+      "bound": "292715792321166981972119073389265220911602718226281481803272121125317/10910657973351777859939300686811074023424258956328960000000000000000",
+      "rounded_up": "26.828427124752",
       "certificate": "certificates/0000-0999/n691.cert",
-      "certificate_sha256": "bd59861d6ffbf0d7436a9ade8ac5ada9f5493a8f798f628bc57ce0fcc4d10a56",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "f9628b72d4d7d39e3b31b88753f75d009dc8cb0b5ba897abce1b047929e3b4a7",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 691,
-        "side": "147490837893130907522364969720389522543/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "292715792321166981972119073389265220911602718226281481803272121125317/10910657973351777859939300686811074023424258956328960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10236,
+        "near_pairs": 1364
       }
     },
     "692": {
       "n": 692,
       "kind": "certificate",
-      "bound": "7995494343272788992/298023223876953125",
-      "rounded_up": "26.828427124774",
+      "bound": "10516023928186225586476714051544299391137019/391973181256091671056627345000000000000000",
+      "rounded_up": "26.828427124752",
       "certificate": "certificates/0000-0999/n692.cert",
-      "certificate_sha256": "ac28cbf0e3d3d5442aec148c7c233aa44e66c0993286f702c6267173a23aba6a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "46942cc8eadadc2ca6ba936f25a38bb27f0cbe47cce59bc76939bdb77c791cc7",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 692,
-        "side": "7995494343272788992/298023223876953125",
-        "valid": true
+        "side": "10516023928186225586476714051544299391137019/391973181256091671056627345000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10241,
+        "near_pairs": 1369
       }
     },
     "693": {
@@ -6791,43 +7101,58 @@
     "694": {
       "n": 694,
       "kind": "certificate",
-      "bound": "1566851032727009903706429334086399474958480154788441558674359820916379471/58249807335139416589537464798115226275422392081191010304000000000000000",
-      "rounded_up": "26.898819144794",
+      "bound": "293483815575953176911498966806642502369414959/10910657973362688517912657920000000000000000",
+      "rounded_up": "26.898819144773",
       "certificate": "certificates/0000-0999/n694.cert",
-      "certificate_sha256": "133a4411c551f3d44d2242bd01d40b3cc0aa853248cc356bb787c11dcc7ca565",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "5d5b81a0803fa39e0187e7e25b235d16837c402569382e762595fc57bc82bdac",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 694,
-        "side": "1566851032727009903706429334086399474958480154788441558674359820916379471/58249807335139416589537464798115226275422392081191010304000000000000000",
-        "valid": true
+        "side": "293483815575953176911498966806642502369414959/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10318,
+        "near_pairs": 1610
       }
     },
     "695": {
       "n": 695,
       "kind": "certificate",
-      "bound": "147881537320674025094708853694740729893/5497558138880000000000000000000000000",
-      "rounded_up": "26.899494936638",
+      "bound": "436344327278113600778781005009069258425574673/16221283273394632018614026240000000000000000",
+      "rounded_up": "26.899494936617",
       "certificate": "certificates/0000-0999/n695.cert",
-      "certificate_sha256": "8b9831aded6b49c75eda6f0243987240207c39d955c9b7bf30d47405bb78dfea",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "1951d8b59bd997992b744fb32005590a7456aee44d995a72824d75487bc1ed76",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 695,
-        "side": "147881537320674025094708853694740729893/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "436344327278113600778781005009069258425574673/16221283273394632018614026240000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10330,
+        "near_pairs": 1382
       }
     },
     "696": {
       "n": 696,
       "kind": "certificate",
-      "bound": "371037181209464853944645431771870944822356267149292180843/13769338550947475923648984720562936822628352000000000000",
-      "rounded_up": "26.946623458826",
+      "bound": "321743294282091582422285301231178258139833/11940057445118774141683755000000000000000",
+      "rounded_up": "26.946544919147",
       "certificate": "certificates/0000-0999/n696.cert",
-      "certificate_sha256": "406eed4e0be2afc3ff7103720e0f7d882b9422b8ad24d6f77c835d539de7f7ab",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "025958c52664c2c72c3dd29d9cf0f71078799741fec11fa95e4405fb4e0c1dcf",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 696,
-        "side": "371037181209464853944645431771870944822356267149292180843/13769338550947475923648984720562936822628352000000000000",
-        "valid": true
+        "side": "321743294282091582422285301231178258139833/11940057445118774141683755000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10379,
+        "near_pairs": 1671
       }
     },
     "697": {
@@ -6847,43 +7172,58 @@
     "698": {
       "n": 698,
       "kind": "certificate",
-      "bound": "5979109445077403920644490563236836296605724593210507715173/221884567601249284622711728784380453560778752000000000000",
-      "rounded_up": "26.946936912812",
+      "bound": "40933524572068023483240280490743649926442821/1519041871291988183277810401875000000000000",
+      "rounded_up": "26.946936319308",
       "certificate": "certificates/0000-0999/n698.cert",
-      "certificate_sha256": "4234e6ccf8bbd8671b509f83303e1264fa936180adf3939376b86d079a08d9d5",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a741e57572b8f428efa0831bfd66aa22862fc69745fdde06b380d9ac5d6ade29",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 698,
-        "side": "5979109445077403920644490563236836296605724593210507715173/221884567601249284622711728784380453560778752000000000000",
-        "valid": true
+        "side": "40933524572068023483240280490743649926442821/1519041871291988183277810401875000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10413,
+        "near_pairs": 1644
       }
     },
     "699": {
       "n": 699,
       "kind": "certificate",
-      "bound": "8031650623182329856/298023223876953125",
-      "rounded_up": "26.949747468333",
+      "bound": "294039477095244092375998787510741581215692909/10910657973362688517912657920000000000000000",
+      "rounded_up": "26.949747468312",
       "certificate": "certificates/0000-0999/n699.cert",
-      "certificate_sha256": "22556755069d8df1bd45b6eb9a8aec0460da7d4eca6c9a65661ae08f45d93db1",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "153a534cd9ea1d6187dd83f38a749c64c228512e10110c4a7da1403807c0e071",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 699,
-        "side": "8031650623182329856/298023223876953125",
-        "valid": true
+        "side": "294039477095244092375998787510741581215692909/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10461,
+        "near_pairs": 1407
       }
     },
     "700": {
       "n": 700,
       "kind": "certificate",
-      "bound": "179857318073440169367885550226726643969433473646857118793600265487/6670344164866154968783350066703441648661549687833500000000000000",
-      "rounded_up": "26.963723854128",
+      "bound": "196993613314781136617843182634638763243103811/7305875641684208574456135680000000000000000",
+      "rounded_up": "26.963723854102",
       "certificate": "certificates/0000-0999/n700.cert",
-      "certificate_sha256": "73f7650db5deb0f1c4fa86f0f089cf233290eae474a07eb3ccf12be697e1b199",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "07d80f4cb2b05d439e3394d015987a59a4d96ca78425d5e419018ab754e39056",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 700,
-        "side": "179857318073440169367885550226726643969433473646857118793600265487/6670344164866154968783350066703441648661549687833500000000000000",
-        "valid": true
+        "side": "196993613314781136617843182634638763243103811/7305875641684208574456135680000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10479,
+        "near_pairs": 1599
       }
     },
     "701": {
@@ -6903,15 +7243,20 @@
     "702": {
       "n": 702,
       "kind": "certificate",
-      "bound": "970943455862240420414960500890098020871/35992847283384224460086335500000000000",
-      "rounded_up": "26.976011322963",
+      "bound": "823196119759123505437836951442762221475502759/30515863382545200316278529545000000000000000",
+      "rounded_up": "26.976006198467",
       "certificate": "certificates/0000-0999/n702.cert",
-      "certificate_sha256": "f6907a9f8e0843902d12176a021d57544effcbfcd7ce0b9dda799ccee60c4e7b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "8b3c0df722c60a8f5c3f6c89b267b1dfa1b611e0032570426c08fef29334b26b",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 702,
-        "side": "970943455862240420414960500890098020871/35992847283384224460086335500000000000",
-        "valid": true
+        "side": "823196119759123505437836951442762221475502759/30515863382545200316278529545000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10559,
+        "near_pairs": 1754
       }
     },
     "703": {
@@ -7227,43 +7572,58 @@
     "735": {
       "n": 735,
       "kind": "certificate",
-      "bound": "152045164175189024591338879017504637989/5497558138880000000000000000000000000",
-      "rounded_up": "27.656854249506",
+      "bound": "448629667232097986634451650236699281136628523/16221283273394632018614026240000000000000000",
+      "rounded_up": "27.656854249498",
       "certificate": "certificates/0000-0999/n735.cert",
-      "certificate_sha256": "386beb66593f53d30ccc47cf28bf6fe6ba87fd8de6458d206d80cf75557c2ece",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "325f3126a93b0ef494e6fef69d577dd6607213b41dad2f37a5916801a3499fde",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 735,
-        "side": "152045164175189024591338879017504637989/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "448629667232097986634451650236699281136628523/16221283273394632018614026240000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 10971,
+        "near_pairs": 1489
       }
     },
     "736": {
       "n": 736,
       "kind": "certificate",
-      "bound": "8242384865737040896/298023223876953125",
-      "rounded_up": "27.656854249521",
+      "bound": "75438619333854364484232119110281422622141221/2727664493340672129478164480000000000000000",
+      "rounded_up": "27.656854249498",
       "certificate": "certificates/0000-0999/n736.cert",
-      "certificate_sha256": "605d04a894d3e4164aeca8ea63a29b8e96fd5f620489c5fdd079bc1a247a8002",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6c203630c1817f153d49c588b148df0e43b2b2b22bafeae5d3703a2ac9001925",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 736,
-        "side": "8242384865737040896/298023223876953125",
-        "valid": true
+        "side": "75438619333854364484232119110281422622141221/2727664493340672129478164480000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11001,
+        "near_pairs": 1426
       }
     },
     "737": {
       "n": 737,
       "kind": "certificate",
-      "bound": "152159597388169738494305372959785111663/5497558138880000000000000000000000000",
-      "rounded_up": "27.677669529689",
+      "bound": "193195348321547896730709484965391159655613847/6980188419203769456231853385000000000000000",
+      "rounded_up": "27.677669529669",
       "certificate": "certificates/0000-0999/n737.cert",
-      "certificate_sha256": "a3b08e48be6231e19ef3aa2077dd0a2873984e6f676ac956dee0ee9ed42be7f2",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e43c7ca4558365f7f8124884691fb8fc1433dad00f0a475aa0afad665db912ba",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 737,
-        "side": "152159597388169738494305372959785111663/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "193195348321547896730709484965391159655613847/6980188419203769456231853385000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11033,
+        "near_pairs": 1533
       }
     },
     "738": {
@@ -7325,127 +7685,172 @@
     "742": {
       "n": 742,
       "kind": "certificate",
-      "bound": "152712129817410965706773039881261382693/5497558138880000000000000000000000000",
-      "rounded_up": "27.778174593079",
+      "bound": "85491305480521410837706275604257121749005399/3077643032090622829977841170000000000000000",
+      "rounded_up": "27.778174593058",
       "certificate": "certificates/0000-0999/n742.cert",
-      "certificate_sha256": "828b26bdbafe7c0b32cd9fb5426a1ca92790b31af048c8ca91002ee853f41ef3",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "f7ed1570def3ce6f89069484ab83cfe588f184eb67bf4e7bf137c5df032a8cfa",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 742,
-        "side": "152712129817410965706773039881261382693/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "85491305480521410837706275604257121749005399/3077643032090622829977841170000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11185,
+        "near_pairs": 1540
       }
     },
     "743": {
       "n": 743,
       "kind": "certificate",
-      "bound": "13255591332078592/476837158203125",
-      "rounded_up": "27.798989873252",
+      "bound": "108976028283237837736664489172424807409810403/3920143457737034605149552640000000000000000",
+      "rounded_up": "27.798989873229",
       "certificate": "certificates/0000-0999/n743.cert",
-      "certificate_sha256": "210a5b6144c58eb92dae049612bce547bb91737eb4bc9f3491a71e015fc5312a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "edd77efd98fe1862da450397cddd9e47d2eb7c7a2f407926b2571d8837393284",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 743,
-        "side": "13255591332078592/476837158203125",
-        "valid": true
+        "side": "108976028283237837736664489172424807409810403/3920143457737034605149552640000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11210,
+        "near_pairs": 1495
       }
     },
     "744": {
       "n": 744,
       "kind": "certificate",
-      "bound": "8284744582549142528/298023223876953125",
-      "rounded_up": "27.798989873252",
+      "bound": "13979685600555901789171617121457510397379243/502884661072470581168930765000000000000000",
+      "rounded_up": "27.798989873229",
       "certificate": "certificates/0000-0999/n744.cert",
-      "certificate_sha256": "6c8a7090d7ebabfb91aab922783cdc7b9ca72217db7401f1db7567a359655377",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "dd1b7d29f58d46ce96a39dd0f669ec75ccb953e67249d7c3c8cd703581187b53",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 744,
-        "side": "8284744582549142528/298023223876953125",
-        "valid": true
+        "side": "13979685600555901789171617121457510397379243/502884661072470581168930765000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11229,
+        "near_pairs": 1497
       }
     },
     "745": {
       "n": 745,
       "kind": "certificate",
-      "bound": "152988396032025563700637228141250353189/5497558138880000000000000000000000000",
-      "rounded_up": "27.828427124774",
+      "bound": "1191649500663744024076566550140359805099990563/42821302667293868622261278815000000000000000",
+      "rounded_up": "27.828427124752",
       "certificate": "certificates/0000-0999/n745.cert",
-      "certificate_sha256": "dd58e26c95040923c05f880cadf7d9c2629994975da77c6c5fdc00475df67f54",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "d2cb593649e6674ab2d7d0f1c50b18ecd2f8b5d63cf742fab4a340ab31ac43bc",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 745,
-        "side": "152988396032025563700637228141250353189/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "1191649500663744024076566550140359805099990563/42821302667293868622261278815000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11247,
+        "near_pairs": 1474
       }
     },
     "746": {
       "n": 746,
       "kind": "certificate",
-      "bound": "8293517567150056448/298023223876953125",
-      "rounded_up": "27.828427124775",
+      "bound": "747071336314110612277562962013785897742845331/26845618437760230674985945405000000000000000",
+      "rounded_up": "27.828427124752",
       "certificate": "certificates/0000-0999/n746.cert",
-      "certificate_sha256": "227ed530254f5cce6630b31513e99be3f49bb6c461962935e03f70c02318ba9b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "0aa61b2e3eb55e0670226a38c5f44e3fd5f149c53b73895d16c5a624fb18dc5b",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 746,
-        "side": "8293517567150056448/298023223876953125",
-        "valid": true
+        "side": "747071336314110612277562962013785897742845331/26845618437760230674985945405000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11272,
+        "near_pairs": 1457
       }
     },
     "747": {
       "n": 747,
       "kind": "certificate",
-      "bound": "114542132955217192542896156831/4107805670290500000000000000",
-      "rounded_up": "27.884019388658",
+      "bound": "536278525753374806848426233743711945415506087/19233061201721533131943830435000000000000000",
+      "rounded_up": "27.883160154733",
       "certificate": "certificates/0000-0999/n747.cert",
-      "certificate_sha256": "85aa81488ecd535263c1725fa4e0cbfb86b8e428b1bbdfad219d594cfad7c021",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "36661c79eb042f079011e487db865b901526fb75592cfffb5ffc5554104943f9",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 747,
-        "side": "114542132955217192542896156831/4107805670290500000000000000",
-        "valid": true
+        "side": "536278525753374806848426233743711945415506087/19233061201721533131943830435000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11320,
+        "near_pairs": 1790
       }
     },
     "748": {
       "n": 748,
       "kind": "certificate",
-      "bound": "114542132955217192542896156831/4107805670290500000000000000",
-      "rounded_up": "27.884019388658",
+      "bound": "20559753513811393231635547372139853388854909/737331057881574182664273920000000000000000",
+      "rounded_up": "27.884019388633",
       "certificate": "certificates/0000-0999/n748.cert",
-      "certificate_sha256": "a5eda4edfdcae5cdb574bfe7280949ef0dbd3a8edb9cee0c42ad884e1d333b42",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7f2599bbf9c3df9f85eecc6de180dcd79b10e129601b89d9176761f05ce22217",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 748,
-        "side": "114542132955217192542896156831/4107805670290500000000000000",
-        "valid": true
+        "side": "20559753513811393231635547372139853388854909/737331057881574182664273920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11342,
+        "near_pairs": 1631
       }
     },
     "749": {
       "n": 749,
       "kind": "certificate",
-      "bound": "114542132955217192542896156831/4107805670290500000000000000",
-      "rounded_up": "27.884019388658",
+      "bound": "216074572778403888664531493762619502986923/7749046856081454913290240000000000000000",
+      "rounded_up": "27.884019388633",
       "certificate": "certificates/0000-0999/n749.cert",
-      "certificate_sha256": "48ce819f621938bf3e8710942c32da91c00205f3d182fab74c967f9ad2c1c686",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "f6c517a24742be93c0d69f5a02c4b71f45bf48bb358bc425091a32d2b6c607b0",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 749,
-        "side": "114542132955217192542896156831/4107805670290500000000000000",
-        "valid": true
+        "side": "216074572778403888664531493762619502986923/7749046856081454913290240000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11364,
+        "near_pairs": 1638
       }
     },
     "750": {
       "n": 750,
       "kind": "certificate",
-      "bound": "386548993519841069744081316284025654327/13849245187980465391829101000000000000",
-      "rounded_up": "27.911195756382",
+      "bound": "152264753815437908137934523824715788432365567/5455328986681344258956328960000000000000000",
+      "rounded_up": "27.911195491084",
       "certificate": "certificates/0000-0999/n750.cert",
-      "certificate_sha256": "9adc9b470984567d3978c3c9f8f6fb1f393b5e048584f4dcf5002286200966ab",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "ce47ffcc59bc298e51f07f889625f38e9f7c6c04baaf23c8c813e46c2ae72984",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 750,
-        "side": "386548993519841069744081316284025654327/13849245187980465391829101000000000000",
-        "valid": true
+        "side": "152264753815437908137934523824715788432365567/5455328986681344258956328960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11407,
+        "near_pairs": 1865
       }
     },
     "751": {
@@ -7465,15 +7870,20 @@
     "752": {
       "n": 752,
       "kind": "certificate",
-      "bound": "32164034481856491390652771/1151526094107375000000000",
-      "rounded_up": "27.931659253271",
+      "bound": "152376388589600203354625145372656791861164817/5455328986681344258956328960000000000000000",
+      "rounded_up": "27.931658926824",
       "certificate": "certificates/0000-0999/n752.cert",
-      "certificate_sha256": "7653d2083d2e6886c74a5d9a6eed1b72a331d64d1d8b97d52bbaeeee5ec3c4a8",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "d6f8fd6cf5a8fc8f13510c8a6d6acea54aeabe66165c2bf035a35f406a21f64c",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 752,
-        "side": "32164034481856491390652771/1151526094107375000000000",
-        "valid": true
+        "side": "152376388589600203354625145372656791861164817/5455328986681344258956328960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11460,
+        "near_pairs": 1883
       }
     },
     "753": {
@@ -7521,15 +7931,20 @@
     "756": {
       "n": 756,
       "kind": "certificate",
-      "bound": "954009126734594678243554865477612659731/34100032946130499012138265500000000000",
-      "rounded_up": "27.976780205512",
+      "bound": "459518678865864864451176523936370849700683481/16425003748399053430895229905000000000000000",
+      "rounded_up": "27.976777716757",
       "certificate": "certificates/0000-0999/n756.cert",
-      "certificate_sha256": "0631a596dabad554bc7a6873eccbf94c1d06765d78f9f79bd9e4796e46ca5da5",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "aa3f642a130d91d9a1ad05d3fdcab8396b4546306544e27a33a63806eba1fe6d",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 756,
-        "side": "954009126734594678243554865477612659731/34100032946130499012138265500000000000",
-        "valid": true
+        "side": "459518678865864864451176523936370849700683481/16425003748399053430895229905000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11589,
+        "near_pairs": 1948
       }
     },
     "757": {
@@ -7853,43 +8268,58 @@
     "790": {
       "n": 790,
       "kind": "certificate",
-      "bound": "78771361157034512295818451120690795557/2748779069440000000000000000000000000",
-      "rounded_up": "28.656854249506",
+      "bound": "39083141913597764519840568577077105331493773/1363832246670336064739082240000000000000000",
+      "rounded_up": "28.656854249498",
       "certificate": "certificates/0000-0999/n790.cert",
-      "certificate_sha256": "ee1e4439b36ecb7d544692fd0d7592724835df73bb7ed7a9b85ecbe93e30ba5f",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "765fcfa43ac607c7de499593a21cce4f42e318ef30f34abb3ead86bd4e89ca63",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 790,
-        "side": "78771361157034512295818451120690795557/2748779069440000000000000000000000000",
-        "valid": true
+        "side": "39083141913597764519840568577077105331493773/1363832246670336064739082240000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11708,
+        "near_pairs": 1593
       }
     },
     "791": {
       "n": 791,
       "kind": "certificate",
-      "bound": "157542722314148057434564677896428881957/5497558138880000000000000000000000000",
-      "rounded_up": "28.656854249521",
+      "bound": "185651962168133647010764921419072023244995357/6478448770118695691445599722500000000000000",
+      "rounded_up": "28.656854249498",
       "certificate": "certificates/0000-0999/n791.cert",
-      "certificate_sha256": "6f2d079cbe3ca69c1458a21c679a4be0ca76a53d840ba4e7aa79d4b13b0c11f1",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a8b5b481d30048cc18e66e2ce5f6178de7111296a790c5a47eaa08953b061c6f",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 791,
-        "side": "157542722314148057434564677896428881957/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "185651962168133647010764921419072023244995357/6478448770118695691445599722500000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11728,
+        "near_pairs": 1558
       }
     },
     "792": {
       "n": 792,
       "kind": "certificate",
-      "bound": "8540408089614276608/298023223876953125",
-      "rounded_up": "28.656854249522",
+      "bound": "1089696468526715036428075325785613248814910553/38025683455670357949190238015000000000000000",
+      "rounded_up": "28.656854249499",
       "certificate": "certificates/0000-0999/n792.cert",
-      "certificate_sha256": "0decaae32604215108acd473863d263f41074194cffcb421f7f69529a3daee34",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7c0e7e9fdac2060517973c64c9c179a1c22c2c086c6ac07736668cd9b911c36a",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 792,
-        "side": "8540408089614276608/298023223876953125",
-        "valid": true
+        "side": "1089696468526715036428075325785613248814910553/38025683455670357949190238015000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11780,
+        "near_pairs": 1595
       }
     },
     "793": {
@@ -7951,183 +8381,248 @@
     "797": {
       "n": 797,
       "kind": "certificate",
-      "bound": "79104843978145482853535531552569167909/2748779069440000000000000000000000000",
-      "rounded_up": "28.778174593079",
+      "bound": "313988820082572896397921471056786866143795509/10910657973362688517912657920000000000000000",
+      "rounded_up": "28.778174593058",
       "certificate": "certificates/0000-0999/n797.cert",
-      "certificate_sha256": "f397bb94f85963aec338a53986ce7caa6a4c5e98e5594c207bef545e95a193c8",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "05732d3071f914442833ec145861c4c0512440c54f9056f186cceda16b61eb98",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 797,
-        "side": "79104843978145482853535531552569167909/2748779069440000000000000000000000000",
-        "valid": true
+        "side": "313988820082572896397921471056786866143795509/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11922,
+        "near_pairs": 1680
       }
     },
     "798": {
       "n": 798,
       "kind": "certificate",
-      "bound": "253318593870744468010629602082886389/8796093022208000000000000000000000",
-      "rounded_up": "28.798989873252",
+      "bound": "426196589513492181181185521571901584367330379/14799011749702677639968164020000000000000000",
+      "rounded_up": "28.798989873230",
       "certificate": "certificates/0000-0999/n798.cert",
-      "certificate_sha256": "e1501514f1a245ae283a50c7fbfdfac54e67ce0546c604cf19284baaa37639b0",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "260f7f90514399a60f5baf761c0b1991201e61d489c363ade6bad7ee05702455",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 798,
-        "side": "253318593870744468010629602082886389/8796093022208000000000000000000000",
-        "valid": true
+        "side": "426196589513492181181185521571901584367330379/14799011749702677639968164020000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11944,
+        "near_pairs": 1654
       }
     },
     "799": {
       "n": 799,
       "kind": "certificate",
-      "bound": "158324121169215708074893993830582820901/5497558138880000000000000000000000000",
-      "rounded_up": "28.798989873252",
+      "bound": "59363995181943954222328335782849498626520943/2061322131201787840276275543125000000000000",
+      "rounded_up": "28.798989873229",
       "certificate": "certificates/0000-0999/n799.cert",
-      "certificate_sha256": "15797adc13ca52cd0d9741d68e5ce41f643bfea80bd245e5fbbca636d1dd3a29",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "49a7ce9816b1273e87075de23923c83c19970ae2ceab80b7bb8428edf831d87d",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 799,
-        "side": "158324121169215708074893993830582820901/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "59363995181943954222328335782849498626520943/2061322131201787840276275543125000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11956,
+        "near_pairs": 1654
       }
     },
     "800": {
       "n": 800,
       "kind": "certificate",
-      "bound": "8582767806426386432/298023223876953125",
-      "rounded_up": "28.798989873253",
+      "bound": "499018811161423351474626467041910023501497589/17327649801540142954217100195000000000000000",
+      "rounded_up": "28.798989873230",
       "certificate": "certificates/0000-0999/n800.cert",
-      "certificate_sha256": "159d46866f25a7751615f1b8a94d06d2e75a7cd542c56ecd21959ee1484b27fd",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "60591afad89f943f60003f6a934ac535b43352cc03ddd1f50fdbcbffef450cd6",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 800,
-        "side": "8582767806426386432/298023223876953125",
-        "valid": true
+        "side": "499018811161423351474626467041910023501497589/17327649801540142954217100195000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 11999,
+        "near_pairs": 1615
       }
     },
     "801": {
       "n": 801,
       "kind": "certificate",
-      "bound": "979992148528348979942558059/33997075969372000000000000",
-      "rounded_up": "28.825777528963",
+      "bound": "61495033718143804688610458433212979732609919/2133334778651119573939124595000000000000000",
+      "rounded_up": "28.825777526126",
       "certificate": "certificates/0000-0999/n801.cert",
-      "certificate_sha256": "ff1b2b3af2ce116d64770a661e4e9f7b1b28e9d3d7ea100ea757f50dfc84e213",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "660bd8789c415a206159ba48aa2646948056767b57201dcd286f536db92f78e3",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 801,
-        "side": "979992148528348979942558059/33997075969372000000000000",
-        "valid": true
+        "side": "61495033718143804688610458433212979732609919/2133334778651119573939124595000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12036,
+        "near_pairs": 1919
       }
     },
     "802": {
       "n": 802,
       "kind": "certificate",
-      "bound": "232917913984293687846911157/8079729530452000000000000",
-      "rounded_up": "28.827439471389",
+      "bound": "581416302997856018194637953249967116579002359/20168850016342985337837986795000000000000000",
+      "rounded_up": "28.827439468623",
       "certificate": "certificates/0000-0999/n802.cert",
-      "certificate_sha256": "c92093a0f4570de3b00428fec2dd0d03e035fa79145a1a253edab7c702aa31d7",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "03bcef2c5aba8dc39ebfd2a504f465b10ff2188da9f2f39b28201327ab19d0c8",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 802,
-        "side": "232917913984293687846911157/8079729530452000000000000",
-        "valid": true
+        "side": "581416302997856018194637953249967116579002359/20168850016342985337837986795000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12044,
+        "near_pairs": 1926
       }
     },
     "803": {
       "n": 803,
       "kind": "certificate",
-      "bound": "9984094780930028299805439154810655679192900686060591720001170484223/346338227912949481776898653463382279129494817768986500000000000000",
-      "rounded_up": "28.827585222385",
+      "bound": "113008269611875140411626360091178215116797403/3920143457737034605149552640000000000000000",
+      "rounded_up": "28.827585222381",
       "certificate": "certificates/0000-0999/n803.cert",
-      "certificate_sha256": "5b6806751699686d639c85d7a7f6b7ee675aa2a8eb0d5381d1c88f89410044ae",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "5a8185069687d401fd18a6d55e700a1a790f9d8e55870764e7377168a3747dde",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 803,
-        "side": "9984094780930028299805439154810655679192900686060591720001170484223/346338227912949481776898653463382279129494817768986500000000000000",
-        "valid": true
+        "side": "113008269611875140411626360091178215116797403/3920143457737034605149552640000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12057,
+        "near_pairs": 1740
       }
     },
     "804": {
       "n": 804,
       "kind": "certificate",
-      "bound": "158199918167344383783984539831/5477074227054000000000000000",
-      "rounded_up": "28.884019388658",
+      "bound": "315143656445333260197441142120309377704230109/10910657973362688517912657920000000000000000",
+      "rounded_up": "28.884019388631",
       "certificate": "certificates/0000-0999/n804.cert",
-      "certificate_sha256": "a68047c3a94830918a31bc35e4b64d1d40820e657eac96c0b65d3e9e78703c37",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "09178b644ebc497e899863b62d52d76e7598506cf2ba9a079546d78ee06c8086",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 804,
-        "side": "158199918167344383783984539831/5477074227054000000000000000",
-        "valid": true
+        "side": "315143656445333260197441142120309377704230109/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12103,
+        "near_pairs": 1797
       }
     },
     "805": {
       "n": 805,
       "kind": "certificate",
-      "bound": "289166608906348697203535881/10004839315720000000000000",
-      "rounded_up": "28.902673974184",
+      "bound": "98793421759641544891944601301883072365135019/3418141236620614437014908445000000000000000",
+      "rounded_up": "28.902673974149",
       "certificate": "certificates/0000-0999/n805.cert",
-      "certificate_sha256": "dcda129e89db2fe308b4f5cfc989d9e92fa4510fcc5732812cafa9b51f84781f",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "071b942c51ddea2d4a98fbe6fabf04070fdf80dbe04e8cf2be2de51972fff64f",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 805,
-        "side": "289166608906348697203535881/10004839315720000000000000",
-        "valid": true
+        "side": "98793421759641544891944601301883072365135019/3418141236620614437014908445000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12130,
+        "near_pairs": 2018
       }
     },
     "806": {
       "n": 806,
       "kind": "certificate",
-      "bound": "289166608906348697203535881/10004839315720000000000000",
-      "rounded_up": "28.902673974184",
+      "bound": "468838461893171711844722917426930504383193073/16221283273394632018614026240000000000000000",
+      "rounded_up": "28.902673974145",
       "certificate": "certificates/0000-0999/n806.cert",
-      "certificate_sha256": "2df06c26b0e17e6007ad845892242e08fed98ef63267de59f80120c43601fa72",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "dce28ff2882628a1649bcb32ff0930b07d534243d54a54d0231ffe765ff16bb6",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 806,
-        "side": "289166608906348697203535881/10004839315720000000000000",
-        "valid": true
+        "side": "468838461893171711844722917426930504383193073/16221283273394632018614026240000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12141,
+        "near_pairs": 2020
       }
     },
     "807": {
       "n": 807,
       "kind": "certificate",
-      "bound": "72224123840587959226624637/2496970987106000000000000",
-      "rounded_up": "28.924694845693",
+      "bound": "83948632309237472891967460527151671825923341/2902317007270608858335150080000000000000000",
+      "rounded_up": "28.924694338674",
       "certificate": "certificates/0000-0999/n807.cert",
-      "certificate_sha256": "c9c5f5217e77181a855bccf862431c67bc383362a6ac81f1105475d3a76c7bed",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "2de80289c073b5c9ad031cb4517a55e3cb5f2c1d394a29b6b65fe8803909c2cb",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 807,
-        "side": "72224123840587959226624637/2496970987106000000000000",
-        "valid": true
+        "side": "83948632309237472891967460527151671825923341/2902317007270608858335150080000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12164,
+        "near_pairs": 1893
       }
     },
     "808": {
       "n": 808,
       "kind": "certificate",
-      "bound": "12113555080424187918502527389138845601201251313721807390985379033031/418697807049830917349641554186978070498309173496415500000000000000",
-      "rounded_up": "28.931498747933",
+      "bound": "1254828975170112470913515753764995921376802988681866180043904699127/43372415169504363686133803372415169504363686133760000000000000000",
+      "rounded_up": "28.931498747905",
       "certificate": "certificates/0000-0999/n808.cert",
-      "certificate_sha256": "388b12e6663b29cc80e8e58e2deb8198a6cb2cf8a0849f80606416ab6294800b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "093ca2bc285e6adbd19ca1c61224cd38497a2e8553e47d9a313f7ccfdf45cbd3",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 808,
-        "side": "12113555080424187918502527389138845601201251313721807390985379033031/418697807049830917349641554186978070498309173496415500000000000000",
-        "valid": true
+        "side": "1254828975170112470913515753764995921376802988681866180043904699127/43372415169504363686133803372415169504363686133760000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12223,
+        "near_pairs": 1965
       }
     },
     "809": {
       "n": 809,
       "kind": "certificate",
-      "bound": "177463677944597314978177684311319011607/6133405657401819210885453500000000000",
-      "rounded_up": "28.933954128802",
+      "bound": "76188281990561047074286429777569512352282563/2633179294185004127947325440000000000000000",
+      "rounded_up": "28.933951500687",
       "certificate": "certificates/0000-0999/n809.cert",
-      "certificate_sha256": "3d1978f9ca5f93cba880c2243c12faaf856a517b54630bf033df145ffaa8ec5f",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "b16bc5326fca60264040e581d9c8a17b38d57359f95d4e71e7a01cd0075f9a81",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 809,
-        "side": "177463677944597314978177684311319011607/6133405657401819210885453500000000000",
-        "valid": true
+        "side": "76188281990561047074286429777569512352282563/2633179294185004127947325440000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12240,
+        "near_pairs": 2010
       }
     },
     "810": {
@@ -8175,29 +8670,39 @@
     "813": {
       "n": 813,
       "kind": "certificate",
-      "bound": "11382489626928193780931467/392782465830375000000000",
-      "rounded_up": "28.979118512495",
+      "bound": "7856927453958300806103868407641695645987050991345909821754361/271123872276328160398562556390201923509764855000000000000000",
+      "rounded_up": "28.979106074254",
       "certificate": "certificates/0000-0999/n813.cert",
-      "certificate_sha256": "ddb8ffa9a2cf73b41df527583cc0d7b92e0cd5792ba97e247d62fec8c9cab10e",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e907a50f415e2a1010af2e14c7f6311b7efe752bc80b8459ea2b2d249b450bf3",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 813,
-        "side": "11382489626928193780931467/392782465830375000000000",
-        "valid": true
+        "side": "7856927453958300806103868407641695645987050991345909821754361/271123872276328160398562556390201923509764855000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12363,
+        "near_pairs": 1959
       }
     },
     "814": {
       "n": 814,
       "kind": "certificate",
-      "bound": "174736944652718504261592790309239832433/6029281412147561259185060250000000000",
-      "rounded_up": "28.981388113792",
+      "bound": "62304320850740000579792574490460502573990887/2149804583262317657562840794375000000000000",
+      "rounded_up": "28.981388046068",
       "certificate": "certificates/0000-0999/n814.cert",
-      "certificate_sha256": "a618dcd2c93e53bd48e2441d888cd31c67b7856796805b96b34f8955c3118073",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "f9408df937f8d981a15057bbdbc8482031a1f80087298570e63d6c53c7325345",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 814,
-        "side": "174736944652718504261592790309239832433/6029281412147561259185060250000000000",
-        "valid": true
+        "side": "62304320850740000579792574490460502573990887/2149804583262317657562840794375000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12393,
+        "near_pairs": 1907
       }
     },
     "815": {
@@ -8549,15 +9054,20 @@
     "850": {
       "n": 850,
       "kind": "certificate",
-      "bound": "81474235135286982498402752441/2747231194845500000000000000",
-      "rounded_up": "29.656854249528",
+      "bound": "56700118814721533457260789127378021358995791/1911872322590654224781126251875000000000000",
+      "rounded_up": "29.656854249499",
       "certificate": "certificates/0000-0999/n850.cert",
-      "certificate_sha256": "991ef516482f4e624bb37716d175fdf679106e18eb4a2fcaf5e3c0ca8e3ceb5f",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "74f6e4657f8c21e6371de36ca31c5f665f9d383dd98bea881decb933ca15f572",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 850,
-        "side": "81474235135286982498402752441/2747231194845500000000000000",
-        "valid": true
+        "side": "56700118814721533457260789127378021358995791/1911872322590654224781126251875000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 12854,
+        "near_pairs": 1687
       }
     },
     "851": {
@@ -8605,99 +9115,134 @@
     "854": {
       "n": 854,
       "kind": "certificate",
-      "bound": "163707246095170965707369086329015288943/5497558138880000000000000000000000000",
-      "rounded_up": "29.778174593079",
+      "bound": "122949308557473336633195926758301682303705155782571803906827539119991/4128839669914977762712241076918627768202529195246205000000000000000",
+      "rounded_up": "29.778174593058",
       "certificate": "certificates/0000-0999/n854.cert",
-      "certificate_sha256": "862799841029c87582b29596a1be35790d6b0bb4370de9db62261711d87b799b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "2080ac19012a7fa1d4bdc418206d0e09c1fe8a606b84dc0dc8e63e0c1b2da1e1",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 854,
-        "side": "163707246095170965707369086329015288943/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "122949308557473336633195926758301682303705155782571803906827539119991/4128839669914977762712241076918627768202529195246205000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13001,
+        "near_pairs": 1796
       }
     },
     "855": {
       "n": 855,
       "kind": "certificate",
-      "bound": "131057343446476234005553219620544757/4398046511104000000000000000000000",
-      "rounded_up": "29.798989873252",
+      "bound": "804458270592184341008114894223690930788336917/26996159064937950912947933835000000000000000",
+      "rounded_up": "29.798989873230",
       "certificate": "certificates/0000-0999/n855.cert",
-      "certificate_sha256": "fba68c7af963de198539d07e028dbc88d7bfba41db23102609bdd4fff13dddcd",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6b96663019592952ed7cdc1e5a848677364bfe5191f0e2eeb25786a155554f2e",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 855,
-        "side": "131057343446476234005553219620544757/4398046511104000000000000000000000",
-        "valid": true
+        "side": "804458270592184341008114894223690930788336917/26996159064937950912947933835000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13010,
+        "near_pairs": 1773
       }
     },
     "856": {
       "n": 856,
       "kind": "certificate",
-      "bound": "81910839654047854037596008527229887013/2748779069440000000000000000000000000",
-      "rounded_up": "29.798989873252",
+      "bound": "4086646698286049614705617771749592313110036040634961957807244830641/137140443876500123790505122748360761653566982062080000000000000000",
+      "rounded_up": "29.798989873230",
       "certificate": "certificates/0000-0999/n856.cert",
-      "certificate_sha256": "8068a8f68c56d4c4bafe85163e70af6d609eef4447c282d8d52c031c51493461",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6e9c0a7d96390b15c1731960e6ca53cb4e9de623828facb94ff2679e2a061643",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 856,
-        "side": "81910839654047854037596008527229887013/2748779069440000000000000000000000000",
-        "valid": true
+        "side": "4086646698286049614705617771749592313110036040634961957807244830641/137140443876500123790505122748360761653566982062080000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13029,
+        "near_pairs": 1779
       }
     },
     "857": {
       "n": 857,
       "kind": "certificate",
-      "bound": "163821679308101072000987026244169413669/5497558138880000000000000000000000000",
-      "rounded_up": "29.798989873253",
+      "bound": "152383608019183635243505345535921956487573257/5113717232277047781842115003750000000000000",
+      "rounded_up": "29.798989873230",
       "certificate": "certificates/0000-0999/n857.cert",
-      "certificate_sha256": "8e0adfa12b3dc4c45860e7477fb045aca0efadc23fe123ae37dc24a5905fa8e6",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "de923c597ef41cb4a8b0e2b369557200c97389efd015cf12fcc0dede64ce46cb",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 857,
-        "side": "163821679308101072000987026244169413669/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "152383608019183635243505345535921956487573257/5113717232277047781842115003750000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13084,
+        "near_pairs": 1777
       }
     },
     "858": {
       "n": 858,
       "kind": "certificate",
-      "bound": "807593841870867263310206393/27077229412564000000000000",
-      "rounded_up": "29.825571500168",
+      "bound": "1906475317326769688610444413921954010710899408867195980178866260799/63920831067221578037032004684879450418660581048320000000000000000",
+      "rounded_up": "29.825571499874",
       "certificate": "certificates/0000-0999/n858.cert",
-      "certificate_sha256": "56734706a6300a8f5bc652da7b824fef986422d0b6561e957dfe8ae9a21fe549",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e99aa78132af191709b60d95996d926abbe4fd94aa852c09e0eac1c050ca792e",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 858,
-        "side": "807593841870867263310206393/27077229412564000000000000",
-        "valid": true
+        "side": "1906475317326769688610444413921954010710899408867195980178866260799/63920831067221578037032004684879450418660581048320000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13093,
+        "near_pairs": 1879
       }
     },
     "859": {
       "n": 859,
       "kind": "certificate",
-      "bound": "807593841870867263310206393/27077229412564000000000000",
-      "rounded_up": "29.825571500168",
+      "bound": "35277882048926316838759599887020896796474271/1182806574186932205881520645000000000000000",
+      "rounded_up": "29.825571499868",
       "certificate": "certificates/0000-0999/n859.cert",
-      "certificate_sha256": "5485247e10aabe97d48ad9791624d76184045b2eaba2f6ffda4edbdb478d6d03",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "fdccae33ae2191d6ebb3e44da97e0b8bac6e6e93b584f0610fe7cf4b1451369b",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 859,
-        "side": "807593841870867263310206393/27077229412564000000000000",
-        "valid": true
+        "side": "35277882048926316838759599887020896796474271/1182806574186932205881520645000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13114,
+        "near_pairs": 1868
       }
     },
     "860": {
       "n": 860,
       "kind": "certificate",
-      "bound": "190562853884727732425809388710279740677961749895877155168952288601332977519252102638591/6388812653252268862214636356218488971098407022146362923303624385757184000000000000000",
-      "rounded_up": "29.827585222385",
+      "bound": "124840862074082822154976793342493874206052252556602890968474744766089/4185416323294012157553808535134284544458786938552320000000000000000",
+      "rounded_up": "29.827585222354",
       "certificate": "certificates/0000-0999/n860.cert",
-      "certificate_sha256": "760cf76f956dfd0fd63e018b1eff26a66e829faecd986cb08c604278afa8a1ed",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "c7fdd92e513b4d64bd0050edfb7cc50d22137cb1247303555350701ba5524d98",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 860,
-        "side": "190562853884727732425809388710279740677961749895877155168952288601332977519252102638591/6388812653252268862214636356218488971098407022146362923303624385757184000000000000000",
-        "valid": true
+        "side": "124840862074082822154976793342493874206052252556602890968474744766089/4185416323294012157553808535134284544458786938552320000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13136,
+        "near_pairs": 1984
       }
     },
     "861": {
@@ -8717,57 +9262,77 @@
     "862": {
       "n": 862,
       "kind": "certificate",
-      "bound": "59222200921662745453265999507/1980709073753500000000000000",
-      "rounded_up": "29.899494936647",
+      "bound": "299294835528068701035829034062880869077191917/10010029806942365406998104335000000000000000",
+      "rounded_up": "29.899494936618",
       "certificate": "certificates/0000-0999/n862.cert",
-      "certificate_sha256": "93b324c0a2891eb8ca12ff1c3a9fcc436c2337354f996ddfcc5546337503fde4",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "74af17d12739f0197bd8c94df4fd518bf0442da181e3a5859dea4ca1306a1d46",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 862,
-        "side": "59222200921662745453265999507/1980709073753500000000000000",
-        "valid": true
+        "side": "299294835528068701035829034062880869077191917/10010029806942365406998104335000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13220,
+        "near_pairs": 1761
       }
     },
     "863": {
       "n": 863,
       "kind": "certificate",
-      "bound": "1379684784878380347256830618330805204212748179/46139177588918558907962365050880000000000000",
-      "rounded_up": "29.902673974184",
+      "bound": "41122647003950059054984543687505919141265077/1375216378291337462980494835000000000000000",
+      "rounded_up": "29.902673974145",
       "certificate": "certificates/0000-0999/n863.cert",
-      "certificate_sha256": "9b723e24ea1f95e5aa7264295e2d4fd7b40192ad5d43b7bab9f6af5df14fa868",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "ff8bb8ab30374ce70f771a5145b0812c4419c8e8cb9ed8e2d0547252edaad2ba",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 863,
-        "side": "1379684784878380347256830618330805204212748179/46139177588918558907962365050880000000000000",
-        "valid": true
+        "side": "41122647003950059054984543687505919141265077/1375216378291337462980494835000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13233,
+        "near_pairs": 2185
       }
     },
     "864": {
       "n": 864,
       "kind": "certificate",
-      "bound": "893281947487151709586602082683730828361/29850996048163051655039680500000000000",
-      "rounded_up": "29.924694842541",
+      "bound": "56586434318680103297073000238168494249981357608956974256629254918852347255605202514529836703/1890961132621354283079571117715843365754991042444038891319028894924212797440000000000000000",
+      "rounded_up": "29.924694560082",
       "certificate": "certificates/0000-0999/n864.cert",
-      "certificate_sha256": "a69673613008788e8f6f53a6230516b84e85f7f77283d530ac8d2155e3f7630c",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "5fb41a9ad57a5a94c25dd262b11d54778c390dba9b776b98e1657db272a66100",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 864,
-        "side": "893281947487151709586602082683730828361/29850996048163051655039680500000000000",
-        "valid": true
+        "side": "56586434318680103297073000238168494249981357608956974256629254918852347255605202514529836703/1890961132621354283079571117715843365754991042444038891319028894924212797440000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13243,
+        "near_pairs": 2053
       }
     },
     "865": {
       "n": 865,
       "kind": "certificate",
-      "bound": "231179261682240773202706466469957674770460984798409045653772463691388160891508042461127/7723611290871653795879516928305346657539782758795168510692337488232448000000000000000",
-      "rounded_up": "29.931498747933",
+      "bound": "100415794856380331191651646477822240444133577/3354853550837409238982842885000000000000000",
+      "rounded_up": "29.931498747931",
       "certificate": "certificates/0000-0999/n865.cert",
-      "certificate_sha256": "cb8bf39f1813f33bc9277d3ff6a36e71eeb64e04b09df22873dc40fbd544f814",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "be0057bcd368fb5db03d8f90e4db5ae78e8895f66bb13af271a33274ed0f193d",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 865,
-        "side": "231179261682240773202706466469957674770460984798409045653772463691388160891508042461127/7723611290871653795879516928305346657539782758795168510692337488232448000000000000000",
-        "valid": true
+        "side": "100415794856380331191651646477822240444133577/3354853550837409238982842885000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13304,
+        "near_pairs": 2096
       }
     },
     "866": {
@@ -8843,15 +9408,20 @@
     "871": {
       "n": 871,
       "kind": "certificate",
-      "bound": "59614143435028106999845658750927126839/1988382679887731275793094500000000000",
-      "rounded_up": "29.981222446775",
+      "bound": "96223958347251183112119583209403602055703501/3209474175925063229772922880000000000000000",
+      "rounded_up": "29.981222179336",
       "certificate": "certificates/0000-0999/n871.cert",
-      "certificate_sha256": "dc878b4c0c0b5a92999ecde0e8d97bf2c8053c6f5a7499c77198dc2a92851361",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "013eef57d2dd6103f086700779b861056396760b9518ee5d45298c67ac790586",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 871,
-        "side": "59614143435028106999845658750927126839/1988382679887731275793094500000000000",
-        "valid": true
+        "side": "96223958347251183112119583209403602055703501/3209474175925063229772922880000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13472,
+        "near_pairs": 2071
       }
     },
     "872": {
@@ -8871,15 +9441,20 @@
     "873": {
       "n": 873,
       "kind": "certificate",
-      "bound": "145930153476937824291827241701/4865592835225500000000000000",
-      "rounded_up": "29.992265777039",
+      "bound": "743956942124299908668598314084459399219212947204836661053824722075401/24804959640447385407212281278440596605340626697311255000000000000000",
+      "rounded_up": "29.992265777010",
       "certificate": "certificates/0000-0999/n873.cert",
-      "certificate_sha256": "99a97b87d9c6212810c87f6cfb08c5840228127bb29001f9706d19fdad273615",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "9b3142ccaebf6f945fc50f037f6b3518c2a08d58511b32d1dcd005abb0afb67e",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 873,
-        "side": "145930153476937824291827241701/4865592835225500000000000000",
-        "valid": true
+        "side": "743956942124299908668598314084459399219212947204836661053824722075401/24804959640447385407212281278440596605340626697311255000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13556,
+        "near_pairs": 2108
       }
     },
     "874": {
@@ -9225,15 +9800,20 @@
     "909": {
       "n": 909,
       "kind": "certificate",
-      "bound": "1553611834904499910452843764338868905104762247097/50677470762626237609549735395328000000000000000",
-      "rounded_up": "30.656854249528",
+      "bound": "497293517052292973170586978886698257507895573/16221283273394632018614026240000000000000000",
+      "rounded_up": "30.656854249499",
       "certificate": "certificates/0000-0999/n909.cert",
-      "certificate_sha256": "b4d771ebe365a1bdb4926e3c64bf9e17c2983c7204804df3b9967e33cd6de0b8",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "741fb259cadabc795308795d44adfd8882e956082e40e98575994b8768a75606",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 909,
-        "side": "1553611834904499910452843764338868905104762247097/50677470762626237609549735395328000000000000000",
-        "valid": true
+        "side": "497293517052292973170586978886698257507895573/16221283273394632018614026240000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13639,
+        "near_pairs": 1841
       }
     },
     "910": {
@@ -9281,99 +9861,134 @@
     "913": {
       "n": 913,
       "kind": "certificate",
-      "bound": "42301201058512741426916777388223060517/1374389534720000000000000000000000000",
-      "rounded_up": "30.778174593079",
+      "bound": "57511659169674557391229996189768384196715587/1868585773200636477917556385000000000000000",
+      "rounded_up": "30.778174593059",
       "certificate": "certificates/0000-0999/n913.cert",
-      "certificate_sha256": "1801e290964c570db10c19e3bae72b624a8aca6ec6fc9094a296cdcefc6010e8",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7a24e4cdd5213d74e0aa1ef9a0fa74c0cda82fa1ecd442f050efd551ca6b6135",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 913,
-        "side": "42301201058512741426916777388223060517/1374389534720000000000000000000000000",
-        "valid": true
+        "side": "57511659169674557391229996189768384196715587/1868585773200636477917556385000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13796,
+        "near_pairs": 1898
       }
     },
     "914": {
       "n": 914,
       "kind": "certificate",
-      "bound": "127461597773996078582211376877/4141298158813500000000000000",
-      "rounded_up": "30.778174593089",
+      "bound": "5888173693586893156114673388928367349175817/191310036135634119878749049062500000000000",
+      "rounded_up": "30.778174593059",
       "certificate": "certificates/0000-0999/n914.cert",
-      "certificate_sha256": "cea0cf13288186fb5e259c50e7b5f5fc480ceb92a7c2f3e23ec2ceffc110acaf",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "e476e8520e8fb893898ef99906ffc3d1ca7ddfd04029a4ea6b749c30b95baf21",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 914,
-        "side": "127461597773996078582211376877/4141298158813500000000000000",
-        "valid": true
+        "side": "5888173693586893156114673388928367349175817/191310036135634119878749049062500000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13821,
+        "near_pairs": 1813
       }
     },
     "915": {
       "n": 915,
       "kind": "certificate",
-      "bound": "169319237446975708075490040278336727151/5497558138880000000000000000000000000",
-      "rounded_up": "30.798989873252",
+      "bound": "170381638659234105363212837825864714291651893/5532052816034943152565997402500000000000000",
+      "rounded_up": "30.798989873230",
       "certificate": "certificates/0000-0999/n915.cert",
-      "certificate_sha256": "8f210adc4801fd75cbaef47c4955bcaf13fd07cee5ec820e7e1cfa21fa0b0a5f",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "024233c4ae7fd891c42bce7142c9f5fd3f7263a690e428c5246242b1d38601a0",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 915,
-        "side": "169319237446975708075490040278336727151/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "170381638659234105363212837825864714291651893/5532052816034943152565997402500000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13824,
+        "near_pairs": 1905
       }
     },
     "916": {
       "n": 916,
       "kind": "certificate",
-      "bound": "84659618723490536000642524734023183397/2748779069440000000000000000000000000",
-      "rounded_up": "30.798989873253",
+      "bound": "482945834625807155509139084445540682301233637/15680573830948138420598210560000000000000000",
+      "rounded_up": "30.798989873230",
       "certificate": "certificates/0000-0999/n916.cert",
-      "certificate_sha256": "2b2796ec6b135d32254641472dceff980f636f7e2a9b67a3bfbe39354025db42",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "7ce58c3ce2b5e7acc656b94f779e13920e2e31acf5e1cc8c3de9d7031b677c33",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 916,
-        "side": "84659618723490536000642524734023183397/2748779069440000000000000000000000000",
-        "valid": true
+        "side": "482945834625807155509139084445540682301233637/15680573830948138420598210560000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13879,
+        "near_pairs": 1906
       }
     },
     "917": {
       "n": 917,
       "kind": "certificate",
-      "bound": "232154976867910153125018239/7531246480496000000000000",
-      "rounded_up": "30.825571499902",
+      "bound": "133035591683773076838312707098519969850750156307478236780714682253017/4315754265394259295124765502827742537367524695080960000000000000000",
+      "rounded_up": "30.825571499868",
       "certificate": "certificates/0000-0999/n917.cert",
-      "certificate_sha256": "6ddb670c7bbe9f40181dd5fc4a582dba53415bd766960c32eccd6c6680c724a2",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "bb9b9f66317692764111cbc0a30623e5185197785ea1cddab67e48c1c7179c5b",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 917,
-        "side": "232154976867910153125018239/7531246480496000000000000",
-        "valid": true
+        "side": "133035591683773076838312707098519969850750156307478236780714682253017/4315754265394259295124765502827742537367524695080960000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13889,
+        "near_pairs": 2087
       }
     },
     "918": {
       "n": 918,
       "kind": "certificate",
-      "bound": "232154976867910153125018239/7531246480496000000000000",
-      "rounded_up": "30.825571499902",
+      "bound": "3024407147538573335203157560068803063206972477575460983853423068607/98113579096222265406811032880586794858065334108160000000000000000",
+      "rounded_up": "30.825571499868",
       "certificate": "certificates/0000-0999/n918.cert",
-      "certificate_sha256": "c8a1ddea26f827f57eaf5d0b71e4947500d629047a773554a8e6564b492bc40b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a0933f0044966468793e87398f9459dd00b6ba4c06b996988e100350dfdc3477",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 918,
-        "side": "232154976867910153125018239/7531246480496000000000000",
-        "valid": true
+        "side": "3024407147538573335203157560068803063206972477575460983853423068607/98113579096222265406811032880586794858065334108160000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13904,
+        "near_pairs": 2063
       }
     },
     "919": {
       "n": 919,
       "kind": "certificate",
-      "bound": "196951666537980001288370363294411179130837055571486900371385407804859148019252102638591/6388812653252268862214636356218488971098407022146362923303624385757184000000000000000",
-      "rounded_up": "30.827585222385",
+      "bound": "1075481217250748868177287453971494210212027954015283359642315090089/34886975722992895796633926272787316706097358116945000000000000000",
+      "rounded_up": "30.827585222354",
       "certificate": "certificates/0000-0999/n919.cert",
-      "certificate_sha256": "e68055fd38732106d472b8b591820b05e986364b11d0fb1aa5d981d7fefb0123",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6e71bacb469e36eab705838988225c11098b4f9eee9fc6c1cc56d70e3a7eaec6",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 919,
-        "side": "196951666537980001288370363294411179130837055571486900371385407804859148019252102638591/6388812653252268862214636356218488971098407022146362923303624385757184000000000000000",
-        "valid": true
+        "side": "1075481217250748868177287453971494210212027954015283359642315090089/34886975722992895796633926272787316706097358116945000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 13931,
+        "near_pairs": 2093
       }
     },
     "920": {
@@ -9421,29 +10036,39 @@
     "923": {
       "n": 923,
       "kind": "certificate",
-      "bound": "31409239654447985365428283871976697023/1015668539830505558595962750000000000",
-      "rounded_up": "30.924694841577",
+      "bound": "2720164906463268839631948456041/87960930222080000000000000000",
+      "rounded_up": "30.924694629712",
       "certificate": "certificates/0000-0999/n923.cert",
-      "certificate_sha256": "b539afdae36392b85560e59494dd199bd079e13a6ee861002227c87ba484cc77",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "f2448bebafc0cbed5be7e423a8c9ce5850871313b7be8ab06d89c39cd5765293",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 923,
-        "side": "31409239654447985365428283871976697023/1015668539830505558595962750000000000",
-        "valid": true
+        "side": "2720164906463268839631948456041/87960930222080000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 14038,
+        "near_pairs": 2239
       }
     },
     "924": {
       "n": 924,
       "kind": "certificate",
-      "bound": "238902872973112426999004681205312852345350409111391192234963110353117024391508042461127/7723611290871653795879516928305346657539782758795168510692337488232448000000000000000",
-      "rounded_up": "30.931498747933",
+      "bound": "1140919169598939086787676729804817638039715503/36885350396260262826332302515000000000000000",
+      "rounded_up": "30.931498747932",
       "certificate": "certificates/0000-0999/n924.cert",
-      "certificate_sha256": "88eacf5b3c5cf1e44186920fcbc6ec09275dbb2a2b3df9a5ad1d95ead820b36b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "353baccbf7de5a05d94249a40c718345501dd7aecb8ef75f4bd38c667db481ca",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 924,
-        "side": "238902872973112426999004681205312852345350409111391192234963110353117024391508042461127/7723611290871653795879516928305346657539782758795168510692337488232448000000000000000",
-        "valid": true
+        "side": "1140919169598939086787676729804817638039715503/36885350396260262826332302515000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 14100,
+        "near_pairs": 2218
       }
     },
     "925": {
@@ -9463,15 +10088,20 @@
     "926": {
       "n": 926,
       "kind": "certificate",
-      "bound": "180568598574424741914864338403993405676960556777939079664392328946142768153/5835698650238216299919051069224186502382162999190510108672000000000000000",
-      "rounded_up": "30.942070418091",
+      "bound": "1373681230453699817332604986285216252271800757/44395259008002544865930150785000000000000000",
+      "rounded_up": "30.942070418062",
       "certificate": "certificates/0000-0999/n926.cert",
-      "certificate_sha256": "347264bb3dcdac0aa4e8c9234f77ba88da86ebb4e922989cff238facc5400d4d",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "8c78d3349d2e9e5e46da6494d021538f38c532539750e4b8a7c3b8bf51e37497",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 926,
-        "side": "180568598574424741914864338403993405676960556777939079664392328946142768153/5835698650238216299919051069224186502382162999190510108672000000000000000",
-        "valid": true
+        "side": "1373681230453699817332604986285216252271800757/44395259008002544865930150785000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 14127,
+        "near_pairs": 2182
       }
     },
     "927": {
@@ -9923,15 +10553,20 @@
     "970": {
       "n": 970,
       "kind": "certificate",
-      "bound": "1604289305667126148065140730929042405104762247097/50677470762626237609549735395328000000000000000",
-      "rounded_up": "31.656854249528",
+      "bound": "141861172626075952821631741059097207889388877/4481215079300580005126855685000000000000000",
+      "rounded_up": "31.656854249499",
       "certificate": "certificates/0000-0999/n970.cert",
-      "certificate_sha256": "888db7f7f578dd9558a0edb1b92e5787ec6da2b2bf4ddb3dd7f1d858ef0b6e3a",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "aa73314fef0aad6c211289e5f25499bccb1dc2dde5c48dfb8325ba74a6f2c4b5",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 970,
-        "side": "1604289305667126148065140730929042405104762247097/50677470762626237609549735395328000000000000000",
-        "valid": true
+        "side": "141861172626075952821631741059097207889388877/4481215079300580005126855685000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 14794,
+        "near_pairs": 1948
       }
     },
     "971": {
@@ -9993,85 +10628,115 @@
     "975": {
       "n": 975,
       "kind": "certificate",
-      "bound": "175470527910414052002724677377/5521730878418000000000000000",
-      "rounded_up": "31.778174593089",
+      "bound": "346720794002668111461512141335664304658488809/10910657973362688517912657920000000000000000",
+      "rounded_up": "31.778174593059",
       "certificate": "certificates/0000-0999/n975.cert",
-      "certificate_sha256": "a0cd620b88a08737467a407185854401fd450d395b53495c4bc557c6a477f4aa",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "412b09d43654b89489d2c56f33d04f9e89262e5c28efb35a37e70794d5581c60",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 975,
-        "side": "175470527910414052002724677377/5521730878418000000000000000",
-        "valid": true
+        "side": "346720794002668111461512141335664304658488809/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 14952,
+        "near_pairs": 1970
       }
     },
     "976": {
       "n": 976,
       "kind": "certificate",
-      "bound": "91717504595305587097814204831/2886179139290500000000000000",
-      "rounded_up": "31.778174593090",
+      "bound": "346720794002668731660613368211866295670757509/10910657973362688517912657920000000000000000",
+      "rounded_up": "31.778174593059",
       "certificate": "certificates/0000-0999/n976.cert",
-      "certificate_sha256": "356bdb93c31ff9a08ab6bb04506575424f0b248cad742dc414d5d8a207bece83",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "4b5aa89f591f6dfb9f2434ac1e7bf6efabf69e09996ebfdc402d0baeae87a766",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 976,
-        "side": "91717504595305587097814204831/2886179139290500000000000000",
-        "valid": true
+        "side": "346720794002668731660613368211866295670757509/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 14983,
+        "near_pairs": 1957
       }
     },
     "977": {
       "n": 977,
       "kind": "certificate",
-      "bound": "174816795585861072001583072691923319919/5497558138880000000000000000000000000",
-      "rounded_up": "31.798989873253",
+      "bound": "14376377059122388341666501428840150877277317088783487128054919269609/452101689910127747074213316643889578318954548626545000000000000000",
+      "rounded_up": "31.798989873230",
       "certificate": "certificates/0000-0999/n977.cert",
-      "certificate_sha256": "9175e095b67a2daea98bfd262fc92bb15b29474347d4a5b4ba4720611613315d",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "a406db4f62316f69023a860db9c2ba2a99ca49f0008c35f71e6945c7592e17ce",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 977,
-        "side": "174816795585861072001583072691923319919/5497558138880000000000000000000000000",
-        "valid": true
+        "side": "14376377059122388341666501428840150877277317088783487128054919269609/452101689910127747074213316643889578318954548626545000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15040,
+        "near_pairs": 2034
       }
     },
     "978": {
       "n": 978,
       "kind": "certificate",
-      "bound": "40125609914120383827586417/1260816849379000000000000",
-      "rounded_up": "31.825090165859",
+      "bound": "246639995759877140152502194052059877530734955904309619796676318976791/7749860078151587127519501704860078151587127519493955000000000000000",
+      "rounded_up": "31.825090165848",
       "certificate": "certificates/0000-0999/n978.cert",
-      "certificate_sha256": "048b4c6f6920ff26ab4d42dc936f50a31ee24f2d230fd437c525afdaf7af29ae",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6504bfa1e981985b3a9a8da3cab9e1c31ab893fe48913a5dcba4c4d801114356",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 978,
-        "side": "40125609914120383827586417/1260816849379000000000000",
-        "valid": true
+        "side": "246639995759877140152502194052059877530734955904309619796676318976791/7749860078151587127519501704860078151587127519493955000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15023,
+        "near_pairs": 2048
       }
     },
     "979": {
       "n": 979,
       "kind": "certificate",
-      "bound": "40125609914120383827586417/1260816849379000000000000",
-      "rounded_up": "31.825090165859",
+      "bound": "127946905752716383808431781047090805114319771/4020315577617358700154868855000000000000000",
+      "rounded_up": "31.825090165818",
       "certificate": "certificates/0000-0999/n979.cert",
-      "certificate_sha256": "178631f8ed8d102dde81602769a8c0e437faaec48775c617f719143db26f3398",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6cd55b9794183ac60118c0f3d79affa35a91e251c8ae74f1d3fc4c0a18b57abf",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 979,
-        "side": "40125609914120383827586417/1260816849379000000000000",
-        "valid": true
+        "side": "127946905752716383808431781047090805114319771/4020315577617358700154868855000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15038,
+        "near_pairs": 2031
       }
     },
     "980": {
       "n": 980,
       "kind": "certificate",
-      "bound": "203340479191232270150931337878542617583712361247096645573818527008385318519252102638591/6388812653252268862214636356218488971098407022146362923303624385757184000000000000000",
-      "rounded_up": "31.827585222385",
+      "bound": "347259896479157384516914516808340948434594609/10910657973362688517912657920000000000000000",
+      "rounded_up": "31.827585222354",
       "certificate": "certificates/0000-0999/n980.cert",
-      "certificate_sha256": "639fd9bc38d66849db8db96e6237d3eece17ad6674e28c15cf1a1e93d8c2f325",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "aab1b5e4e0c7738c78678532a409595dc3dd3846d2d1b428f74686941bfe0b54",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 980,
-        "side": "203340479191232270150931337878542617583712361247096645573818527008385318519252102638591/6388812653252268862214636356218488971098407022146362923303624385757184000000000000000",
-        "valid": true
+        "side": "347259896479157384516914516808340948434594609/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15092,
+        "near_pairs": 2193
       }
     },
     "981": {
@@ -10133,71 +10798,96 @@
     "985": {
       "n": 985,
       "kind": "certificate",
-      "bound": "151772453123382777232691846593/4754729891171500000000000000",
-      "rounded_up": "31.920310216821",
+      "bound": "348271587179028036878106615419763391285593659/10910657973362688517912657920000000000000000",
+      "rounded_up": "31.920310216790",
       "certificate": "certificates/0000-0999/n985.cert",
-      "certificate_sha256": "2214e611a6dfad461f537632c743514ecba5093c397d6b922166040c2cd4dcc0",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "ad476d4ac799a47a75f5369a83d98879f275d7861755897117cc9831743e4b9d",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 985,
-        "side": "151772453123382777232691846593/4754729891171500000000000000",
-        "valid": true
+        "side": "348271587179028036878106615419763391285593659/10910657973362688517912657920000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15289,
+        "near_pairs": 2102
       }
     },
     "986": {
       "n": 986,
       "kind": "certificate",
-      "bound": "151772453123382777232691846593/4754729891171500000000000000",
-      "rounded_up": "31.920310216821",
+      "bound": "905328859473489016479838021586491087108031321/28362157301256216358851057105000000000000000",
+      "rounded_up": "31.920310216790",
       "certificate": "certificates/0000-0999/n986.cert",
-      "certificate_sha256": "c6789e5898ad62db03b65e142e5dca19263a0b3e8f94cce5af27a1371ee30c04",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "c9838c9243e0745497392803ea7895abc41070208e711eb65fe8cbfde74422c3",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 986,
-        "side": "151772453123382777232691846593/4754729891171500000000000000",
-        "valid": true
+        "side": "905328859473489016479838021586491087108031321/28362157301256216358851057105000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15308,
+        "near_pairs": 2106
       }
     },
     "987": {
       "n": 987,
       "kind": "certificate",
-      "bound": "8251690186164048093520156538108110916605750307379661596183383970659/258335189028255697872192327583351890282556978721923250000000000000",
-      "rounded_up": "31.941797078452",
+      "bound": "116681398612959320638003004851774213240130393/3652937820842104287228067840000000000000000",
+      "rounded_up": "31.941797078293",
       "certificate": "certificates/0000-0999/n987.cert",
-      "certificate_sha256": "63f4b5ed689c65ec6d8711142e6f61ba0f3ab6e2d59c0e3e7c39c17d11cd6fae",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "ba22a23e7c77db707f6886fe9c76f4809eeba641786fb44c39852fb5d625c298",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 987,
-        "side": "8251690186164048093520156538108110916605750307379661596183383970659/258335189028255697872192327583351890282556978721923250000000000000",
-        "valid": true
+        "side": "116681398612959320638003004851774213240130393/3652937820842104287228067840000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15265,
+        "near_pairs": 2283
       }
     },
     "988": {
       "n": 988,
       "kind": "certificate",
-      "bound": "144905786426265101551104872702307199989853609428833568481446593615050986003791678492024833511/4535428224262524319815774723197613864094732808783296778433316214694896106255500000000000000",
-      "rounded_up": "31.949747468406",
+      "bound": "500990374057025852742819206625708565159333587/15680573830948138420598210560000000000000000",
+      "rounded_up": "31.949747468313",
       "certificate": "certificates/0000-0999/n988.cert",
-      "certificate_sha256": "f548242241d8caba893b002c9fb3fb47d91eb52f93cfb4ea97ea9762f2f001a1",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "0258244ea586d3f72f86fb33a66cc831a66cf6b3277cceeb1bf8e2b0728f947d",
+      "credit": "Mishapolk (continuous SLP quench refinement of Couzo topology)",
       "verification": {
         "n": 988,
-        "side": "144905786426265101551104872702307199989853609428833568481446593615050986003791678492024833511/4535428224262524319815774723197613864094732808783296778433316214694896106255500000000000000",
-        "valid": true
+        "side": "500990374057025852742819206625708565159333587/15680573830948138420598210560000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15357,
+        "near_pairs": 1997
       }
     },
     "989": {
       "n": 989,
       "kind": "certificate",
-      "bound": "37355754284044301565653322311414638481/1168311688234298539705690500000000000",
-      "rounded_up": "31.974133837950",
+      "bound": "20589537350408626478852970719721679566193127/643943889252453802217308160000000000000000",
+      "rounded_up": "31.974117146000",
       "certificate": "certificates/0000-0999/n989.cert",
-      "certificate_sha256": "dfb675c87ebedaf9d21e4abf8bf204213c175752d2ac54c644d2dd4f229e5c9b",
-      "credit": "Mishapolk / Mykhailo Polkovskyi (exact certified macro-layout)",
+      "certificate_sha256": "6f03782c8de3a691cebf6f9387b9c4cce9d5917ce15c1d394fe1ccdd8322e968",
+      "credit": "Mishapolk (major structural quench refinement of Couzo topology)",
       "verification": {
         "n": 989,
-        "side": "37355754284044301565653322311414638481/1168311688234298539705690500000000000",
-        "valid": true
+        "side": "20589537350408626478852970719721679566193127/643943889252453802217308160000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1,
+        "candidate_pairs": 15330,
+        "near_pairs": 2395
       }
     },
     "990": {
