@@ -7504,45 +7504,11 @@
       }
     },
     "303": {
-      "verified": {
-        "bound": "223874478638373849767708018731100462502930758319276667065271354307189968584331641646777792095999047220400719209/12500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-        "source": "certificates/best/n303.cert",
-        "source_n": 303,
-        "deleted_squares": 0,
-        "status": "exact certificate verified",
-        "credit": "Mykhailo Polkovskyi (Mishapolk)",
-        "sha256": "13d7b62f8e938c26fe40034ca1a96794b852ad26ad7d144010e2e78b639c1fc5",
-        "rounded_up": "17.909958291070"
-      },
-      "reported": {
-        "bound": "223874478638373849767708018731100462502930758319276667065271354307189968584331641646777792095999047220400719209/12500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-        "exact_bound": {
-          "rational": "223874478638373849767708018731100462502930758319276667065271354307189968584331641646777792095999047220400719209/12500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-          "sqrt2": "0",
-          "expression": "223874478638373849767708018731100462502930758319276667065271354307189968584331641646777792095999047220400719209/12500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 + 0*sqrt(2)"
-        },
-        "source": "https://github.com/jlevy/squares/issues/593",
-        "credit": "Mykhailo Polkovskyi (Mishapolk)",
-        "status": "reviewed public upper bound",
-        "origin": {
-          "source": "verified public certificate",
-          "credit": "Mykhailo Polkovskyi (Mishapolk)",
-          "provenance": {
-            "category": "mishapolk",
-            "source_revision": "70a033f0ecfa9e643cd5fb5dbac190cb7f4ffb94",
-            "certificate_url": "https://github.com/Mishapolk/square-packing-records/blob/70a033f0ecfa9e643cd5fb5dbac190cb7f4ffb94/certificates/n303.cert",
-            "request": "https://github.com/jlevy/squares/issues/593",
-            "construction_credit": [
-              "Nate Chaoweeraprasit (itsnaka)"
-            ]
-          },
-          "certificate_sha256": "13d7b62f8e938c26fe40034ca1a96794b852ad26ad7d144010e2e78b639c1fc5",
-          "source_n": 303,
-          "tiles_per_side": 1,
-          "L_layers": 0,
-          "capacity": 303
-        }
-      }
+      "n": 303,
+      "side": "17.90977221725620",
+      "side_exact": "322891854238658113908197448495564809659442304656476373543906871997038053/18028808536579224568667370014525000000000000000000000000000000000000000",
+      "credit": "Mykhailo Polkovskyi (Mishapolk); packing by Evan Daniel",
+      "status": "verified construction"
     },
     "304": {
       "verified": {
