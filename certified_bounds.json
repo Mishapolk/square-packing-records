@@ -1237,11 +1237,20 @@
     },
     "154": {
       "n": 154,
-      "kind": "reference",
-      "bound": "1615137617595210068732072760947/125000000000000000000000000000",
+      "kind": "certificate",
+      "bound": "32302752351904201374318427695452754708149/2500000000000000000000000000000000000000",
       "rounded_up": "12.921100940762",
-      "credit": "Evan Daniel",
-      "status": "exact certificate verified"
+      "certificate": "certificates/0000-0999/n154.cert",
+      "certificate_sha256": "0a834f386c5aa2905e733fb840bd5b7c68aee872998c57439835b315a984c4ec",
+      "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+      "verification": {
+        "n": 154,
+        "side": "32302752351904201374318427695452754708149/2500000000000000000000000000000000000000",
+        "valid": true,
+        "strict_valid": true,
+        "wall_margin_sign": 1,
+        "pair_margin_sign": 1
+      }
     },
     "155": {
       "n": 155,

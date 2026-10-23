@@ -3655,48 +3655,23 @@
     },
     "154": {
       "verified": {
-        "bound": "1615137617595210068732072760947/125000000000000000000000000000",
-        "source": "https://github.com/jlevy/squares/issues/694",
-        "status": "exact certificate verified",
-        "credit": "Evan Daniel",
-        "sha256": "c2242dcda1ae3d4c9d580af14ed9adf425780320d94846c3c96f5c3ee486d78d",
+        "bound": "32302752351904201374318427695452754708149/2500000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n154.cert",
+        "source_n": 154,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+        "sha256": "0a834f386c5aa2905e733fb840bd5b7c68aee872998c57439835b315a984c4ec",
         "rounded_up": "12.921100940762"
       },
       "reported": {
-        "bound": "1615137617595210068732072760947/125000000000000000000000000000",
-        "exact_bound": {
-          "rational": "1615137617595210068732072760947/125000000000000000000000000000",
-          "sqrt2": "0",
-          "expression": "1615137617595210068732072760947/125000000000000000000000000000 + 0*sqrt(2)"
-        },
-        "source": "https://github.com/jlevy/squares/issues/694",
-        "credit": "Evan Daniel",
-        "status": "reviewed public upper bound",
-        "origin": {
-          "source": "verified public certificate",
-          "credit": "Evan Daniel",
-          "provenance": {
-            "n": 154,
-            "side": "1615137617595210068732072760947/125000000000000000000000000000",
-            "certificate": "/root/square-packing/experiments/records-check-20261020-0640/frozen-certificates/c2242dcda1ae3d4c9d580af14ed9adf425780320d94846c3c96f5c3ee486d78d.cert",
-            "certificate_sha256": "c2242dcda1ae3d4c9d580af14ed9adf425780320d94846c3c96f5c3ee486d78d",
-            "category": "public: Evan Daniel",
-            "source": "https://github.com/jlevy/squares/issues/694",
-            "credit": "Evan Daniel",
-            "source_commit": "1d2bb82035af4b7eb4658488543e46b67d1099ca",
-            "source_file": "search/packer/candidates/s154_sw.cert",
-            "rounded_up": "12.921100940762",
-            "previous": "12.921206577133",
-            "gain": 0.00010563637095050008,
-            "precision_refinement": false,
-            "source_url": "https://github.com/jlevy/squares/issues/694"
-          },
-          "certificate_sha256": "c2242dcda1ae3d4c9d580af14ed9adf425780320d94846c3c96f5c3ee486d78d",
-          "source_n": 154,
-          "tiles_per_side": 1,
-          "L_layers": 0,
-          "capacity": 154
-        }
+        "bound": "32302752351904201374318427695452754708149/2500000000000000000000000000000000000000",
+        "source": "certificates/0000-0999/n154.cert",
+        "source_n": 154,
+        "deleted_squares": 0,
+        "status": "exact certificate verified (strict open container)",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); packing refined from Evan Daniel",
+        "sha256": "0a834f386c5aa2905e733fb840bd5b7c68aee872998c57439835b315a984c4ec"
       }
     },
     "155": {
