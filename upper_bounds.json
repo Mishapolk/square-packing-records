@@ -338,8 +338,8 @@
           "sqrt2": "0",
           "expression": "93510601872091/20000000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -348,7 +348,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 17
-        }
+        },
+        "sha256": ""
       }
     },
     "18": {
@@ -595,8 +596,8 @@
           "sqrt2": "0",
           "expression": "116488892333481/20000000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -605,7 +606,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 28
-        }
+        },
+        "sha256": ""
       }
     },
     "29": {
@@ -840,8 +842,8 @@
           "sqrt2": "0",
           "expression": "42567013019179/6250000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -850,7 +852,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 39
-        }
+        },
+        "sha256": ""
       }
     },
     "40": {
@@ -1218,8 +1221,8 @@
           "sqrt2": "0",
           "expression": "794577100750391/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -1228,7 +1231,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 55
-        }
+        },
+        "sha256": ""
       }
     },
     "56": {
@@ -1541,8 +1545,8 @@
           "sqrt2": "0",
           "expression": "882719465572973/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -1551,7 +1555,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 69
-        }
+        },
+        "sha256": ""
       }
     },
     "70": {
@@ -1836,8 +1841,8 @@
           "sqrt2": "0",
           "expression": "240868941215777/25000000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -1846,7 +1851,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 83
-        }
+        },
+        "sha256": ""
       }
     },
     "84": {
@@ -1978,8 +1984,8 @@
           "sqrt2": "0",
           "expression": "491940763497413/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -1988,7 +1994,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 87
-        }
+        },
+        "sha256": ""
       }
     },
     "88": {
@@ -2357,8 +2364,8 @@
           "sqrt2": "0",
           "expression": "535355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -2367,7 +2374,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 104
-        }
+        },
+        "sha256": ""
       }
     },
     "105": {
@@ -2440,8 +2448,8 @@
           "sqrt2": "0",
           "expression": "271166679821087/25000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -2450,7 +2458,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 107
-        }
+        },
+        "sha256": ""
       }
     },
     "108": {
@@ -2503,8 +2512,8 @@
           "sqrt2": "0",
           "expression": "1094974746830583/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -2513,7 +2522,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 109
-        }
+        },
+        "sha256": ""
       }
     },
     "110": {
@@ -2861,8 +2871,8 @@
           "sqrt2": "0",
           "expression": "585355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -2871,7 +2881,8 @@
           "tiles_per_side": 1,
           "L_layers": 1,
           "capacity": 125
-        }
+        },
+        "sha256": ""
       }
     },
     "126": {
@@ -3480,8 +3491,8 @@
           "sqrt2": "0",
           "expression": "635355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -3490,7 +3501,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 149
-        }
+        },
+        "sha256": ""
       }
     },
     "150": {
@@ -3508,8 +3520,8 @@
           "sqrt2": "0",
           "expression": "638908729652601/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -3518,7 +3530,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 150
-        }
+        },
+        "sha256": ""
       }
     },
     "151": {
@@ -3536,8 +3549,8 @@
           "sqrt2": "0",
           "expression": "1282287565553229/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -3546,7 +3559,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 151
-        }
+        },
+        "sha256": ""
       }
     },
     "152": {
@@ -3897,8 +3911,8 @@
           "sqrt2": "0",
           "expression": "1353553390593273/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -3907,7 +3921,8 @@
           "tiles_per_side": 1,
           "L_layers": 5,
           "capacity": 170
-        }
+        },
+        "sha256": ""
       }
     },
     "171": {
@@ -3925,8 +3940,8 @@
           "sqrt2": "0",
           "expression": "1357142857142857/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -3935,7 +3950,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 171
-        }
+        },
+        "sha256": ""
       }
     },
     "172": {
@@ -4044,8 +4060,8 @@
           "sqrt2": "0",
           "expression": "685355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -4054,7 +4070,8 @@
           "tiles_per_side": 1,
           "L_layers": 1,
           "capacity": 174
-        }
+        },
+        "sha256": ""
       }
     },
     "175": {
@@ -4146,8 +4163,8 @@
           "sqrt2": "0",
           "expression": "906288644933428839187234514220243685066471687136133101661113998922232749134855447389198224880725900572238375406120930105396223448142709234526047329361944735973893636616734447188577405463193284143/65563913306849902516157965465262476215998173698659741184875633460858533981974659257376162080491423150440892379673726334122849290747737166756097048597718054578082282568276704388473785050625798149 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/pull/574",
-        "credit": "PingYou Ltd (BuddenPing)",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: PingYou Ltd (BuddenPing)",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "verified public certificate",
@@ -4164,7 +4181,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 177
-        }
+        },
+        "sha256": ""
       }
     },
     "178": {
@@ -4627,8 +4645,8 @@
           "sqrt2": "0",
           "expression": "1457142857142857/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -4637,7 +4655,8 @@
           "tiles_per_side": 1,
           "L_layers": 1,
           "capacity": 198
-        }
+        },
+        "sha256": ""
       }
     },
     "199": {
@@ -4743,8 +4762,8 @@
           "sqrt2": "0",
           "expression": "735355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -4753,7 +4772,8 @@
           "tiles_per_side": 1,
           "L_layers": 2,
           "capacity": 201
-        }
+        },
+        "sha256": ""
       }
     },
     "202": {
@@ -4771,8 +4791,8 @@
           "sqrt2": "0",
           "expression": "294558441227157/20000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -4781,7 +4801,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 202
-        }
+        },
+        "sha256": ""
       }
     },
     "203": {
@@ -4799,8 +4820,8 @@
           "sqrt2": "0",
           "expression": "738908729652601/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -4809,7 +4830,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 203
-        }
+        },
+        "sha256": ""
       }
     },
     "204": {
@@ -4848,8 +4870,8 @@
           "sqrt2": "0",
           "expression": "185305639326551/12500000000000 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/blob/f8d547728c7761f78f29cf52c8974e1eba04ad4d/packing/frontier/STATUS.md",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "public registry",
@@ -4858,7 +4880,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 205
-        }
+        },
+        "sha256": ""
       }
     },
     "206": {
@@ -5439,8 +5462,8 @@
           "sqrt2": "0",
           "expression": "1568292682926829/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -5449,7 +5472,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 230
-        }
+        },
+        "sha256": ""
       }
     },
     "231": {
@@ -5467,8 +5491,8 @@
           "sqrt2": "0",
           "expression": "785355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -5477,7 +5501,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 231
-        }
+        },
+        "sha256": ""
       }
     },
     "232": {
@@ -5532,8 +5557,8 @@
           "sqrt2": "0",
           "expression": "788908729652601/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -5542,7 +5567,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 233
-        }
+        },
+        "sha256": ""
       }
     },
     "234": {
@@ -5560,8 +5586,8 @@
           "sqrt2": "0",
           "expression": "1582287565553229/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -5570,7 +5596,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 234
-        }
+        },
+        "sha256": ""
       }
     },
     "235": {
@@ -6014,8 +6041,8 @@
           "sqrt2": "0",
           "expression": "1653553390593273/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -6024,7 +6051,8 @@
           "tiles_per_side": 1,
           "L_layers": 8,
           "capacity": 257
-        }
+        },
+        "sha256": ""
       }
     },
     "258": {
@@ -6042,8 +6070,8 @@
           "sqrt2": "0",
           "expression": "13220934736828613102271843308454372406460816342989069583622609923624430998235920548293470437916523362779651015314826696905560223843841644862920375789977265721393972337944809073640941051540078779439516468964666147968317410260311247099265672423892971198109567674845153012443254737295352802995381720983415139221062874587083677029894981821420835783285294737429316838021725518569212205430572918858399568869645010169804745671857705471422096662623525710059238815408901964774826623/798199428954975053380478978238773958870027732188645815347161058364729759728099292274979161765325629998140854374528249007230205885923569772564262662309556671350836249925814479719351508062117197509741953768217326098626552510714339413231611432562980369429658013837445262990429924554456258974480774323135309004426298449614874979635475011138670792696105293726618775596333099742457327110026681632651245102952709151539314141569156910021240484994695985144014660709417722985743585 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/pull/574",
-        "credit": "PingYou Ltd (BuddenPing)",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: PingYou Ltd (BuddenPing)",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "verified public certificate",
@@ -6060,7 +6088,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 258
-        }
+        },
+        "sha256": ""
       }
     },
     "259": {
@@ -6165,8 +6194,8 @@
           "sqrt2": "0",
           "expression": "835355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -6175,7 +6204,8 @@
           "tiles_per_side": 1,
           "L_layers": 1,
           "capacity": 262
-        }
+        },
+        "sha256": ""
       }
     },
     "263": {
@@ -6267,8 +6297,8 @@
           "sqrt2": "0",
           "expression": "838908729652601/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -6277,7 +6307,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 265
-        }
+        },
+        "sha256": ""
       }
     },
     "266": {
@@ -6329,8 +6360,8 @@
           "sqrt2": "0",
           "expression": "2405831741238427835575830183414653566109665947317277701185012039460867248827698726544955433584428652871319190591113632845060035088768288929736496996581608950044352820334231689876932005377309951441/142874169154408677241474314008763111190577911529142696020201529661424466443739201298737701430250296004349251940654786408725001950368288929736496996581608950044352820334231689876932005377309951441 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/pull/574",
-        "credit": "PingYou Ltd (BuddenPing)",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: PingYou Ltd (BuddenPing)",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "verified public certificate",
@@ -6348,7 +6379,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 267
-        }
+        },
+        "sha256": ""
       }
     },
     "268": {
@@ -6873,8 +6905,8 @@
           "sqrt2": "0",
           "expression": "20047103413755584455879080255884298037751215428810904033737511497868751819606552709154837919886113759455988835519855452059463103910164166985482240621307507136306665158273351987988258495474230275511245439173072988231715624554433589401854150473241980122871330162370758350469195504165291633/1139598230903040400412205030911189415514440979756747895174049339999315142596009335369035683328058364445657959270298091180498586055114033957638749760610372225169205222580281174315644106739848666568411839296934870271121249867327660361250324906024953647535769808701675303428780097105074116 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/pull/574",
-        "credit": "PingYou Ltd (BuddenPing)",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: PingYou Ltd (BuddenPing)",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "verified public certificate",
@@ -6891,7 +6923,8 @@
           "tiles_per_side": 1,
           "L_layers": 1,
           "capacity": 292
-        }
+        },
+        "sha256": ""
       }
     },
     "293": {
@@ -6909,8 +6942,8 @@
           "sqrt2": "0",
           "expression": "1763414634146341/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -6919,7 +6952,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 293
-        }
+        },
+        "sha256": ""
       }
     },
     "294": {
@@ -7000,8 +7034,8 @@
           "sqrt2": "0",
           "expression": "885355339059327/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -7010,7 +7044,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 296
-        }
+        },
+        "sha256": ""
       }
     },
     "297": {
@@ -7065,8 +7100,8 @@
           "sqrt2": "0",
           "expression": "888908729652601/50000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -7075,7 +7110,8 @@
           "tiles_per_side": 1,
           "L_layers": 1,
           "capacity": 298
-        }
+        },
+        "sha256": ""
       }
     },
     "299": {
@@ -7093,8 +7129,8 @@
           "sqrt2": "0",
           "expression": "1782287565553229/100000000000000 + 0*sqrt(2)"
         },
-        "source": "https://kingbird.myphotos.cc/packing/squares_in_squares.html",
-        "credit": "original authors in the public source",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: original authors in the public source",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "Friedman/Ellsworth historical catalogue",
@@ -7103,7 +7139,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 299
-        }
+        },
+        "sha256": ""
       }
     },
     "300": {
@@ -7150,8 +7187,8 @@
           "sqrt2": "0",
           "expression": "19592376048580791263388904244867804411717042726099284442698876551202583273027523359478845601491239101305989268708025180328344089721713490122576888270863543276781084553527641406804125635517595349960074190985500002838859428656329745330815704256682519602694965363021682207049389048820167477/1097817079058734865977221072767430979886800303866304796848653060468157082681675902321722484363126741996260738869783762265715942698644923411375105877226266367936978291996289797256545931609497753177172021071725695931362837015876540337170855030926920769109034953737509806753905714959135298 + 0*sqrt(2)"
         },
-        "source": "https://github.com/jlevy/squares/pull/574",
-        "credit": "PingYou Ltd (BuddenPing)",
+        "source": "https://github.com/Mishapolk/square-packing-records",
+        "credit": "Mykhailo Polkovskyi (Mishapolk); origin: PingYou Ltd (BuddenPing)",
         "status": "reviewed public upper bound",
         "origin": {
           "source": "verified public certificate",
@@ -7168,7 +7205,8 @@
           "tiles_per_side": 1,
           "L_layers": 0,
           "capacity": 301
-        }
+        },
+        "sha256": ""
       }
     },
     "302": {
