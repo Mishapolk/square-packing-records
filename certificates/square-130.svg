@@ -1,145 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-    <!ENTITY  s "11.904483032515786433691573620308191">
-    <!ENTITY hs  "5.9522415162578932168457868101540953">
-]>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-&hs; -&hs; &s; &s;" style="fill:#B2B2B2; stroke:black; stroke-width:0.002" id="svg">
-    <script xlink:href="svgDisp.js"/>
-    <defs>
-        <rect width="&s;" height="&s;" id="outer" x="-&hs;" y="-&hs;"/>
-        <rect width="1"   height="1"   id="one"/>
-    </defs>
-    <use xlink:href="#outer" style="fill:white; stroke:none"/>
-    <g>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932    -5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932    -5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4522415162578932    -5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.4522415162578932    -5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.4522415162578932    -5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.4522415162578932    -5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932    -4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4522415162578932    -4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.4522415162578932    -4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.4522415162578932    -4.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932    -3.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4522415162578932    -3.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.4522415162578932    -3.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932    -2.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4522415162578932    -0.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932    -1.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4522415162578932    -2.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932    -0.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932     0.5477584837421068) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4479984671561370     5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.0031538635563395    -3.6957393280750006) rotate( 54.7797538373035167) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4479984671561370     5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4479984671561370     5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4522415162578932     2.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.4479984671561369     5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.5520015328438631     5.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.5520015328438630     5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.5520015328438630     5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932     5.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932     4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4479984671561370     5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4522415162578932     4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4522415162578932     4.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4479984671561370     5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.4522415162578932     4.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.5477584837421068     4.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.5477584837421068     0.2886014610817957) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.5477584837421068     4.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932     3.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932     4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4522415162578932     3.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4522415162578932     3.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4522415162578932     4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.4522415162578932     3.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.5477584837421068     3.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.5477584837421068     4.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932     2.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932     3.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4522415162578932     2.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4522415162578932     1.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4522415162578932     3.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.4522415162578932     2.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.5477584837421068     2.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.5477584837421068     3.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932     1.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932     2.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4522415162578932     1.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4522415162578932     0.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4522415162578932     1.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.4522415162578932    -0.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.5477584837421068     1.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.5477584837421068     2.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932     0.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932     1.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4522415162578932     0.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4522415162578932    -0.5477584837421068) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4522415162578932     0.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.4522415162578932     1.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.5477584837421068     0.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.5477584837421068     1.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932    -0.5477584837421068) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932     0.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4522415162578932    -1.5477584837421068) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4522415162578932     2.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4522415162578932    -0.5477584837421068) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.4522415162578932     0.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.5477584837421068    -0.5477584837421068) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.7547234858653877    -1.0226477164924324) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932    -1.5477584837421068) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932    -0.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.3485578808287215    -2.5477584837421068) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.4522415162578932    -1.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.4522415162578932    -0.5477584837421068) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932    -2.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    5.4522415162578932    -3.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.4522415162578932    -4.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.4522415162578932    -5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.0454520635590707    -1.7433360695586000) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.3118874570644369    -1.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4522415162578932    -1.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4715378478899614     4.6795559208377409) rotate( 35.2202461626964904) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.2554104231447232     4.0559923380013805) rotate( 35.2202461626964904) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.6957393280750006     4.0031538635563395) rotate( 35.2202461626964904) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4796119033297623     3.3795902807199787) rotate( 35.2202461626964904) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.2554104231447232     2.7445895768552773) rotate( 35.2202461626964904) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.5477584837421068     3.3485578808287215) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.6105559320727023     2.7620276558953143) rotate( 37.3266684487039697) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.3848066973474715     2.1282071639084066) rotate( 37.3266684487039697) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -5.4522415162578932     1.5477584837421068) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.7589168584079360     2.1449417158564268) rotate( 39.3045899275624890) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.5327063259224425     1.5114988534263445) rotate( 39.3045899275624890) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.2486253512855985     0.8073636819135858) rotate( 39.3045899275624890) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.6711662440830537     0.9244353128478554) rotate( 39.3045899275624890) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.3980423528349473     0.1886837168490959) rotate( 43.2959045905465132) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -4.4522415162578932    -1.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.5576022004415919    -0.4149381581032773) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.5520015328438630     5.4522415162578932) rotate( 90.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.6815550213066794    -4.4687060672338168) rotate( 54.7797538373035167) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.0620027334547935    -5.2554104231447232) rotate( 54.7797538373035167) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932    -2.5477584837421068) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    3.3836015757044526    -4.4824436839859061) rotate( 54.7797538373035167) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.7445895768552773    -5.2554104231447232) rotate( 54.7797538373035167) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.7694490168061554    -3.6120502934684988) rotate( 53.3601400136698558) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.1280643844875629    -4.3859660529583770) rotate( 52.8807298628635678) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.5477584837421068    -5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.5477584837421068    -5.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    2.1489650130373401    -2.7706692810621010) rotate( 53.3601400136698558) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    1.4851077203112661    -3.5575108635232633) rotate( 49.8739804874897388) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.7523083551481952    -4.2476916448518045) rotate( 49.8739804874897388) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    4.4522415162578932    -1.5477584837421068) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.8934138619254777    -2.6846027342527141) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(    0.1643512918693595    -3.3708939780753795) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.4522415162578932    -4.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -0.4113141539360617    -2.5266837538958327) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.1067548753220793    -3.2452765141346123) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.4423977995584081    -1.7487018970728203) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -1.7408927849450881    -2.4619288297973791) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.4522415162578932    -2.4522415162578932) rotate(  0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -2.4522415162578932    -3.4522415162578932) rotate( -0.0000000000000000) translate(-.5 -.5)"/>
-        <use xlink:href="#one" transform="translate(   -3.2452765141346123    -1.1409923386836651) rotate( 46.1473830696150173) translate(-.5 -.5)"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <rect width="1000" height="1000" fill="#f8fafc" stroke="#0f172a" stroke-width="4"/>
+  <polygon points="1000.00,915.98 915.98,915.98 915.98,1000.00 1000.00,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,915.98 0.00,915.98 0.00,1000.00 84.02,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="168.03,915.98 84.02,915.98 84.02,1000.00 168.03,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="252.05,915.98 168.03,915.98 168.03,1000.00 252.05,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="336.07,915.98 252.05,915.98 252.05,1000.00 336.07,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="420.08,915.98 336.07,915.98 336.07,1000.00 420.08,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,831.97 0.00,831.97 0.00,915.98 84.02,915.98" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="168.03,831.97 84.02,831.97 84.02,915.98 168.03,915.98" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="252.05,831.97 168.03,831.97 168.03,915.98 252.05,915.98" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="336.07,831.97 252.05,831.97 252.05,915.98 336.07,915.98" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,747.95 0.00,747.95 0.00,831.97 84.02,831.97" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="168.03,747.95 84.02,747.95 84.02,831.97 168.03,831.97" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="252.05,747.95 168.03,747.95 168.03,831.97 252.05,831.97" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,663.93 0.00,663.93 0.00,747.95 84.02,747.95" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="168.03,495.90 84.02,495.90 84.02,579.92 168.03,579.92" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,579.92 0.00,579.92 0.00,663.93 84.02,663.93" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="168.03,663.93 84.02,663.93 84.02,747.95 168.03,747.95" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,495.90 0.00,495.90 0.00,579.92 84.02,579.92" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,411.88 0.00,411.88 0.00,495.90 84.02,495.90" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,0.00 915.98,84.02 1000.00,84.02 1000.00,0.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="825.61,751.72 777.60,820.67 846.54,868.68 894.56,799.74" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.96,0.00 747.94,0.00 747.94,84.02 831.96,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="579.90,0.00 579.90,84.02 663.92,84.02 663.92,0.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,252.05 579.92,252.05 579.92,336.07 663.93,336.07" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="495.88,0.00 495.88,84.02 579.90,84.02 579.90,0.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="411.86,0.00 411.86,84.02 495.87,84.02 495.87,0.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="327.84,0.00 327.84,84.02 411.85,84.02 411.85,0.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="243.82,0.00 243.82,84.02 327.83,84.02 327.83,0.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,0.00 0.00,0.00 0.00,84.02 84.02,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,84.05 915.98,168.07 1000.00,168.07 1000.00,84.05" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,0.00 831.96,0.00 831.96,84.02 915.98,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,84.02 747.95,168.03 831.97,168.03 831.97,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,84.02 663.93,168.03 747.95,168.03 747.95,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.92,0.00 663.92,84.02 747.94,84.02 747.94,0.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="579.92,84.02 495.90,84.02 495.90,168.03 579.92,168.03" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="411.88,84.02 411.88,168.03 495.90,168.03 495.90,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="338.55,423.13 278.87,482.27 338.01,541.95 397.69,482.80" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="327.87,84.02 243.85,84.02 243.85,168.03 327.87,168.03" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,168.10 915.98,252.12 1000.00,252.12 1000.00,168.10" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,84.02 831.97,168.03 915.98,168.03 915.98,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,168.03 747.95,252.05 831.97,252.05 831.97,168.03" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,168.03 663.93,168.03 663.93,252.05 747.95,252.05" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,84.02 579.92,84.02 579.92,168.03 663.93,168.03" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="579.92,168.03 495.90,168.03 495.90,252.05 579.92,252.05" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="495.90,168.03 411.88,168.03 411.88,252.05 495.90,252.05" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="411.88,84.02 327.87,84.02 327.87,168.03 411.88,168.03" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,252.16 915.98,336.17 1000.00,336.17 1000.00,252.16" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,168.03 831.97,252.05 915.98,252.05 915.98,168.03" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,252.05 747.95,252.05 747.95,336.07 831.97,336.07" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,336.07 663.93,336.07 663.93,420.08 747.95,420.08" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,168.03 579.92,168.03 579.92,252.05 663.93,252.05" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="579.92,252.05 495.90,252.05 495.90,336.07 579.92,336.07" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="495.90,252.05 411.88,252.05 411.88,336.07 495.90,336.07" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="411.88,168.03 327.87,168.03 327.87,252.05 411.88,252.05" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="1000.00,336.21 915.98,336.21 915.98,420.22 1000.00,420.22" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,252.05 831.97,336.07 915.98,336.07 915.98,252.05" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,336.07 747.95,336.07 747.95,420.08 831.97,420.08" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,420.08 663.93,420.08 663.93,504.10 747.95,504.10" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,336.07 579.92,336.07 579.92,420.08 663.93,420.08" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="579.92,504.10 495.90,504.10 495.90,588.12 579.92,588.12" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="495.90,336.07 411.88,336.07 411.88,420.08 495.90,420.08" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="411.88,252.05 327.87,252.05 327.87,336.07 411.88,336.07" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="1000.00,420.26 915.98,420.26 915.98,504.28 1000.00,504.28" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,336.07 831.97,336.07 831.97,420.08 915.98,420.08" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,420.08 747.95,420.08 747.95,504.10 831.97,504.10" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,504.10 663.93,504.10 663.93,588.12 747.95,588.12" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,420.08 579.92,420.08 579.92,504.10 663.93,504.10" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="579.92,336.07 495.90,336.07 495.90,420.08 579.92,420.08" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="579.92,420.08 495.90,420.08 495.90,504.10 579.92,504.10" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="411.88,336.07 327.87,336.07 327.87,420.08 411.88,420.08" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="1000.00,504.32 915.98,504.32 915.98,588.34 1000.00,588.34" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,420.08 831.97,420.08 831.97,504.10 915.98,504.10" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,588.12 747.95,588.12 747.95,672.13 831.97,672.13" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,252.05 663.93,252.05 663.93,336.07 747.95,336.07" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,504.10 579.92,504.10 579.92,588.12 663.93,588.12" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="495.90,420.08 411.88,420.08 411.88,504.10 495.90,504.10" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="393.69,486.77 335.75,547.61 396.59,605.55 454.53,544.71" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="335.17,547.06 277.22,607.90 338.07,665.84 396.01,605.00" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="1000.00,588.38 915.98,588.38 915.98,672.39 1000.00,672.39" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,504.10 831.97,504.10 831.97,588.12 915.98,588.12" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="822.53,672.13 738.52,672.13 738.52,756.15 822.53,756.15" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="747.95,588.12 663.93,588.12 663.93,672.13 747.95,672.13" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="831.97,504.10 747.95,504.10 747.95,588.12 831.97,588.12" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="1000.00,672.43 915.98,672.43 915.98,756.45 1000.00,756.45" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="999.98,756.49 915.97,756.49 915.97,840.51 999.98,840.51" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="420.08,831.97 336.07,831.97 336.07,915.98 420.08,915.98" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="504.10,915.98 420.08,915.98 420.08,1000.00 504.10,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="452.53,546.81 394.59,607.65 455.43,665.59 513.37,604.75" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="515.89,602.11 457.95,662.95 518.79,720.89 576.73,660.05" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="663.93,588.12 579.92,588.12 579.92,672.13 663.93,672.13" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="135.04,48.48 66.09,96.50 114.11,165.44 183.05,117.43" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="68.95,100.60 0.00,148.62 48.02,217.56 116.96,169.54" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="200.26,105.44 131.32,153.46 179.33,222.40 248.28,174.39" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="134.17,157.56 65.23,205.58 113.25,274.52 182.19,226.50" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="68.94,210.91 0.00,258.92 48.02,327.87 116.96,279.85" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="327.87,177.47 243.85,177.47 243.85,261.48 327.87,261.48" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="205.41,209.38 137.80,259.25 187.68,326.86 255.29,276.99" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="140.30,262.64 72.69,312.51 122.56,380.12 190.17,330.25" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="84.02,327.87 0.00,327.87 0.00,411.88 84.02,411.88" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="279.55,261.48 210.82,309.80 259.14,378.53 327.87,330.22" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="208.46,315.54 142.99,368.20 195.66,433.66 261.12,381.00" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="149.48,376.26 84.02,428.92 136.68,494.39 202.14,441.72" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="276.60,366.25 215.76,424.19 273.71,485.04 334.55,427.09" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="218.04,426.58 157.20,484.53 215.14,545.37 275.98,487.42" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="168.18,579.92 84.16,579.92 84.16,663.93 168.18,663.93" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="279.51,483.92 219.88,543.11 279.06,602.74 338.69,543.55" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="243.81,0.00 159.80,0.00 159.80,84.02 243.81,84.02" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="882.40,817.20 834.38,886.14 903.32,934.16 951.34,865.22" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="829.82,883.01 781.80,951.95 850.74,999.97 898.76,931.03" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,672.13 831.97,672.13 831.97,756.15 915.98,756.15" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="773.03,817.48 725.01,886.43 793.95,934.44 841.97,865.50" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="720.15,883.04 672.13,951.98 741.08,1000.00 789.09,931.06" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="722.37,744.38 672.73,812.16 740.51,861.80 790.15,794.02" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="669.53,809.86 619.89,877.65 687.68,927.29 737.31,859.50" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="588.12,915.97 588.12,999.98 672.13,999.98 672.13,915.97" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="588.12,915.98 504.10,915.98 504.10,1000.00 588.12,1000.00" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="671.83,672.13 620.72,738.82 687.41,789.92 738.52,723.24" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="619.04,737.53 567.93,804.21 634.62,855.32 685.73,788.63" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="560.08,798.19 508.97,864.88 575.66,915.98 626.77,849.30" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="915.98,588.12 831.97,588.12 831.97,672.13 915.98,672.13" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="572.21,664.79 514.27,725.63 575.11,783.57 633.05,722.73" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="513.69,725.08 455.75,785.92 516.59,843.86 574.53,783.02" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="504.10,831.97 420.08,831.97 420.08,915.98 504.10,915.98" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="454.85,665.04 396.91,725.88 457.75,783.82 515.69,722.98" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="420.08,747.95 336.07,747.95 336.07,831.97 420.08,831.97" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="336.07,663.93 252.05,663.93 252.05,747.95 336.07,747.95" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="394.01,607.10 336.07,667.94 396.91,725.88 454.85,665.04" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="252.05,663.93 168.03,663.93 168.03,747.95 252.05,747.95" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="336.07,747.95 252.05,747.95 252.05,831.97 336.07,831.97" fill="#257260" stroke="#17202a" stroke-width="1.5"/>
+  <polygon points="252.34,577.03 168.37,579.73 171.07,663.70 255.04,661.00" fill="#2399ec" stroke="#17202a" stroke-width="1.5"/>
 </svg>

@@ -2397,7 +2397,10 @@
         "status": "exact certificate verified (strict open container)",
         "credit": "Mykhailo Polkovskyi (Mishapolk)",
         "sha256": "15b8044a4b2e75d31999a6ddff518cfb72fadacad2a7584d1d5e196f5c219bc9"
-      }
+      },
+      "bound": "674331486483935962030222957609/62500000000000000000000000000",
+      "rounded_up": "10.789303783743",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "106": {
       "verified": {
@@ -3047,7 +3050,10 @@
           "L_layers": 0,
           "capacity": 130
         }
-      }
+      },
+      "bound": "5951215322991132879306459820277/500000000000000000000000000000",
+      "rounded_up": "11.902430645983",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "131": {
       "verified": {
@@ -3394,7 +3400,10 @@
           "L_layers": 0,
           "capacity": 146
         }
-      }
+      },
+      "bound": "12583782190151860342291508597077/1000000000000000000000000000000",
+      "rounded_up": "12.583782190152",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "147": {
       "verified": {
@@ -3699,7 +3708,10 @@
           "L_layers": 0,
           "capacity": 156
         }
-      }
+      },
+      "bound": "648958292691713822691804519015415761935308555406679/50000000000000000000000000000000000000000000000000",
+      "rounded_up": "12.979165853835",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "157": {
       "verified": {
@@ -4358,7 +4370,10 @@
           "L_layers": 0,
           "capacity": 182
         }
-      }
+      },
+      "bound": "6985458218107409544582181073397/500000000000000000000000000000",
+      "rounded_up": "13.970916436215",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "183": {
       "verified": {
@@ -5445,7 +5460,10 @@
           "L_layers": 0,
           "capacity": 229
         }
-      }
+      },
+      "bound": "15650161513876431064008548865321/1000000000000000000000000000000",
+      "rounded_up": "15.650161513877",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "230": {
       "verified": {
@@ -6148,7 +6166,10 @@
         "status": "exact certificate verified (strict open container)",
         "credit": "Mykhailo Polkovskyi (Mishapolk); graft refinement of Couzo topology",
         "sha256": "a78bf2b0dc63460211c60588f911e1b69e9e20163ace1340300edc80f0603eba"
-      }
+      },
+      "bound": "4161438312629953048686324163329/250000000000000000000000000000",
+      "rounded_up": "16.645753250520",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "261": {
       "verified": {
@@ -6416,7 +6437,10 @@
           "L_layers": 0,
           "capacity": 268
         }
-      }
+      },
+      "bound": "527323803620963369940181046851/31250000000000000000000000000",
+      "rounded_up": "16.874361715871",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "269": {
       "verified": {
@@ -7141,7 +7165,10 @@
           "capacity": 299
         },
         "sha256": ""
-      }
+      },
+      "bound": "2225461929414467349619294144451/125000000000000000000000000000",
+      "rounded_up": "17.803695435316",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "300": {
       "verified": {
@@ -7306,7 +7333,10 @@
           "L_layers": 0,
           "capacity": 304
         }
-      }
+      },
+      "bound": "8963449450183382079945018248601/500000000000000000000000000000",
+      "rounded_up": "17.926898900367",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "305": {
       "verified": {
@@ -7462,7 +7492,10 @@
           "L_layers": 0,
           "capacity": 308
         }
-      }
+      },
+      "bound": "3599429824254181747030432150463/200000000000000000000000000000",
+      "rounded_up": "17.997149121271",
+      "credit": "Mykhailo Polkovskyi (Mishapolk) & Antigravity Autonomous Research Lab"
     },
     "309": {
       "verified": {
